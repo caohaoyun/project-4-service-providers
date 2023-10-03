@@ -1,15 +1,15 @@
 ID,bed,bath,acre_lot,city,state,zip_code,house_size,price,sold_previously
 Del1,3.0,1.0,0.11,New Castle,Delaware,19720.0,1275.0,68900.0,0
 Del2,4.0,2.0,0.17,New Castle,Delaware,19720.0,2072.0,199900.0,1
-Del3,5.0,,0.05,Wilmington,Delaware,19805.0,2175.0,195000.0,0
+Del3,5.0,1.0,0.05,Wilmington,Delaware,19805.0,2175.0,195000.0,0
 Del4,6.0,2.0,0.07,Wilmington,Delaware,19801.0,2525.0,85000.0,0
-Del5,,,0.03,Wilmington,Delaware,19802.0,,70000.0,0
+Del5,1.0,1.0,0.03,Wilmington,Delaware,19802.0,,70000.0,0
 Del6,3.0,2.0,0.4,Bear,Delaware,19701.0,1975.0,150000.0,1
 Del7,2.0,1.0,0.1,New Castle,Delaware,19720.0,500.0,121000.0,0
 Del8,2.0,2.0,0.05,Wilmington,Delaware,19805.0,1680.0,169000.0,0
 Del9,3.0,2.0,0.03,Wilmington,Delaware,19801.0,3034.0,119900.0,1
 Del10,2.0,2.0,,Wilmington,Delaware,19801.0,,93000.0,0
-Del11,,,0.14,Wilmington,Delaware,19805.0,,50000.0,1
+Del11,1.0,1.0,0.14,Wilmington,Delaware,19805.0,,50000.0,1
 Del12,4.0,2.0,0.04,Wilmington,Delaware,19802.0,1800.0,110000.0,1
 Del13,3.0,1.0,0.15,New Castle,Delaware,19720.0,1375.0,99900.0,1
 Del14,3.0,3.0,0.34,New Castle,Delaware,19720.0,2480.0,355000.0,1
@@ -17,7 +17,7 @@ Del15,4.0,1.0,0.03,Wilmington,Delaware,19805.0,1600.0,130000.0,1
 Del16,3.0,2.0,0.05,Wilmington,Delaware,19802.0,1375.0,65000.0,1
 Del17,4.0,2.0,0.22,New Castle,Delaware,19720.0,1600.0,175000.0,0
 Del18,2.0,2.0,0.02,Wilmington,Delaware,19805.0,2000.0,220000.0,1
-Del19,,,0.07,Wilmington,Delaware,19805.0,,55000.0,1
+Del19,1.0,1.0,0.07,Wilmington,Delaware,19805.0,,55000.0,1
 Del20,3.0,2.0,0.03,Wilmington,Delaware,19805.0,1200.0,194999.0,1
 Del21,2.0,1.0,0.03,Wilmington,Delaware,19805.0,1075.0,156900.0,1
 Del22,3.0,2.0,0.12,New Castle,Delaware,19720.0,1025.0,190000.0,1
@@ -53,8 +53,8 @@ Del51,2.0,1.0,0.1,Wilmington,Delaware,19804.0,975.0,199900.0,1
 Del52,3.0,1.0,0.08,Wilmington,Delaware,19804.0,1050.0,174900.0,1
 Del53,3.0,2.0,0.03,Wilmington,Delaware,19802.0,1050.0,164900.0,1
 Del54,3.0,2.0,0.06,Wilmington,Delaware,19802.0,1425.0,220000.0,1
-Del55,,,0.03,Wilmington,Delaware,19801.0,,19995.0,0
-Del56,,,0.05,Wilmington,Delaware,19802.0,1150.0,100000.0,0
+Del55,1.0,1.0,0.03,Wilmington,Delaware,19801.0,,19995.0,0
+Del56,1.0,1.0,0.05,Wilmington,Delaware,19802.0,1150.0,100000.0,0
 Del57,3.0,2.0,,Wilmington,Delaware,19802.0,,189900.0,0
 Del58,3.0,2.0,0.17,Wilmington,Delaware,19805.0,1650.0,250000.0,1
 Del59,3.0,2.0,0.14,Wilmington,Delaware,19804.0,1752.0,325000.0,0
@@ -81,12 +81,12 @@ Del79,3.0,1.0,0.23,New Castle,Delaware,19720.0,950.0,144999.0,0
 Del80,3.0,2.0,0.04,Wilmington,Delaware,19801.0,1150.0,146000.0,1
 Del81,2.0,2.0,0.42,New Castle,Delaware,19720.0,1300.0,155000.0,1
 Del82,3.0,1.0,0.02,Wilmington,Delaware,19802.0,1150.0,65000.0,1
-Del83,3.0,,0.12,New Castle,Delaware,19720.0,2525.0,450000.0,0
+Del83,3.0,1.0,0.12,New Castle,Delaware,19720.0,2525.0,450000.0,0
 Del84,4.0,3.0,0.21,Bear,Delaware,19701.0,1958.0,400000.0,1
 Del85,4.0,3.0,0.35,New Castle,Delaware,19720.0,1950.0,400000.0,1
 Del86,3.0,3.0,0.12,Wilmington,Delaware,19804.0,1000.0,230000.0,1
 Del87,3.0,2.0,0.09,Wilmington,Delaware,19802.0,1250.0,159000.0,0
-Del88,,,0.03,Wilmington,Delaware,19802.0,1700.0,40000.0,1
+Del88,1.0,1.0,0.03,Wilmington,Delaware,19802.0,1700.0,40000.0,1
 Del89,3.0,1.0,0.03,Wilmington,Delaware,19805.0,1250.0,154900.0,1
 Del90,2.0,2.0,0.03,Wilmington,Delaware,19801.0,1675.0,169900.0,0
 Del91,3.0,2.0,0.02,Wilmington,Delaware,19805.0,1275.0,87240.0,1
@@ -96,11 +96,11 @@ Del94,3.0,1.0,0.1,Wilmington,Delaware,19804.0,1025.0,250000.0,1
 Del95,3.0,1.0,0.04,Wilmington,Delaware,19805.0,2175.0,95000.0,1
 Del96,3.0,1.0,0.04,Wilmington,Delaware,19805.0,1000.0,225000.0,1
 Del97,3.0,2.0,0.07,New Castle,Delaware,19720.0,1225.0,199900.0,1
-Del98,2.0,,0.04,Wilmington,Delaware,19801.0,,599900.0,0
+Del98,2.0,1.0,0.04,Wilmington,Delaware,19801.0,,599900.0,0
 Del99,3.0,2.0,0.16,Wilmington,Delaware,19805.0,1900.0,310000.0,0
 Del100,2.0,1.0,0.32,Wilmington,Delaware,19804.0,950.0,210000.0,0
 Del101,3.0,2.0,0.06,New Castle,Delaware,19720.0,1325.0,249900.0,1
-Del102,,,0.02,Wilmington,Delaware,19805.0,625.0,45000.0,0
+Del102,1.0,1.0,0.02,Wilmington,Delaware,19805.0,625.0,45000.0,0
 Del103,3.0,2.0,0.12,Wilmington,Delaware,19804.0,1475.0,225000.0,1
 Del104,3.0,1.0,0.15,Wilmington,Delaware,19804.0,,250000.0,1
 Del105,4.0,1.0,0.03,Wilmington,Delaware,19805.0,1475.0,74500.0,1
@@ -123,8 +123,8 @@ Del121,2.0,1.0,0.02,Wilmington,Delaware,19801.0,850.0,79999.0,1
 Del122,2.0,1.0,0.04,Wilmington,Delaware,19805.0,950.0,180000.0,1
 Del123,3.0,2.0,0.05,Wilmington,Delaware,19804.0,1765.0,205000.0,1
 Del124,3.0,3.0,0.17,Wilmington,Delaware,19804.0,1643.0,359900.0,1
-Del125,,,0.02,Wilmington,Delaware,19801.0,,135000.0,0
-Del126,,,0.05,Wilmington,Delaware,19801.0,,250000.0,1
+Del125,1.0,1.0,0.02,Wilmington,Delaware,19801.0,,135000.0,0
+Del126,1.0,1.0,0.05,Wilmington,Delaware,19801.0,,250000.0,1
 Del127,3.0,2.0,0.12,Wilmington,Delaware,19804.0,1525.0,261000.0,1
 Del128,3.0,2.0,0.03,Wilmington,Delaware,19805.0,1700.0,124680.0,0
 Del129,3.0,4.0,0.06,Delaware City,Delaware,19706.0,2150.0,309000.0,1
@@ -145,7 +145,7 @@ Del143,5.0,2.0,0.03,Wilmington,Delaware,19805.0,1825.0,119500.0,1
 Del144,2.0,1.0,0.18,Wilmington,Delaware,19808.0,552.0,39999.0,0
 Del145,3.0,2.0,0.03,Wilmington,Delaware,19805.0,1580.0,160000.0,1
 Del146,3.0,2.0,0.07,Wilmington,Delaware,19809.0,1225.0,115000.0,1
-Del147,,,0.17,Wilmington,Delaware,19805.0,3041.0,175000.0,0
+Del147,1.0,1.0,0.17,Wilmington,Delaware,19805.0,3041.0,175000.0,0
 Del148,3.0,3.0,0.05,New Castle,Delaware,19720.0,1925.0,275000.0,1
 Del149,2.0,3.0,0.05,Wilmington,Delaware,19801.0,1575.0,279900.0,0
 Del150,3.0,3.0,0.04,Wilmington,Delaware,19801.0,1550.0,239900.0,1
@@ -235,10 +235,10 @@ Del233,2.0,1.0,,Wilmington,Delaware,19802.0,,145000.0,0
 Del234,3.0,3.0,0.23,New Castle,Delaware,19720.0,1750.0,335000.0,1
 Del235,3.0,1.0,0.22,New Castle,Delaware,19720.0,1000.0,250000.0,1
 Del236,2.0,2.0,,Wilmington,Delaware,19804.0,,280000.0,1
-Del237,,,0.09,Wilmington,Delaware,19805.0,,14900.0,0
+Del237,1.0,1.0,0.09,Wilmington,Delaware,19805.0,,14900.0,0
 Del238,5.0,4.0,0.08,Wilmington,Delaware,19806.0,3550.0,369900.0,1
 Del239,3.0,1.0,0.04,Wilmington,Delaware,19809.0,1200.0,127000.0,0
-Del240,3.0,,0.03,Wilmington,Delaware,19801.0,675.0,245000.0,0
+Del240,3.0,1.0,0.03,Wilmington,Delaware,19801.0,675.0,245000.0,0
 Del241,5.0,2.0,0.14,New Castle,Delaware,19720.0,1625.0,214900.0,1
 Del242,3.0,2.0,0.08,Wilmington,Delaware,19804.0,1250.0,239900.0,0
 Del243,3.0,2.0,0.16,New Castle,Delaware,19720.0,1641.0,300000.0,1
@@ -264,14 +264,14 @@ Del262,3.0,2.0,0.04,Wilmington,Delaware,19805.0,1500.0,170000.0,1
 Del263,3.0,1.0,0.02,Wilmington,Delaware,19805.0,1225.0,184000.0,0
 Del264,4.0,2.0,0.18,New Castle,Delaware,19720.0,1750.0,325000.0,1
 Del265,5.0,1.0,0.03,Wilmington,Delaware,19805.0,1575.0,70000.0,1
-Del266,,,2.5,Wilmington,Delaware,19805.0,,585000.0,1
-Del267,,,0.09,Wilmington,Delaware,19805.0,,89900.0,1
+Del266,1.0,1.0,2.5,Wilmington,Delaware,19805.0,,585000.0,1
+Del267,1.0,1.0,0.09,Wilmington,Delaware,19805.0,,89900.0,1
 Del268,3.0,1.0,0.04,Wilmington,Delaware,19802.0,1125.0,40000.0,0
 Del269,3.0,2.0,0.16,New Castle,Delaware,19720.0,2589.0,224900.0,0
-Del270,4.0,,0.15,Wilmington,Delaware,19804.0,1350.0,210000.0,1
+Del270,4.0,1.0,0.15,Wilmington,Delaware,19804.0,1350.0,210000.0,1
 Del271,3.0,2.0,0.02,Wilmington,Delaware,19801.0,1625.0,238750.0,1
 Del272,4.0,3.0,0.2,New Castle,Delaware,19720.0,1875.0,310000.0,1
-Del273,4.0,,0.16,Wilmington,Delaware,19804.0,1400.0,210000.0,0
+Del273,4.0,1.0,0.16,Wilmington,Delaware,19804.0,1400.0,210000.0,0
 Del274,4.0,3.0,0.05,Wilmington,Delaware,19801.0,2175.0,300000.0,1
 Del275,4.0,3.0,0.09,Wilmington,Delaware,19805.0,2106.0,314900.0,0
 Del276,4.0,2.0,0.05,Wilmington,Delaware,19805.0,1600.0,175000.0,1
@@ -313,18 +313,18 @@ Del311,3.0,3.0,0.17,Newark,Delaware,19702.0,,205000.0,1
 Del312,3.0,2.0,,Claymont,Delaware,19703.0,2500.0,319900.0,0
 Del313,2.0,2.0,,Claymont,Delaware,19703.0,1350.0,244900.0,0
 Del314,3.0,1.0,0.16,Newark,Delaware,19713.0,1125.0,75000.0,1
-Del315,5.0,,0.05,Wilmington,Delaware,19805.0,2175.0,195000.0,0
+Del315,5.0,1.0,0.05,Wilmington,Delaware,19805.0,2175.0,195000.0,0
 Del316,2.0,2.0,,Claymont,Delaware,19703.0,1350.0,244900.0,0
 Del317,3.0,3.0,,Wilmington,Delaware,19803.0,2880.0,862323.0,0
 Del318,5.0,4.0,0.73,Greenville,Delaware,19807.0,,999900.0,0
 Del319,4.0,3.0,0.36,Wilmington,Delaware,19807.0,3000.0,1584500.0,0
 Del320,3.0,1.0,0.03,Wilmington,Delaware,19802.0,1525.0,89900.0,0
 Del321,4.0,2.0,0.3,Wilmington,Delaware,19808.0,4931.0,185000.0,1
-Del322,,,4.07,Bear,Delaware,19701.0,,400000.0,1
+Del322,1.0,1.0,4.07,Bear,Delaware,19701.0,,400000.0,1
 Del323,3.0,3.0,0.09,Delaware City,Delaware,19706.0,2397.0,409995.0,0
-Del324,,,0.71,Hockessin,Delaware,19707.0,,189000.0,0
-Del325,,,,Hockessin,Delaware,19707.0,,1400000.0,0
-Del326,,,4.21,Wilmington,Delaware,19808.0,,559900.0,0
+Del324,1.0,1.0,0.71,Hockessin,Delaware,19707.0,,189000.0,0
+Del325,1.0,1.0,,Hockessin,Delaware,19707.0,,1400000.0,0
+Del326,1.0,1.0,4.21,Wilmington,Delaware,19808.0,,559900.0,0
 Del327,4.0,2.0,0.17,New Castle,Delaware,19720.0,2072.0,199900.0,1
 Del328,3.0,3.0,,Wilmington,Delaware,19803.0,3220.0,881572.0,0
 Del329,3.0,2.0,0.4,Greenville,Delaware,19807.0,3749.0,1806628.0,1
@@ -332,7 +332,7 @@ Del330,3.0,3.0,0.26,Greenville,Delaware,19807.0,2800.0,1350000.0,0
 Del331,2.0,2.0,4.18,Wilmington,Delaware,19803.0,1850.0,550000.0,0
 Del332,3.0,3.0,,Claymont,Delaware,19703.0,2500.0,348000.0,0
 Del333,3.0,2.0,3.88,Newark,Delaware,19702.0,950.0,519900.0,1
-Del334,,,0.03,Wilmington,Delaware,19802.0,,70000.0,0
+Del334,1.0,1.0,0.03,Wilmington,Delaware,19802.0,,70000.0,0
 Del335,3.0,3.0,0.27,Wilmington,Delaware,19807.0,2660.0,1450000.0,1
 Del336,3.0,3.0,,Wilmington,Delaware,19803.0,3463.0,1160426.0,0
 Del337,3.0,2.0,,Claymont,Delaware,19703.0,2500.0,374900.0,0
@@ -355,7 +355,7 @@ Del353,5.0,4.0,1.67,Wilmington,Delaware,19803.0,3825.0,689900.0,1
 Del354,3.0,2.0,0.4,Bear,Delaware,19701.0,1975.0,150000.0,1
 Del355,2.0,1.0,0.1,New Castle,Delaware,19720.0,500.0,121000.0,0
 Del356,2.0,1.0,0.02,Wilmington,Delaware,19805.0,,89900.0,1
-Del357,6.0,,1.04,Wilmington,Delaware,19808.0,2650.0,450000.0,0
+Del357,6.0,1.0,1.04,Wilmington,Delaware,19808.0,2650.0,450000.0,0
 Del358,3.0,3.0,0.26,Greenville,Delaware,19807.0,2800.0,1450000.0,1
 Del359,3.0,3.0,0.17,Newark,Delaware,19713.0,1850.0,354985.0,1
 Del360,4.0,4.0,1.04,Wilmington,Delaware,19807.0,3525.0,889000.0,1
@@ -364,20 +364,20 @@ Del362,5.0,1.0,0.05,Wilmington,Delaware,19805.0,2125.0,119900.0,1
 Del363,3.0,2.0,0.05,Wilmington,Delaware,19802.0,1275.0,60000.0,1
 Del364,6.0,10.0,1.15,Wilmington,Delaware,19806.0,10300.0,3600000.0,1
 Del365,4.0,2.0,0.03,Wilmington,Delaware,19801.0,1425.0,95000.0,1
-Del366,,,2.25,Newark,Delaware,19702.0,,175000.0,0
+Del366,1.0,1.0,2.25,Newark,Delaware,19702.0,,175000.0,0
 Del367,3.0,3.0,12.79,New Castle,Delaware,19720.0,1800.0,625000.0,1
-Del368,16.0,,0.17,Wilmington,Delaware,19806.0,,2194733.0,0
+Del368,16.0,1.0,0.17,Wilmington,Delaware,19806.0,,2194733.0,0
 Del369,3.0,3.0,0.14,Wilmington,Delaware,19805.0,1975.0,369000.0,0
 Del370,3.0,3.0,0.05,Claymont,Delaware,19703.0,1980.0,370200.0,0
 Del371,3.0,3.0,0.05,Claymont,Delaware,19703.0,1980.0,381875.0,0
 Del372,3.0,3.0,0.05,Claymont,Delaware,19703.0,1980.0,379375.0,0
 Del373,3.0,3.0,0.06,Wilmington,Delaware,19808.0,,464900.0,0
 Del374,3.0,3.0,0.06,Wilmington,Delaware,19808.0,,464900.0,0
-Del375,,,1.06,Wilmington,Delaware,19808.0,,399900.0,0
+Del375,1.0,1.0,1.06,Wilmington,Delaware,19808.0,,399900.0,0
 Del376,3.0,3.0,0.1,Wilmington,Delaware,19808.0,,485900.0,0
-Del377,,,1.11,Wilmington,Delaware,19808.0,,399900.0,1
-Del378,,,2.0,Wilmington,Delaware,19807.0,,450000.0,1
-Del379,,,0.67,Greenville,Delaware,19807.0,,899000.0,1
+Del377,1.0,1.0,1.11,Wilmington,Delaware,19808.0,,399900.0,1
+Del378,1.0,1.0,2.0,Wilmington,Delaware,19807.0,,450000.0,1
+Del379,1.0,1.0,0.67,Greenville,Delaware,19807.0,,899000.0,1
 Del380,2.0,2.0,0.05,Wilmington,Delaware,19805.0,1680.0,169000.0,0
 Del381,3.0,2.0,0.03,Wilmington,Delaware,19802.0,1200.0,56000.0,1
 Del382,2.0,1.0,0.03,Wilmington,Delaware,19802.0,900.0,46000.0,1
@@ -385,7 +385,7 @@ Del383,3.0,2.0,0.03,Wilmington,Delaware,19805.0,1200.0,147500.0,1
 Del384,4.0,2.0,0.04,Wilmington,Delaware,19805.0,1800.0,175000.0,0
 Del385,3.0,1.0,0.04,New Castle,Delaware,19720.0,1150.0,165000.0,0
 Del386,3.0,3.0,0.12,Wilmington,Delaware,19802.0,2125.0,35000.0,0
-Del387,,,15.7,Bear,Delaware,19701.0,,940000.0,0
+Del387,1.0,1.0,15.7,Bear,Delaware,19701.0,,940000.0,0
 Del388,2.0,2.0,0.75,Newark,Delaware,19702.0,2750.0,399000.0,1
 Del389,3.0,2.0,0.03,Wilmington,Delaware,19801.0,3034.0,119900.0,1
 Del390,3.0,2.0,0.05,Bear,Delaware,19701.0,1275.0,200000.0,1
@@ -393,7 +393,7 @@ Del391,3.0,1.0,0.17,Newark,Delaware,19713.0,1125.0,180000.0,1
 Del392,4.0,2.0,0.04,Wilmington,Delaware,19802.0,1800.0,110000.0,1
 Del393,3.0,1.0,0.15,New Castle,Delaware,19720.0,1375.0,99900.0,1
 Del394,3.0,2.0,0.19,Newark,Delaware,19713.0,2116.0,230000.0,1
-Del395,6.0,,0.46,Wilmington,Delaware,19809.0,3500.0,442000.0,0
+Del395,6.0,1.0,0.46,Wilmington,Delaware,19809.0,3500.0,442000.0,0
 Del396,3.0,3.0,0.09,Bear,Delaware,19701.0,1750.0,295000.0,1
 Del397,5.0,4.0,0.93,Bear,Delaware,19701.0,5232.0,760900.0,1
 Del398,4.0,1.0,0.03,Wilmington,Delaware,19805.0,1600.0,130000.0,1
@@ -403,7 +403,7 @@ Del401,2.0,2.0,0.05,Newark,Delaware,19711.0,1475.0,570000.0,1
 Del402,3.0,2.0,0.05,Wilmington,Delaware,19802.0,1375.0,65000.0,1
 Del403,4.0,2.0,0.22,New Castle,Delaware,19720.0,1600.0,175000.0,0
 Del404,2.0,2.0,,Wilmington,Delaware,19801.0,,93000.0,0
-Del405,,,0.14,Wilmington,Delaware,19805.0,,50000.0,1
+Del405,1.0,1.0,0.14,Wilmington,Delaware,19805.0,,50000.0,1
 Del406,3.0,2.0,0.03,Wilmington,Delaware,19805.0,1200.0,194999.0,1
 Del407,2.0,1.0,0.03,Wilmington,Delaware,19805.0,1075.0,156900.0,1
 Del408,5.0,2.0,0.19,Wilmington,Delaware,19809.0,2075.0,250000.0,1
@@ -419,23 +419,23 @@ Del417,6.0,5.0,3.55,Greenville,Delaware,19807.0,4435.0,2000000.0,0
 Del418,3.0,1.0,0.05,Newark,Delaware,19711.0,1375.0,570000.0,1
 Del419,3.0,3.0,0.05,Claymont,Delaware,19703.0,1980.0,359900.0,1
 Del420,3.0,3.0,0.11,New Castle,Delaware,19720.0,1750.0,299900.0,0
-Del421,,,0.36,Wilmington,Delaware,19807.0,,425000.0,0
-Del422,,,0.44,Wilmington,Delaware,19807.0,,425000.0,0
+Del421,1.0,1.0,0.36,Wilmington,Delaware,19807.0,,425000.0,0
+Del422,1.0,1.0,0.44,Wilmington,Delaware,19807.0,,425000.0,0
 Del423,4.0,4.0,1.75,Wilmington,Delaware,19807.0,3425.0,645000.0,1
 Del424,2.0,2.0,0.02,Wilmington,Delaware,19805.0,2000.0,220000.0,1
 Del425,3.0,1.0,0.06,Wilmington,Delaware,19802.0,1275.0,220000.0,0
 Del426,3.0,2.0,0.2,Wilmington,Delaware,19808.0,1500.0,169000.0,1
-Del427,,,0.3,Delaware City,Delaware,19706.0,,70000.0,1
+Del427,1.0,1.0,0.3,Delaware City,Delaware,19706.0,,70000.0,1
 Del428,3.0,1.0,0.13,Wilmington,Delaware,19802.0,1225.0,140000.0,0
 Del429,3.0,1.0,0.03,Wilmington,Delaware,19802.0,1250.0,100000.0,1
 Del430,3.0,2.0,0.04,Wilmington,Delaware,19802.0,1300.0,192500.0,1
-Del431,,,0.07,Wilmington,Delaware,19805.0,,55000.0,1
+Del431,1.0,1.0,0.07,Wilmington,Delaware,19805.0,,55000.0,1
 Del432,3.0,2.0,0.12,New Castle,Delaware,19720.0,1025.0,190000.0,1
 Del433,3.0,2.0,0.06,Bear,Delaware,19701.0,1375.0,175000.0,1
 Del434,4.0,1.0,0.02,Wilmington,Delaware,19805.0,2070.0,154000.0,1
 Del435,3.0,3.0,0.11,Wilmington,Delaware,19809.0,3078.0,410000.0,0
 Del436,4.0,2.0,1.13,Newark,Delaware,19711.0,1750.0,400000.0,0
-Del437,,,0.99,Wilmington,Delaware,19810.0,,189999.0,1
+Del437,1.0,1.0,0.99,Wilmington,Delaware,19810.0,,189999.0,1
 Del438,4.0,5.0,0.5,Wilmington,Delaware,19803.0,3117.0,1028770.0,0
 Del439,3.0,3.0,0.16,Wilmington,Delaware,19802.0,2300.0,475656.0,1
 Del440,3.0,3.0,0.16,Wilmington,Delaware,19802.0,2300.0,501375.0,1
@@ -508,9 +508,9 @@ Del506,3.0,1.0,0.08,Wilmington,Delaware,19804.0,1050.0,174900.0,1
 Del507,3.0,2.0,0.03,Wilmington,Delaware,19802.0,1050.0,164900.0,1
 Del508,2.0,3.0,,Wilmington,Delaware,19806.0,1336.0,270000.0,1
 Del509,3.0,2.0,0.06,Wilmington,Delaware,19802.0,1425.0,220000.0,1
-Del510,,,0.03,Wilmington,Delaware,19801.0,,19995.0,0
+Del510,1.0,1.0,0.03,Wilmington,Delaware,19801.0,,19995.0,0
 Del511,3.0,3.0,0.05,Newark,Delaware,19702.0,1350.0,89990.0,1
-Del512,,,0.05,Wilmington,Delaware,19802.0,1150.0,100000.0,0
+Del512,1.0,1.0,0.05,Wilmington,Delaware,19802.0,1150.0,100000.0,0
 Del513,5.0,3.0,0.39,Claymont,Delaware,19703.0,3000.0,574900.0,1
 Del514,2.0,1.0,0.08,Wilmington,Delaware,19804.0,875.0,150000.0,0
 Del515,3.0,2.0,,Wilmington,Delaware,19802.0,,189900.0,0
@@ -531,7 +531,7 @@ Del529,3.0,1.0,0.16,New Castle,Delaware,19720.0,1350.0,245000.0,1
 Del530,4.0,3.0,0.41,Hockessin,Delaware,19707.0,2375.0,549900.0,1
 Del531,3.0,3.0,0.17,Wilmington,Delaware,19804.0,1643.0,359900.0,1
 Del532,3.0,3.0,0.05,Claymont,Delaware,19703.0,1980.0,365625.0,0
-Del533,,,2.23,Bear,Delaware,19701.0,,250000.0,1
+Del533,1.0,1.0,2.23,Bear,Delaware,19701.0,,250000.0,1
 Del534,2.0,2.0,,Wilmington,Delaware,19809.0,,60000.0,0
 Del535,3.0,1.0,0.15,Wilmington,Delaware,19804.0,1225.0,130000.0,1
 Del536,4.0,3.0,0.18,Wilmington,Delaware,19802.0,,239000.0,0
@@ -550,7 +550,7 @@ Del548,2.0,1.0,0.14,Claymont,Delaware,19703.0,775.0,189000.0,1
 Del549,4.0,3.0,0.17,Newark,Delaware,19711.0,2100.0,479900.0,0
 Del550,2.0,2.0,0.02,New Castle,Delaware,19720.0,1422.0,159000.0,1
 Del551,4.0,2.0,0.06,Wilmington,Delaware,19805.0,1625.0,345000.0,1
-Del552,3.0,,0.12,New Castle,Delaware,19720.0,2525.0,450000.0,0
+Del552,3.0,1.0,0.12,New Castle,Delaware,19720.0,2525.0,450000.0,0
 Del553,5.0,2.0,0.18,Newark,Delaware,19713.0,2442.0,320000.0,0
 Del554,4.0,2.0,0.09,Wilmington,Delaware,19802.0,2450.0,439900.0,1
 Del555,4.0,3.0,0.17,Wilmington,Delaware,19805.0,2600.0,424900.0,1
@@ -561,10 +561,10 @@ Del559,4.0,2.0,0.05,Wilmington,Delaware,19802.0,1700.0,239900.0,1
 Del560,4.0,3.0,0.36,Wilmington,Delaware,19809.0,2500.0,490000.0,1
 Del561,3.0,1.0,0.03,Wilmington,Delaware,19805.0,1025.0,23900.0,1
 Del562,3.0,1.0,0.13,New Castle,Delaware,19720.0,1025.0,245000.0,1
-Del563,,,0.13,Newark,Delaware,19711.0,,110000.0,0
-Del564,,,0.17,Newark,Delaware,19711.0,,135000.0,0
-Del565,,,0.19,Newark,Delaware,19711.0,,130000.0,1
-Del566,,,0.17,Newark,Delaware,19711.0,,150000.0,0
+Del563,1.0,1.0,0.13,Newark,Delaware,19711.0,,110000.0,0
+Del564,1.0,1.0,0.17,Newark,Delaware,19711.0,,135000.0,0
+Del565,1.0,1.0,0.19,Newark,Delaware,19711.0,,130000.0,1
+Del566,1.0,1.0,0.17,Newark,Delaware,19711.0,,150000.0,0
 Del567,3.0,3.0,0.1,New Castle,Delaware,19720.0,1425.0,180000.0,1
 Del568,3.0,2.0,0.18,New Castle,Delaware,19720.0,1375.0,120000.0,1
 Del569,3.0,1.0,0.23,New Castle,Delaware,19720.0,950.0,144999.0,0
@@ -601,7 +601,7 @@ Del599,2.0,2.0,0.42,New Castle,Delaware,19720.0,1300.0,155000.0,1
 Del600,3.0,2.0,0.09,Wilmington,Delaware,19802.0,1250.0,159000.0,0
 Del601,2.0,2.0,0.04,Newark,Delaware,19702.0,1125.0,155000.0,1
 Del602,3.0,2.0,0.16,Wilmington,Delaware,19810.0,2536.0,270000.0,0
-Del603,,,0.03,Wilmington,Delaware,19802.0,1700.0,40000.0,1
+Del603,1.0,1.0,0.03,Wilmington,Delaware,19802.0,1700.0,40000.0,1
 Del604,5.0,3.0,0.09,Wilmington,Delaware,19806.0,2425.0,449500.0,1
 Del605,1.0,1.0,,Wilmington,Delaware,19806.0,,115900.0,0
 Del606,4.0,2.0,0.16,Wilmington,Delaware,19808.0,2664.0,359900.0,1
@@ -609,14 +609,14 @@ Del607,3.0,2.0,0.09,Newark,Delaware,19702.0,1380.0,199900.0,1
 Del608,4.0,2.0,0.24,Newark,Delaware,19713.0,2570.0,225000.0,1
 Del609,3.0,3.0,0.11,New Castle,Delaware,19720.0,1350.0,230000.0,1
 Del610,2.0,1.0,0.32,Wilmington,Delaware,19804.0,950.0,210000.0,0
-Del611,2.0,,0.04,Wilmington,Delaware,19801.0,,599900.0,0
+Del611,2.0,1.0,0.04,Wilmington,Delaware,19801.0,,599900.0,0
 Del612,2.0,2.0,0.05,New Castle,Delaware,19720.0,1275.0,200000.0,1
 Del613,5.0,4.0,0.66,Wilmington,Delaware,19807.0,3612.0,875000.0,1
 Del614,3.0,2.0,0.03,Wilmington,Delaware,19806.0,1075.0,335000.0,1
 Del615,3.0,3.0,0.16,Bear,Delaware,19701.0,1625.0,315000.0,1
 Del616,4.0,2.0,0.16,Wilmington,Delaware,19805.0,1875.0,304900.0,1
 Del617,3.0,2.0,0.1,Wilmington,Delaware,19802.0,1475.0,225000.0,1
-Del618,,,0.02,Wilmington,Delaware,19805.0,625.0,45000.0,0
+Del618,1.0,1.0,0.02,Wilmington,Delaware,19805.0,625.0,45000.0,0
 Del619,4.0,3.0,0.5,Newark,Delaware,19711.0,3574.0,635000.0,1
 Del620,5.0,4.0,0.38,Wilmington,Delaware,19803.0,3976.0,725000.0,1
 Del621,3.0,2.0,0.04,Wilmington,Delaware,19802.0,1225.0,130000.0,1
@@ -645,7 +645,7 @@ Del643,4.0,3.0,0.23,Wilmington,Delaware,19808.0,1850.0,329900.0,0
 Del644,3.0,2.0,0.37,Wilmington,Delaware,19808.0,1075.0,300000.0,1
 Del645,4.0,3.0,1.05,Newark,Delaware,19702.0,2800.0,550000.0,1
 Del646,3.0,3.0,0.16,New Castle,Delaware,19720.0,1525.0,370000.0,1
-Del647,,,0.02,Wilmington,Delaware,19801.0,,135000.0,0
+Del647,1.0,1.0,0.02,Wilmington,Delaware,19801.0,,135000.0,0
 Del648,3.0,3.0,0.17,Wilmington,Delaware,19804.0,1643.0,359900.0,1
 Del649,3.0,1.0,0.25,Wilmington,Delaware,19805.0,1295.0,134997.0,0
 Del650,1.0,1.0,,Wilmington,Delaware,19802.0,925.0,115000.0,1
@@ -671,7 +671,7 @@ Del669,4.0,2.0,0.11,Wilmington,Delaware,19805.0,1625.0,284900.0,1
 Del670,3.0,2.0,0.61,Newark,Delaware,19711.0,1075.0,330000.0,0
 Del671,2.0,1.0,0.12,Wilmington,Delaware,19805.0,875.0,219000.0,1
 Del672,2.0,1.0,0.04,Wilmington,Delaware,19804.0,875.0,215000.0,0
-Del673,,,0.05,Wilmington,Delaware,19801.0,,250000.0,1
+Del673,1.0,1.0,0.05,Wilmington,Delaware,19801.0,,250000.0,1
 Del674,3.0,3.0,0.22,Bear,Delaware,19701.0,3182.0,279550.0,1
 Del675,3.0,3.0,0.11,Newark,Delaware,19702.0,2030.0,185000.0,1
 Del676,3.0,2.0,0.03,Wilmington,Delaware,19805.0,1700.0,124680.0,0
@@ -721,7 +721,7 @@ Del719,3.0,1.0,0.03,Wilmington,Delaware,19805.0,1000.0,50000.0,0
 Del720,3.0,3.0,0.17,Newark,Delaware,19702.0,1650.0,330500.0,1
 Del721,3.0,2.0,0.07,Wilmington,Delaware,19809.0,1225.0,115000.0,1
 Del722,3.0,3.0,0.08,Newark,Delaware,19702.0,2175.0,375000.0,1
-Del723,,,0.17,Wilmington,Delaware,19805.0,3041.0,175000.0,0
+Del723,1.0,1.0,0.17,Wilmington,Delaware,19805.0,3041.0,175000.0,0
 Del724,1.0,2.0,0.34,Newark,Delaware,19711.0,2000.0,624900.0,1
 Del725,3.0,2.0,0.05,Wilmington,Delaware,19802.0,1275.0,250000.0,1
 Del726,5.0,2.0,0.16,Claymont,Delaware,19703.0,2064.0,299900.0,1
@@ -785,7 +785,7 @@ Del783,3.0,3.0,0.19,Wilmington,Delaware,19808.0,3000.0,624999.0,1
 Del784,2.0,3.0,0.06,Wilmington,Delaware,19809.0,2280.0,295000.0,1
 Del785,2.0,1.0,0.09,Wilmington,Delaware,19804.0,925.0,139900.0,0
 Del786,3.0,2.0,0.1,Wilmington,Delaware,19805.0,1100.0,224900.0,1
-Del787,4.0,,0.1,Newark,Delaware,19711.0,2275.0,349900.0,1
+Del787,4.0,1.0,0.1,Newark,Delaware,19711.0,2275.0,349900.0,1
 Del788,3.0,2.0,0.22,Wilmington,Delaware,19808.0,3559.0,399900.0,1
 Del789,3.0,3.0,144.0,Newark,Delaware,19702.0,1450.0,275000.0,1
 Del790,4.0,4.0,2.37,Wilmington,Delaware,19807.0,4175.0,1150000.0,0
@@ -977,7 +977,7 @@ Del975,4.0,3.0,1.13,Hockessin,Delaware,19707.0,3225.0,775000.0,1
 Del976,3.0,2.0,0.19,Wilmington,Delaware,19805.0,1250.0,315000.0,1
 Del977,5.0,3.0,0.25,Wilmington,Delaware,19808.0,2675.0,577000.0,1
 Del978,3.0,1.0,0.03,Wilmington,Delaware,19805.0,1200.0,225000.0,1
-Del979,,,0.28,Wilmington,Delaware,19809.0,,89900.0,0
+Del979,1.0,1.0,0.28,Wilmington,Delaware,19809.0,,89900.0,0
 Del980,3.0,2.0,0.14,Wilmington,Delaware,19803.0,1680.0,349900.0,1
 Del981,3.0,2.0,0.14,Wilmington,Delaware,19803.0,2195.0,370000.0,1
 Del982,3.0,3.0,0.22,Claymont,Delaware,19703.0,,424900.0,1
@@ -995,12 +995,12 @@ Del993,3.0,2.0,0.18,New Castle,Delaware,19720.0,1400.0,239900.0,0
 Del994,4.0,3.0,0.33,Wilmington,Delaware,19809.0,2275.0,329900.0,1
 Del995,4.0,3.0,0.31,Wilmington,Delaware,19808.0,2100.0,419900.0,1
 Del996,2.0,2.0,,Wilmington,Delaware,19804.0,,280000.0,1
-Del997,,,0.09,Wilmington,Delaware,19805.0,,14900.0,0
+Del997,1.0,1.0,0.09,Wilmington,Delaware,19805.0,,14900.0,0
 Del998,2.0,2.0,0.07,Bear,Delaware,19701.0,1425.0,290000.0,1
 Del999,4.0,3.0,0.28,Wilmington,Delaware,19808.0,1900.0,432000.0,1
 Del1000,5.0,2.0,0.14,New Castle,Delaware,19720.0,1625.0,214900.0,1
 Del1001,3.0,1.0,0.03,Wilmington,Delaware,19802.0,1125.0,240000.0,0
-Del1002,3.0,,0.03,Wilmington,Delaware,19801.0,675.0,245000.0,0
+Del1002,3.0,1.0,0.03,Wilmington,Delaware,19801.0,675.0,245000.0,0
 Del1003,3.0,2.0,0.04,Newark,Delaware,19702.0,1800.0,250000.0,1
 Del1004,4.0,2.0,0.03,Wilmington,Delaware,19805.0,1400.0,90000.0,1
 Del1005,3.0,1.0,0.14,Wilmington,Delaware,19801.0,875.0,204900.0,1
@@ -1029,8 +1029,8 @@ Del1027,4.0,1.0,0.07,Claymont,Delaware,19703.0,1900.0,135000.0,1
 Del1028,3.0,1.0,0.18,Newark,Delaware,19713.0,1250.0,289900.0,1
 Del1029,5.0,1.0,0.03,Wilmington,Delaware,19805.0,1575.0,70000.0,1
 Del1030,4.0,2.0,0.15,Newark,Delaware,19711.0,1850.0,325000.0,1
-Del1031,3.0,,0.15,Port Penn,Delaware,19731.0,,325000.0,0
-Del1032,,,2.5,Wilmington,Delaware,19805.0,,585000.0,1
+Del1031,3.0,1.0,0.15,Port Penn,Delaware,19731.0,,325000.0,0
+Del1032,1.0,1.0,2.5,Wilmington,Delaware,19805.0,,585000.0,1
 Del1033,2.0,2.0,,Wilmington,Delaware,19808.0,2715.0,265000.0,1
 Del1034,3.0,2.0,0.56,Hockessin,Delaware,19707.0,2700.0,500000.0,1
 Del1035,4.0,3.0,0.23,Wilmington,Delaware,19805.0,1925.0,309000.0,0
@@ -1047,7 +1047,7 @@ Del1045,3.0,2.0,0.05,Wilmington,Delaware,19802.0,1125.0,140000.0,1
 Del1046,4.0,2.0,0.2,New Castle,Delaware,19720.0,2635.0,265000.0,1
 Del1047,5.0,3.0,0.83,New Castle,Delaware,19720.0,3225.0,539900.0,1
 Del1048,4.0,4.0,0.44,Wilmington,Delaware,19807.0,6761.0,949900.0,1
-Del1049,2.0,,0.07,Wilmington,Delaware,19805.0,1375.0,150000.0,1
+Del1049,2.0,1.0,0.07,Wilmington,Delaware,19805.0,1375.0,150000.0,1
 Del1050,4.0,3.0,0.21,Middletown,Delaware,19709.0,2300.0,395000.0,1
 Del1051,3.0,2.0,0.15,Claymont,Delaware,19703.0,1652.0,324900.0,1
 Del1052,4.0,5.0,0.34,Hockessin,Delaware,19707.0,4425.0,719900.0,1
@@ -1066,10 +1066,10 @@ Del1064,3.0,2.0,0.06,Wilmington,Delaware,19802.0,2030.0,220000.0,1
 Del1065,3.0,2.0,0.07,Bear,Delaware,19701.0,1150.0,204900.0,1
 Del1066,3.0,3.0,0.06,Wilmington,Delaware,19805.0,2025.0,375000.0,1
 Del1067,3.0,1.0,0.05,Wilmington,Delaware,19802.0,1178.0,199999.0,1
-Del1068,4.0,,0.06,Wilmington,Delaware,19805.0,1575.0,200000.0,1
+Del1068,4.0,1.0,0.06,Wilmington,Delaware,19805.0,1575.0,200000.0,1
 Del1069,3.0,3.0,0.13,Wilmington,Delaware,19810.0,2500.0,399900.0,1
 Del1070,3.0,3.0,0.03,Wilmington,Delaware,19802.0,1300.0,250000.0,1
-Del1071,4.0,,0.07,Wilmington,Delaware,19805.0,2175.0,220000.0,0
+Del1071,4.0,1.0,0.07,Wilmington,Delaware,19805.0,2175.0,220000.0,0
 Del1072,3.0,3.0,0.07,Bear,Delaware,19701.0,2300.0,377900.0,1
 Del1073,1.0,1.0,,Wilmington,Delaware,19808.0,1175.0,175000.0,1
 Del1074,4.0,4.0,0.24,Newark,Delaware,19711.0,1975.0,324900.0,1
@@ -1081,7 +1081,7 @@ Del1079,4.0,3.0,0.25,Wilmington,Delaware,19808.0,2425.0,535000.0,1
 Del1080,4.0,4.0,0.27,Wilmington,Delaware,19802.0,2550.0,625000.0,1
 Del1081,4.0,3.0,0.26,Wilmington,Delaware,19810.0,1900.0,452000.0,1
 Del1082,3.0,3.0,0.26,Hockessin,Delaware,19707.0,1850.0,455000.0,1
-Del1083,4.0,,0.07,Wilmington,Delaware,19805.0,1575.0,220000.0,0
+Del1083,4.0,1.0,0.07,Wilmington,Delaware,19805.0,1575.0,220000.0,0
 Del1084,3.0,3.0,0.05,Bear,Delaware,19701.0,1275.0,259900.0,1
 Del1085,3.0,3.0,0.13,Newark,Delaware,19711.0,2000.0,365000.0,1
 Del1086,3.0,3.0,0.23,Wilmington,Delaware,19803.0,1700.0,374900.0,0
@@ -1095,7 +1095,7 @@ Del1093,2.0,2.0,,Claymont,Delaware,19703.0,1350.0,289900.0,0
 Del1094,4.0,2.0,0.18,Wilmington,Delaware,19805.0,2250.0,129997.0,0
 Del1095,3.0,2.0,0.14,New Castle,Delaware,19720.0,1325.0,189000.0,1
 Del1096,3.0,3.0,0.19,Wilmington,Delaware,19808.0,2825.0,649990.0,1
-Del1097,,,0.09,Wilmington,Delaware,19805.0,,89900.0,1
+Del1097,1.0,1.0,0.09,Wilmington,Delaware,19805.0,,89900.0,1
 Del1098,3.0,3.0,0.13,Newark,Delaware,19702.0,2030.0,249900.0,1
 Del1099,4.0,3.0,0.41,Delaware City,Delaware,19706.0,2550.0,525000.0,0
 Del1100,1.0,1.0,,Wilmington,Delaware,19809.0,,44995.0,0
@@ -1121,8 +1121,8 @@ Del1119,3.0,2.0,,Wilmington,Delaware,19808.0,1036.0,70000.0,0
 Del1120,2.0,2.0,,Wilmington,Delaware,19808.0,,80000.0,0
 Del1121,3.0,1.0,0.04,Wilmington,Delaware,19802.0,1125.0,40000.0,0
 Del1122,3.0,2.0,0.18,Newark,Delaware,19713.0,3674.0,255000.0,1
-Del1123,4.0,,0.15,Wilmington,Delaware,19804.0,1350.0,210000.0,1
-Del1124,4.0,,0.16,Wilmington,Delaware,19804.0,1400.0,210000.0,0
+Del1123,4.0,1.0,0.15,Wilmington,Delaware,19804.0,1350.0,210000.0,1
+Del1124,4.0,1.0,0.16,Wilmington,Delaware,19804.0,1400.0,210000.0,0
 Del1125,2.0,2.0,0.07,Claymont,Delaware,19703.0,1680.0,100000.0,1
 Del1126,3.0,3.0,0.22,Claymont,Delaware,19703.0,1600.0,360000.0,1
 Del1127,3.0,2.0,0.19,Claymont,Delaware,19703.0,1275.0,299000.0,1
@@ -1235,7 +1235,7 @@ Del1233,4.0,1.0,0.03,Wilmington,Delaware,19805.0,1175.0,129900.0,1
 Del1234,2.0,3.0,,Wilmington,Delaware,19806.0,1336.0,270000.0,1
 Del1235,1.0,1.0,,Wilmington,Delaware,19802.0,1075.0,149000.0,0
 Del1236,3.0,2.0,,Wilmington,Delaware,19802.0,,189900.0,0
-Del1237,,,0.05,Wilmington,Delaware,19802.0,1150.0,100000.0,0
+Del1237,1.0,1.0,0.05,Wilmington,Delaware,19802.0,1150.0,100000.0,0
 Del1238,3.0,1.0,0.05,Claymont,Delaware,19703.0,950.0,139900.0,0
 Del1239,3.0,3.0,0.05,Claymont,Delaware,19703.0,1980.0,365625.0,0
 Del1240,5.0,3.0,0.39,Claymont,Delaware,19703.0,3000.0,574900.0,1
@@ -1246,7 +1246,7 @@ Del1244,3.0,2.0,0.7,Wilmington,Delaware,19802.0,2050.0,224900.0,1
 Del1245,2.0,1.0,0.02,Wilmington,Delaware,19805.0,1025.0,119900.0,1
 Del1246,4.0,3.0,0.18,Wilmington,Delaware,19810.0,2050.0,429900.0,1
 Del1247,3.0,3.0,,Wilmington,Delaware,19803.0,3220.0,947753.0,0
-Del1248,,,3.26,Greenville,Delaware,19807.0,,650000.0,0
+Del1248,1.0,1.0,3.26,Greenville,Delaware,19807.0,,650000.0,0
 Del1249,2.0,2.0,,Wilmington,Delaware,19809.0,,60000.0,0
 Del1250,4.0,3.0,0.18,Wilmington,Delaware,19802.0,,239000.0,0
 Del1251,3.0,1.0,0.05,Wilmington,Delaware,19809.0,1200.0,90000.0,1
@@ -1280,9 +1280,9 @@ Del1278,3.0,1.0,0.04,Wilmington,Delaware,19805.0,2175.0,95000.0,1
 Del1279,3.0,2.0,0.04,Wilmington,Delaware,19805.0,1250.0,274800.0,1
 Del1280,3.0,2.0,0.16,Wilmington,Delaware,19810.0,2536.0,270000.0,0
 Del1281,5.0,4.0,0.66,Wilmington,Delaware,19807.0,3612.0,875000.0,1
-Del1282,2.0,,0.04,Wilmington,Delaware,19801.0,,599900.0,0
+Del1282,2.0,1.0,0.04,Wilmington,Delaware,19801.0,,599900.0,0
 Del1283,3.0,2.0,0.09,Wilmington,Delaware,19802.0,1250.0,159000.0,0
-Del1284,,,0.03,Wilmington,Delaware,19802.0,1700.0,40000.0,1
+Del1284,1.0,1.0,0.03,Wilmington,Delaware,19802.0,1700.0,40000.0,1
 Del1285,3.0,2.0,0.03,Wilmington,Delaware,19806.0,1075.0,335000.0,1
 Del1286,1.0,1.0,,Wilmington,Delaware,19806.0,,115900.0,0
 Del1287,5.0,3.0,0.09,Wilmington,Delaware,19806.0,2425.0,449500.0,1
@@ -1296,7 +1296,7 @@ Del1294,3.0,2.0,0.18,Wilmington,Delaware,19809.0,2150.0,345000.0,1
 Del1295,2.0,2.0,,Wilmington,Delaware,19810.0,,120000.0,0
 Del1296,2.0,2.0,,Wilmington,Delaware,19810.0,1009.0,147000.0,1
 Del1297,3.0,1.0,0.02,Wilmington,Delaware,19805.0,1250.0,65000.0,1
-Del1298,,,0.05,Wilmington,Delaware,19801.0,,250000.0,1
+Del1298,1.0,1.0,0.05,Wilmington,Delaware,19801.0,,250000.0,1
 Del1299,1.0,1.0,,Wilmington,Delaware,19802.0,925.0,115000.0,1
 Del1300,3.0,2.0,0.06,Wilmington,Delaware,19802.0,1600.0,165000.0,1
 Del1301,1.0,1.0,,Wilmington,Delaware,19801.0,825.0,185000.0,0
@@ -1324,7 +1324,7 @@ Del1322,3.0,2.0,0.04,Wilmington,Delaware,19802.0,1400.0,169000.0,1
 Del1323,4.0,2.0,0.34,Wilmington,Delaware,19803.0,2200.0,521000.0,1
 Del1324,5.0,2.0,0.16,Claymont,Delaware,19703.0,2064.0,299900.0,1
 Del1325,2.0,2.0,0.03,Wilmington,Delaware,19805.0,1250.0,174900.0,0
-Del1326,,,0.17,Wilmington,Delaware,19805.0,3041.0,175000.0,0
+Del1326,1.0,1.0,0.17,Wilmington,Delaware,19805.0,3041.0,175000.0,0
 Del1327,3.0,2.0,0.07,Wilmington,Delaware,19809.0,1225.0,115000.0,1
 Del1328,3.0,2.0,0.05,Wilmington,Delaware,19802.0,1275.0,250000.0,1
 Del1329,3.0,3.0,0.45,Greenville,Delaware,19807.0,1925.0,565000.0,1
@@ -1427,8 +1427,8 @@ Del1425,3.0,1.0,0.02,Wilmington,Delaware,19802.0,1000.0,169000.0,0
 Del1426,4.0,2.0,0.03,Wilmington,Delaware,19805.0,1400.0,90000.0,1
 Del1427,4.0,3.0,0.33,Wilmington,Delaware,19809.0,2275.0,329900.0,1
 Del1428,3.0,4.0,,Wilmington,Delaware,19803.0,2400.0,534500.0,1
-Del1429,3.0,,0.03,Wilmington,Delaware,19801.0,675.0,245000.0,0
-Del1430,,,0.09,Wilmington,Delaware,19805.0,,14900.0,0
+Del1429,3.0,1.0,0.03,Wilmington,Delaware,19801.0,675.0,245000.0,0
+Del1430,1.0,1.0,0.09,Wilmington,Delaware,19805.0,,14900.0,0
 Del1431,3.0,1.0,0.03,Wilmington,Delaware,19802.0,1125.0,240000.0,0
 Del1432,6.0,1.0,0.04,Wilmington,Delaware,19805.0,2100.0,40000.0,0
 Del1433,3.0,3.0,,Rockland,Delaware,19732.0,3377.0,819000.0,1
@@ -1447,7 +1447,7 @@ Del1445,3.0,2.0,0.17,Wilmington,Delaware,19809.0,1150.0,250000.0,1
 Del1446,4.0,1.0,0.07,Claymont,Delaware,19703.0,1900.0,135000.0,1
 Del1447,2.0,2.0,,Wilmington,Delaware,19810.0,,57900.0,0
 Del1448,1.0,1.0,,Wilmington,Delaware,19806.0,,114900.0,0
-Del1449,,,2.5,Wilmington,Delaware,19805.0,,585000.0,1
+Del1449,1.0,1.0,2.5,Wilmington,Delaware,19805.0,,585000.0,1
 Del1450,2.0,3.0,0.08,Wilmington,Delaware,19802.0,1275.0,180000.0,1
 Del1451,3.0,2.0,0.02,Wilmington,Delaware,19805.0,,184900.0,1
 Del1452,3.0,4.0,0.78,Wilmington,Delaware,19807.0,3325.0,869900.0,1
@@ -1458,13 +1458,13 @@ Del1456,3.0,1.0,0.02,Wilmington,Delaware,19805.0,1275.0,21497.0,0
 Del1457,3.0,2.0,0.05,Wilmington,Delaware,19802.0,1125.0,140000.0,1
 Del1458,3.0,2.0,0.22,Wilmington,Delaware,19809.0,2944.0,350000.0,0
 Del1459,3.0,1.0,0.05,Claymont,Delaware,19703.0,1150.0,185900.0,1
-Del1460,2.0,,0.07,Wilmington,Delaware,19805.0,1375.0,150000.0,1
+Del1460,2.0,1.0,0.07,Wilmington,Delaware,19805.0,1375.0,150000.0,1
 Del1461,2.0,2.0,,Wilmington,Delaware,19806.0,1150.0,210000.0,0
 Del1462,2.0,3.0,,Wilmington,Delaware,19806.0,1336.0,269000.0,0
 Del1463,3.0,2.0,0.15,Claymont,Delaware,19703.0,1652.0,324900.0,1
 Del1464,3.0,2.0,0.65,Wilmington,Delaware,19803.0,2050.0,425000.0,0
 Del1465,3.0,2.0,0.06,Wilmington,Delaware,19802.0,2030.0,220000.0,1
-Del1466,4.0,,0.06,Wilmington,Delaware,19805.0,1575.0,200000.0,1
+Del1466,4.0,1.0,0.06,Wilmington,Delaware,19805.0,1575.0,200000.0,1
 Del1467,3.0,3.0,0.13,Wilmington,Delaware,19810.0,2500.0,399900.0,1
 Del1468,4.0,4.0,0.27,Wilmington,Delaware,19802.0,2550.0,625000.0,1
 Del1469,4.0,3.0,0.26,Wilmington,Delaware,19810.0,1900.0,452000.0,1
@@ -1488,7 +1488,7 @@ Del1486,2.0,1.0,0.29,Wilmington,Delaware,19809.0,1000.0,235000.0,1
 Del1487,1.0,1.0,,Wilmington,Delaware,19809.0,,44995.0,0
 Del1488,3.0,3.0,0.08,Wilmington,Delaware,19806.0,1550.0,525000.0,1
 Del1489,5.0,2.0,0.06,Wilmington,Delaware,19801.0,1550.0,150000.0,1
-Del1490,,,0.09,Wilmington,Delaware,19805.0,,89900.0,1
+Del1490,1.0,1.0,0.09,Wilmington,Delaware,19805.0,,89900.0,1
 Del1491,2.0,2.0,,Wilmington,Delaware,19802.0,1175.0,154900.0,0
 Del1492,3.0,2.0,0.05,Wilmington,Delaware,19802.0,1250.0,179999.0,1
 Del1493,3.0,2.0,0.04,Wilmington,Delaware,19802.0,2190.0,189900.0,1
@@ -1502,7 +1502,7 @@ Del1500,3.0,3.0,0.03,Wilmington,Delaware,19805.0,1307.0,175000.0,1
 Del1501,3.0,1.0,0.24,Wilmington,Delaware,19809.0,1950.0,399000.0,1
 Del1502,4.0,2.0,0.44,Wilmington,Delaware,19809.0,1725.0,300000.0,1
 Del1503,4.0,2.0,0.04,Wilmington,Delaware,19802.0,1230.0,150000.0,1
-Del1504,,,0.02,Wilmington,Delaware,19801.0,1725.0,109900.0,1
+Del1504,1.0,1.0,0.02,Wilmington,Delaware,19801.0,1725.0,109900.0,1
 Del1505,4.0,4.0,0.15,Wilmington,Delaware,19806.0,4005.0,800000.0,1
 Del1506,3.0,2.0,0.05,Wilmington,Delaware,19806.0,2400.0,430000.0,1
 Del1507,3.0,2.0,0.04,Wilmington,Delaware,19802.0,1200.0,125000.0,1
@@ -1623,20 +1623,20 @@ Del1621,2.0,2.0,0.12,Middletown,Delaware,19709.0,2053.0,498000.0,0
 Del1622,4.0,3.0,0.23,Middletown,Delaware,19709.0,4846.0,370000.0,1
 Del1623,3.0,2.0,0.2,Middletown,Delaware,19709.0,1859.0,488900.0,1
 Del1624,4.0,5.0,1.37,Middletown,Delaware,19709.0,3350.0,510000.0,1
-Del1625,3.0,,,Middletown,Delaware,19709.0,2699.0,697900.0,0
-Del1626,4.0,,,Middletown,Delaware,19709.0,2740.0,699900.0,0
-Del1627,3.0,,,Middletown,Delaware,19709.0,1780.0,468900.0,0
-Del1628,3.0,,,Middletown,Delaware,19709.0,2032.0,495900.0,0
-Del1629,3.0,,,Middletown,Delaware,19709.0,2080.0,498900.0,0
-Del1630,3.0,,,Middletown,Delaware,19709.0,1859.0,486900.0,0
-Del1631,4.0,,,Middletown,Delaware,19709.0,4121.0,778900.0,0
-Del1632,3.0,,,Middletown,Delaware,19709.0,2462.0,524900.0,0
-Del1633,4.0,,,Middletown,Delaware,19709.0,3566.0,769900.0,0
-Del1634,3.0,,,Middletown,Delaware,19709.0,2378.0,525900.0,0
+Del1625,3.0,1.0,,Middletown,Delaware,19709.0,2699.0,697900.0,0
+Del1626,4.0,1.0,,Middletown,Delaware,19709.0,2740.0,699900.0,0
+Del1627,3.0,1.0,,Middletown,Delaware,19709.0,1780.0,468900.0,0
+Del1628,3.0,1.0,,Middletown,Delaware,19709.0,2032.0,495900.0,0
+Del1629,3.0,1.0,,Middletown,Delaware,19709.0,2080.0,498900.0,0
+Del1630,3.0,1.0,,Middletown,Delaware,19709.0,1859.0,486900.0,0
+Del1631,4.0,1.0,,Middletown,Delaware,19709.0,4121.0,778900.0,0
+Del1632,3.0,1.0,,Middletown,Delaware,19709.0,2462.0,524900.0,0
+Del1633,4.0,1.0,,Middletown,Delaware,19709.0,3566.0,769900.0,0
+Del1634,3.0,1.0,,Middletown,Delaware,19709.0,2378.0,525900.0,0
 Del1635,3.0,3.0,0.08,Middletown,Delaware,19709.0,2200.0,362140.0,0
 Del1636,3.0,3.0,0.08,Middletown,Delaware,19709.0,2300.0,344744.0,0
 Del1637,3.0,3.0,0.08,Middletown,Delaware,19709.0,2300.0,346204.0,0
-Del1638,3.0,,,Middletown,Delaware,19709.0,2441.0,497900.0,0
+Del1638,3.0,1.0,,Middletown,Delaware,19709.0,2441.0,497900.0,0
 Del1639,4.0,3.0,,Middletown,Delaware,19709.0,3400.0,678330.0,0
 Del1640,4.0,3.0,,Middletown,Delaware,19709.0,3400.0,768895.0,0
 Del1641,2.0,2.0,0.09,Middletown,Delaware,19709.0,1794.0,452000.0,0
@@ -1648,7 +1648,7 @@ Del1646,4.0,5.0,11.0,Middletown,Delaware,19709.0,4150.0,1300000.0,1
 Del1647,3.0,3.0,0.08,Middletown,Delaware,19709.0,2300.0,395000.0,0
 Del1648,4.0,3.0,,Middletown,Delaware,19709.0,2340.0,554290.0,1
 Del1649,4.0,3.0,,Middletown,Delaware,19709.0,2340.0,547990.0,1
-Del1650,,,1.58,Townsend,Delaware,19734.0,,200000.0,1
+Del1650,1.0,1.0,1.58,Townsend,Delaware,19734.0,,200000.0,1
 Del1651,4.0,3.0,,Middletown,Delaware,19709.0,3207.0,604790.0,1
 Del1652,3.0,3.0,0.08,Middletown,Delaware,19709.0,2300.0,384639.0,0
 Del1653,3.0,3.0,0.08,Middletown,Delaware,19709.0,2300.0,376127.0,0
@@ -1663,20 +1663,20 @@ Del1661,4.0,3.0,,Middletown,Delaware,19709.0,3400.0,750159.0,0
 Del1662,2.0,2.0,0.09,Middletown,Delaware,19709.0,1794.0,420000.0,0
 Del1663,3.0,1.0,0.18,Middletown,Delaware,19709.0,1000.0,225000.0,1
 Del1664,3.0,3.0,0.06,Middletown,Delaware,19709.0,2000.0,359900.0,1
-Del1665,4.0,,,Middletown,Delaware,19709.0,2340.0,554990.0,0
+Del1665,4.0,1.0,,Middletown,Delaware,19709.0,2340.0,554990.0,0
 Del1666,4.0,4.0,0.25,Middletown,Delaware,19709.0,5500.0,660000.0,1
-Del1667,4.0,,,Middletown,Delaware,19709.0,2804.0,574990.0,0
-Del1668,4.0,,,Middletown,Delaware,19709.0,2867.0,,0
-Del1669,5.0,,,Middletown,Delaware,19709.0,2511.0,,0
-Del1670,5.0,,,Middletown,Delaware,19709.0,2814.0,,0
+Del1667,4.0,1.0,,Middletown,Delaware,19709.0,2804.0,574990.0,0
+Del1668,4.0,1.0,,Middletown,Delaware,19709.0,2867.0,,0
+Del1669,5.0,1.0,,Middletown,Delaware,19709.0,2511.0,,0
+Del1670,5.0,1.0,,Middletown,Delaware,19709.0,2814.0,,0
 Del1671,4.0,3.0,,Middletown,Delaware,19709.0,2340.0,565490.0,1
-Del1672,3.0,,,Middletown,Delaware,19709.0,2563.0,598995.0,0
-Del1673,4.0,,,Middletown,Delaware,19709.0,2500.0,535995.0,0
-Del1674,4.0,,,Middletown,Delaware,19709.0,2564.0,557995.0,0
-Del1675,4.0,,,Middletown,Delaware,19709.0,2787.0,622995.0,0
-Del1676,4.0,,,Middletown,Delaware,19709.0,2638.0,552995.0,0
-Del1677,4.0,,,Middletown,Delaware,19709.0,2925.0,618995.0,0
-Del1678,5.0,,,Middletown,Delaware,19709.0,3010.0,622959.0,0
+Del1672,3.0,1.0,,Middletown,Delaware,19709.0,2563.0,598995.0,0
+Del1673,4.0,1.0,,Middletown,Delaware,19709.0,2500.0,535995.0,0
+Del1674,4.0,1.0,,Middletown,Delaware,19709.0,2564.0,557995.0,0
+Del1675,4.0,1.0,,Middletown,Delaware,19709.0,2787.0,622995.0,0
+Del1676,4.0,1.0,,Middletown,Delaware,19709.0,2638.0,552995.0,0
+Del1677,4.0,1.0,,Middletown,Delaware,19709.0,2925.0,618995.0,0
+Del1678,5.0,1.0,,Middletown,Delaware,19709.0,3010.0,622959.0,0
 Del1679,2.0,3.0,0.09,Middletown,Delaware,19709.0,1761.0,394900.0,0
 Del1680,4.0,3.0,,Middletown,Delaware,19709.0,3391.0,625900.0,0
 Del1681,4.0,3.0,,Middletown,Delaware,19709.0,3532.0,641900.0,0
@@ -1759,8 +1759,8 @@ Del1757,3.0,3.0,0.09,Middletown,Delaware,19709.0,1850.0,260000.0,1
 Del1758,4.0,3.0,0.23,Middletown,Delaware,19709.0,2450.0,499999.0,1
 Del1759,5.0,4.0,,Middletown,Delaware,19709.0,2814.0,666990.0,1
 Del1760,5.0,4.0,0.26,Middletown,Delaware,19709.0,3200.0,550000.0,0
-Del1761,5.0,,,Middletown,Delaware,19709.0,3108.0,676990.0,0
-Del1762,,,1.17,Middletown,Delaware,19709.0,,175000.0,1
+Del1761,5.0,1.0,,Middletown,Delaware,19709.0,3108.0,676990.0,0
+Del1762,1.0,1.0,1.17,Middletown,Delaware,19709.0,,175000.0,1
 Del1763,5.0,4.0,,Middletown,Delaware,19709.0,4028.0,765790.0,1
 Del1764,4.0,2.0,0.17,New Castle,Delaware,19720.0,2072.0,199900.0,1
 Del1765,3.0,3.0,0.09,Delaware City,Delaware,19706.0,2397.0,457978.0,0
@@ -1768,7 +1768,7 @@ Del1766,3.0,3.0,0.08,Delaware City,Delaware,19706.0,2397.0,403626.0,0
 Del1767,3.0,3.0,0.08,Delaware City,Delaware,19706.0,2397.0,442315.0,0
 Del1768,3.0,4.0,0.09,Delaware City,Delaware,19706.0,2397.0,471455.0,0
 Del1769,3.0,3.0,0.09,Delaware City,Delaware,19706.0,2397.0,409995.0,0
-Del1770,,,4.07,Bear,Delaware,19701.0,,400000.0,1
+Del1770,1.0,1.0,4.07,Bear,Delaware,19701.0,,400000.0,1
 Del1771,3.0,1.0,0.11,New Castle,Delaware,19720.0,1275.0,68900.0,0
 Del1772,3.0,2.0,0.4,Bear,Delaware,19701.0,1975.0,150000.0,1
 Del1773,2.0,1.0,0.1,New Castle,Delaware,19720.0,500.0,121000.0,0
@@ -1781,7 +1781,7 @@ Del1779,5.0,4.0,0.93,Bear,Delaware,19701.0,5232.0,760900.0,1
 Del1780,3.0,1.0,0.15,New Castle,Delaware,19720.0,1375.0,99900.0,1
 Del1781,3.0,3.0,0.34,New Castle,Delaware,19720.0,2480.0,355000.0,1
 Del1782,3.0,1.0,0.27,New Castle,Delaware,19720.0,1425.0,219900.0,1
-Del1783,,,0.3,Delaware City,Delaware,19706.0,,70000.0,1
+Del1783,1.0,1.0,0.3,Delaware City,Delaware,19706.0,,70000.0,1
 Del1784,1.0,1.0,0.08,New Castle,Delaware,19720.0,650.0,147500.0,1
 Del1785,2.0,2.0,0.02,Wilmington,Delaware,19801.0,1075.0,62000.0,1
 Del1786,4.0,4.0,0.06,New Castle,Delaware,19720.0,4049.0,649000.0,1
@@ -1813,7 +1813,7 @@ Del1811,2.0,2.0,0.02,New Castle,Delaware,19720.0,1422.0,159000.0,1
 Del1812,3.0,1.0,,New Castle,Delaware,19720.0,1075.0,185000.0,1
 Del1813,3.0,1.0,0.16,New Castle,Delaware,19720.0,1350.0,245000.0,1
 Del1814,3.0,1.0,0.13,New Castle,Delaware,19720.0,1025.0,245000.0,1
-Del1815,,,2.23,Bear,Delaware,19701.0,,250000.0,1
+Del1815,1.0,1.0,2.23,Bear,Delaware,19701.0,,250000.0,1
 Del1816,2.0,3.0,,Newark,Delaware,19702.0,1700.0,329900.0,0
 Del1817,3.0,2.0,0.04,Wilmington,Delaware,19801.0,1150.0,146000.0,1
 Del1818,3.0,3.0,0.1,New Castle,Delaware,19720.0,1425.0,180000.0,1
@@ -1821,7 +1821,7 @@ Del1819,3.0,2.0,0.18,New Castle,Delaware,19720.0,1375.0,120000.0,1
 Del1820,3.0,1.0,0.23,New Castle,Delaware,19720.0,950.0,144999.0,0
 Del1821,2.0,2.0,0.04,Newark,Delaware,19702.0,1125.0,155000.0,1
 Del1822,2.0,2.0,0.05,Newark,Delaware,19702.0,1100.0,169000.0,1
-Del1823,3.0,,0.12,New Castle,Delaware,19720.0,2525.0,450000.0,0
+Del1823,3.0,1.0,0.12,New Castle,Delaware,19720.0,2525.0,450000.0,0
 Del1824,4.0,3.0,0.21,Bear,Delaware,19701.0,1958.0,400000.0,1
 Del1825,3.0,2.0,0.06,New Castle,Delaware,19720.0,1075.0,249900.0,1
 Del1826,3.0,2.0,0.06,New Castle,Delaware,19720.0,1325.0,249900.0,1
@@ -1927,7 +1927,7 @@ Del1925,3.0,2.0,0.25,Townsend,Delaware,19734.0,2152.0,432900.0,0
 Del1926,2.0,2.0,0.12,Middletown,Delaware,19709.0,2059.0,493000.0,0
 Del1927,3.0,2.0,0.18,Middletown,Delaware,19709.0,2296.0,542000.0,0
 Del1928,2.0,2.0,0.29,Middletown,Delaware,19709.0,,515900.0,0
-Del1929,,,72.0,Townsend,Delaware,19734.0,,700000.0,0
+Del1929,1.0,1.0,72.0,Townsend,Delaware,19734.0,,700000.0,0
 Del1930,3.0,2.0,0.23,Middletown,Delaware,19709.0,2250.0,529900.0,0
 Del1931,3.0,2.0,0.23,Middletown,Delaware,19709.0,2375.0,506900.0,0
 Del1932,2.0,2.0,0.12,Middletown,Delaware,19709.0,2053.0,498000.0,0
@@ -1940,7 +1940,7 @@ Del1938,4.0,3.0,0.23,Middletown,Delaware,19709.0,4846.0,370000.0,1
 Del1939,3.0,2.0,0.2,Middletown,Delaware,19709.0,1859.0,488900.0,1
 Del1940,3.0,2.0,0.25,Townsend,Delaware,19734.0,2785.0,487900.0,0
 Del1941,3.0,3.0,0.05,Townsend,Delaware,19734.0,1830.0,357933.0,0
-Del1942,,,8.0,Dover,Delaware,19901.0,,162500.0,0
+Del1942,1.0,1.0,8.0,Dover,Delaware,19901.0,,162500.0,0
 Del1943,3.0,2.0,0.25,Townsend,Delaware,19734.0,2408.0,461900.0,0
 Del1944,3.0,2.0,0.23,Middletown,Delaware,19709.0,2375.0,526900.0,0
 Del1945,3.0,3.0,0.08,Middletown,Delaware,19709.0,2200.0,362140.0,0
@@ -1950,17 +1950,17 @@ Del1948,3.0,3.0,0.08,Delaware City,Delaware,19706.0,2397.0,442315.0,0
 Del1949,3.0,3.0,0.09,Delaware City,Delaware,19706.0,2397.0,457978.0,0
 Del1950,4.0,3.0,,Middletown,Delaware,19709.0,3400.0,731572.0,0
 Del1951,4.0,3.0,,Middletown,Delaware,19709.0,3400.0,667119.0,0
-Del1952,,,0.44,Dover,Delaware,19901.0,,78000.0,0
+Del1952,1.0,1.0,0.44,Dover,Delaware,19901.0,,78000.0,0
 Del1953,3.0,3.0,0.08,Middletown,Delaware,19709.0,,428900.0,1
-Del1954,,,0.24,Smyrna,Delaware,19977.0,,84900.0,0
+Del1954,1.0,1.0,0.24,Smyrna,Delaware,19977.0,,84900.0,0
 Del1955,2.0,1.0,0.11,Smyrna,Delaware,19977.0,1088.0,169900.0,1
-Del1956,3.0,,,Middletown,Delaware,19709.0,2462.0,524900.0,0
-Del1957,3.0,,,Middletown,Delaware,19709.0,1780.0,468900.0,0
-Del1958,3.0,,,Middletown,Delaware,19709.0,2080.0,498900.0,0
+Del1956,3.0,1.0,,Middletown,Delaware,19709.0,2462.0,524900.0,0
+Del1957,3.0,1.0,,Middletown,Delaware,19709.0,1780.0,468900.0,0
+Del1958,3.0,1.0,,Middletown,Delaware,19709.0,2080.0,498900.0,0
 Del1959,4.0,5.0,1.37,Middletown,Delaware,19709.0,3350.0,510000.0,1
-Del1960,3.0,,,Middletown,Delaware,19709.0,2032.0,495900.0,0
-Del1961,3.0,,,Middletown,Delaware,19709.0,1859.0,486900.0,0
-Del1962,3.0,,,Middletown,Delaware,19709.0,2378.0,525900.0,0
+Del1960,3.0,1.0,,Middletown,Delaware,19709.0,2032.0,495900.0,0
+Del1961,3.0,1.0,,Middletown,Delaware,19709.0,1859.0,486900.0,0
+Del1962,3.0,1.0,,Middletown,Delaware,19709.0,2378.0,525900.0,0
 Del1963,3.0,3.0,0.08,Middletown,Delaware,19709.0,2300.0,346204.0,0
 Del1964,3.0,3.0,0.08,Middletown,Delaware,19709.0,2300.0,344744.0,0
 Del1965,4.0,3.0,0.28,Smyrna,Delaware,19977.0,2700.0,505990.0,0
@@ -1983,40 +1983,40 @@ Del1981,4.0,3.0,0.08,Middletown,Delaware,19709.0,2304.0,479604.0,0
 Del1982,3.0,3.0,0.08,Middletown,Delaware,19709.0,1942.0,509950.0,0
 Del1983,4.0,4.0,0.15,Middletown,Delaware,19709.0,3168.0,573150.0,1
 Del1984,3.0,3.0,0.08,Middletown,Delaware,19709.0,1922.0,435368.0,0
-Del1985,,,19.4,Smyrna,Delaware,19977.0,,1000000.0,0
+Del1985,1.0,1.0,19.4,Smyrna,Delaware,19977.0,,1000000.0,0
 Del1986,3.0,3.0,0.2,Smyrna,Delaware,19977.0,2400.0,506990.0,0
 Del1987,3.0,3.0,0.07,Smyrna,Delaware,19977.0,1376.0,232100.0,1
-Del1988,,,0.3,Delaware City,Delaware,19706.0,,70000.0,1
+Del1988,1.0,1.0,0.3,Delaware City,Delaware,19706.0,,70000.0,1
 Del1989,4.0,4.0,0.4,Middletown,Delaware,19709.0,3000.0,545000.0,1
 Del1990,4.0,3.0,,Middletown,Delaware,19709.0,2340.0,547990.0,1
 Del1991,3.0,3.0,0.08,Middletown,Delaware,19709.0,2300.0,376127.0,0
 Del1992,3.0,3.0,0.08,Middletown,Delaware,19709.0,2300.0,384639.0,0
 Del1993,3.0,3.0,0.08,Middletown,Delaware,19709.0,2300.0,366300.0,0
-Del1994,,,1.58,Townsend,Delaware,19734.0,,200000.0,1
+Del1994,1.0,1.0,1.58,Townsend,Delaware,19734.0,,200000.0,1
 Del1995,4.0,3.0,0.14,Middletown,Delaware,19709.0,2737.0,639485.0,0
 Del1996,3.0,3.0,,Middletown,Delaware,19709.0,2052.0,519000.0,0
 Del1997,3.0,3.0,0.08,Middletown,Delaware,19709.0,1922.0,418900.0,0
 Del1998,4.0,3.0,,Middletown,Delaware,19709.0,3400.0,750159.0,0
 Del1999,3.0,2.0,,Dover,Delaware,19901.0,1620.0,165000.0,0
-Del2000,4.0,,,Middletown,Delaware,19709.0,2340.0,554990.0,0
-Del2001,4.0,,,Middletown,Delaware,19709.0,2867.0,,0
-Del2002,4.0,,,Middletown,Delaware,19709.0,2804.0,574990.0,0
+Del2000,4.0,1.0,,Middletown,Delaware,19709.0,2340.0,554990.0,0
+Del2001,4.0,1.0,,Middletown,Delaware,19709.0,2867.0,,0
+Del2002,4.0,1.0,,Middletown,Delaware,19709.0,2804.0,574990.0,0
 Del2003,9.0,8.0,57.97,Townsend,Delaware,19734.0,2500.0,1999000.0,0
 Del2004,2.0,1.0,0.18,Dover,Delaware,19901.0,638.0,449000.0,1
-Del2005,5.0,,,Middletown,Delaware,19709.0,2511.0,,0
-Del2006,5.0,,,Middletown,Delaware,19709.0,2814.0,,0
-Del2007,3.0,,,Middletown,Delaware,19709.0,2563.0,598995.0,0
-Del2008,4.0,,,Middletown,Delaware,19709.0,2500.0,535995.0,0
-Del2009,4.0,,,Middletown,Delaware,19709.0,2564.0,557995.0,0
-Del2010,4.0,,,Middletown,Delaware,19709.0,2787.0,622995.0,0
-Del2011,4.0,,,Middletown,Delaware,19709.0,2638.0,552995.0,0
-Del2012,4.0,,,Middletown,Delaware,19709.0,2925.0,618995.0,0
+Del2005,5.0,1.0,,Middletown,Delaware,19709.0,2511.0,,0
+Del2006,5.0,1.0,,Middletown,Delaware,19709.0,2814.0,,0
+Del2007,3.0,1.0,,Middletown,Delaware,19709.0,2563.0,598995.0,0
+Del2008,4.0,1.0,,Middletown,Delaware,19709.0,2500.0,535995.0,0
+Del2009,4.0,1.0,,Middletown,Delaware,19709.0,2564.0,557995.0,0
+Del2010,4.0,1.0,,Middletown,Delaware,19709.0,2787.0,622995.0,0
+Del2011,4.0,1.0,,Middletown,Delaware,19709.0,2638.0,552995.0,0
+Del2012,4.0,1.0,,Middletown,Delaware,19709.0,2925.0,618995.0,0
 Del2013,4.0,3.0,0.71,Dover,Delaware,19901.0,2400.0,450000.0,1
-Del2014,5.0,,,Middletown,Delaware,19709.0,3010.0,622959.0,0
+Del2014,5.0,1.0,,Middletown,Delaware,19709.0,3010.0,622959.0,0
 Del2015,2.0,3.0,0.09,Middletown,Delaware,19709.0,1761.0,394900.0,0
-Del2016,,,3.62,Townsend,Delaware,19734.0,,299000.0,1
-Del2017,,,0.31,Townsend,Delaware,19734.0,,150000.0,0
-Del2018,,,73.45,Smyrna,Delaware,19977.0,,499000.0,0
+Del2016,1.0,1.0,3.62,Townsend,Delaware,19734.0,,299000.0,1
+Del2017,1.0,1.0,0.31,Townsend,Delaware,19734.0,,150000.0,0
+Del2018,1.0,1.0,73.45,Smyrna,Delaware,19977.0,,499000.0,0
 Del2019,5.0,3.0,0.24,Dover,Delaware,19901.0,2752.0,298000.0,1
 Del2020,3.0,3.0,0.13,Middletown,Delaware,19709.0,2900.0,350000.0,1
 Del2021,2.0,1.0,0.32,Middletown,Delaware,19709.0,875.0,249900.0,1
@@ -2025,12 +2025,12 @@ Del2023,2.0,2.0,0.25,Townsend,Delaware,19734.0,1637.0,455736.0,0
 Del2024,4.0,3.0,,Middletown,Delaware,19709.0,2500.0,503900.0,0
 Del2025,4.0,2.0,0.22,Middletown,Delaware,19709.0,2700.0,540000.0,1
 Del2026,4.0,3.0,,Middletown,Delaware,19709.0,2300.0,483900.0,0
-Del2027,,,0.34,Smyrna,Delaware,19977.0,,100000.0,1
+Del2027,1.0,1.0,0.34,Smyrna,Delaware,19977.0,,100000.0,1
 Del2028,4.0,3.0,,Middletown,Delaware,19709.0,2883.0,553900.0,0
 Del2029,4.0,3.0,,Middletown,Delaware,19709.0,2500.0,533900.0,0
 Del2030,4.0,4.0,,Middletown,Delaware,19709.0,3405.0,577900.0,0
 Del2031,3.0,2.0,,Middletown,Delaware,19709.0,2097.0,477900.0,0
-Del2032,,,2.23,Bear,Delaware,19701.0,,250000.0,1
+Del2032,1.0,1.0,2.23,Bear,Delaware,19701.0,,250000.0,1
 Del2033,4.0,3.0,0.22,Middletown,Delaware,19709.0,,550000.0,1
 Del2034,4.0,3.0,0.27,Middletown,Delaware,19709.0,,565000.0,1
 Del2035,2.0,2.0,,Middletown,Delaware,19709.0,1749.0,457900.0,0
@@ -2065,7 +2065,7 @@ Del2063,4.0,3.0,,Middletown,Delaware,19709.0,2854.0,568000.0,0
 Del2064,5.0,4.0,0.14,Middletown,Delaware,19709.0,3350.0,595000.0,1
 Del2065,5.0,4.0,,Middletown,Delaware,19709.0,4020.0,714940.0,1
 Del2066,5.0,3.0,,Middletown,Delaware,19709.0,3107.0,669240.0,1
-Del2067,,,2.36,Townsend,Delaware,19734.0,,310000.0,0
+Del2067,1.0,1.0,2.36,Townsend,Delaware,19734.0,,310000.0,0
 Del2068,5.0,4.0,,Middletown,Delaware,19709.0,3998.0,718740.0,1
 Del2069,4.0,3.0,0.17,Smyrna,Delaware,19977.0,2077.0,324900.0,1
 Del2070,3.0,3.0,0.12,Middletown,Delaware,19709.0,1750.0,305000.0,1
@@ -2083,7 +2083,7 @@ Del2081,4.0,3.0,0.75,Middletown,Delaware,19709.0,2775.0,510000.0,1
 Del2082,4.0,3.0,0.03,Delaware City,Delaware,19706.0,1307.0,115000.0,1
 Del2083,4.0,4.0,0.11,Middletown,Delaware,19709.0,2275.0,449900.0,1
 Del2084,6.0,7.0,,Middletown,Delaware,19709.0,5863.0,826490.0,1
-Del2085,,,0.35,Townsend,Delaware,19734.0,,350000.0,0
+Del2085,1.0,1.0,0.35,Townsend,Delaware,19734.0,,350000.0,0
 Del2086,3.0,1.0,,Smyrna,Delaware,19977.0,840.0,55000.0,0
 Del2087,2.0,1.0,0.21,Townsend,Delaware,19734.0,1200.0,209000.0,1
 Del2088,4.0,3.0,1.03,Middletown,Delaware,19709.0,2400.0,494900.0,1
@@ -2119,16 +2119,16 @@ Del2117,4.0,4.0,0.46,Middletown,Delaware,19709.0,4600.0,850000.0,1
 Del2118,3.0,4.0,0.13,Middletown,Delaware,19709.0,3125.0,599900.0,1
 Del2119,4.0,3.0,,Middletown,Delaware,19709.0,2804.0,614790.0,1
 Del2120,4.0,4.0,0.05,Townsend,Delaware,19734.0,2450.0,346000.0,1
-Del2121,,,0.09,Smyrna,Delaware,19977.0,1428.0,229900.0,1
+Del2121,1.0,1.0,0.09,Smyrna,Delaware,19977.0,1428.0,229900.0,1
 Del2122,5.0,3.0,1.0,Townsend,Delaware,19734.0,2500.0,450000.0,1
 Del2123,3.0,3.0,0.23,Smyrna,Delaware,19977.0,1606.0,349000.0,1
 Del2124,3.0,2.0,0.28,Townsend,Delaware,19734.0,1750.0,364900.0,1
-Del2125,2.0,,4.2,Smyrna,Delaware,19977.0,2450.0,499000.0,1
+Del2125,2.0,1.0,4.2,Smyrna,Delaware,19977.0,2450.0,499000.0,1
 Del2126,4.0,3.0,0.38,Smyrna,Delaware,19977.0,2269.0,465500.0,1
-Del2127,5.0,,,Middletown,Delaware,19709.0,3108.0,676990.0,0
+Del2127,5.0,1.0,,Middletown,Delaware,19709.0,3108.0,676990.0,0
 Del2128,3.0,2.0,66.8,Smyrna,Delaware,19977.0,2448.0,1550000.0,1
-Del2129,3.0,,0.15,Port Penn,Delaware,19731.0,,325000.0,0
-Del2130,,,1.17,Middletown,Delaware,19709.0,,175000.0,1
+Del2129,3.0,1.0,0.15,Port Penn,Delaware,19731.0,,325000.0,0
+Del2130,1.0,1.0,1.17,Middletown,Delaware,19709.0,,175000.0,1
 Del2131,5.0,4.0,,Middletown,Delaware,19709.0,4028.0,765790.0,1
 Del2132,5.0,3.0,0.86,Townsend,Delaware,19734.0,3350.0,450000.0,1
 Del2133,3.0,2.0,0.39,Townsend,Delaware,19734.0,2900.0,154900.0,1
