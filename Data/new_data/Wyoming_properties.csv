@@ -1,4 +1,4 @@
-status,bed,bath,acre_lot,city,state,zip_code,house_size,price,sold_previously
-for_sale,3.0,3.0,0.29,Cody,Wyoming,82414.0,1935.0,535000.0,0
-for_sale,3.0,3.0,0.29,Cody,Wyoming,82414.0,1935.0,535000.0,0
-for_sale,3.0,3.0,0.29,Cody,Wyoming,82414.0,1935.0,535000.0,0
+ID,bed,bath,acre_lot,city,state,zip_code,house_size,price,sold_previously
+Wyo1,3.0,3.0,0.29,Cody,Wyoming,82414.0,1935.0,535000.0,0
+Wyo2,3.0,3.0,0.29,Cody,Wyoming,82414.0,1935.0,535000.0,0
+Wyo3,3.0,3.0,0.29,Cody,Wyoming,82414.0,1935.0,535000.0,0
