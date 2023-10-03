@@ -1,0 +1,2574 @@
+status,bed,bath,acre_lot,city,state,zip_code,house_size,price,sold_previously
+for_sale,5.0,2.0,0.21,Saint Thomas,Virgin Islands,802.0,1140.0,175000.0,0
+for_sale,9.0,5.0,0.04,Saint Thomas,Virgin Islands,802.0,3120.0,100000.0,0
+for_sale,4.0,6.0,1.04,Saint Thomas,Virgin Islands,802.0,6760.0,1599000.0,0
+for_sale,,1.0,,Saint Thomas,Virgin Islands,802.0,235.0,115000.0,0
+for_sale,3.0,5.0,0.81,Saint Thomas,Virgin Islands,802.0,4500.0,925000.0,0
+for_sale,2.0,2.0,,Saint Thomas,Virgin Islands,802.0,1152.0,265000.0,0
+for_sale,,,0.5,Saint Thomas,Virgin Islands,802.0,,115500.0,0
+for_sale,2.0,2.0,,Saint Thomas,Virgin Islands,802.0,1140.0,320000.0,0
+for_sale,1.0,1.0,0.26,Saint Thomas,Virgin Islands,802.0,,320000.0,0
+for_sale,,,0.5,Saint Thomas,Virgin Islands,802.0,,130000.0,0
+for_sale,5.0,4.0,0.99,Saint Thomas,Virgin Islands,802.0,5000.0,950000.0,1
+for_sale,,,0.66,Saint Thomas,Virgin Islands,802.0,,110000.0,0
+for_sale,5.0,4.0,1.8,Saint Thomas,Virgin Islands,802.0,3300.0,875000.0,0
+for_sale,,,0.26,Saint Thomas,Virgin Islands,802.0,,95000.0,0
+for_sale,,,0.5,Saint Thomas,Virgin Islands,802.0,,160000.0,0
+for_sale,,,0.48,Saint Thomas,Virgin Islands,802.0,,110600.0,0
+for_sale,2.0,1.0,,Saint Thomas,Virgin Islands,802.0,1326.0,485000.0,0
+for_sale,4.0,6.0,0.83,Saint Thomas,Virgin Islands,802.0,4600.0,6899000.0,1
+for_sale,,,0.28,Saint Thomas,Virgin Islands,802.0,,85000.0,0
+for_sale,3.0,3.0,0.34,Saint Thomas,Virgin Islands,802.0,,1295000.0,0
+for_sale,6.0,5.0,0.7,Saint Thomas,Virgin Islands,802.0,6200.0,1895000.0,0
+for_sale,,,0.52,Saint Thomas,Virgin Islands,802.0,,250000.0,0
+for_sale,2.0,1.0,,Saint Thomas,Virgin Islands,802.0,900.0,280000.0,0
+for_sale,,,1.42,Saint Thomas,Virgin Islands,802.0,,200000.0,0
+for_sale,,,5.0,Saint Thomas,Virgin Islands,802.0,,400000.0,0
+for_sale,,,1.66,Saint Thomas,Virgin Islands,802.0,,375000.0,0
+for_sale,3.0,2.0,,Saint Thomas,Virgin Islands,802.0,1487.0,619000.0,0
+for_sale,,,3.14,Saint Thomas,Virgin Islands,802.0,,385000.0,0
+for_sale,,,1.5,Saint Thomas,Virgin Islands,802.0,,340000.0,0
+for_sale,,,3.0,Saint Thomas,Virgin Islands,802.0,,825000.0,0
+for_sale,,,6.99,Saint Thomas,Virgin Islands,802.0,,560000.0,0
+for_sale,,,0.53,Saint Thomas,Virgin Islands,802.0,,262000.0,0
+for_sale,,,3.1,Saint Thomas,Virgin Islands,802.0,,750000.0,0
+for_sale,,,4.28,Saint Thomas,Virgin Islands,802.0,,690000.0,0
+for_sale,,,3.09,Saint Thomas,Virgin Islands,802.0,,750000.0,0
+for_sale,,,6.17,Saint Thomas,Virgin Islands,802.0,,890000.0,0
+for_sale,,,3.77,Saint Thomas,Virgin Islands,802.0,,825000.0,0
+for_sale,,,3.17,Saint Thomas,Virgin Islands,802.0,,1050000.0,0
+for_sale,,,3.72,Saint Thomas,Virgin Islands,802.0,,985000.0,0
+for_sale,,,2.97,Saint Thomas,Virgin Islands,802.0,,1125000.0,0
+for_sale,,,3.0,Saint Thomas,Virgin Islands,802.0,,2500000.0,0
+for_sale,,,96.6,Saint Thomas,Virgin Islands,802.0,,10990000.0,0
+for_sale,5.0,2.0,0.21,Saint Thomas,Virgin Islands,802.0,1140.0,175000.0,0
+for_sale,2.0,2.0,,Saint Thomas,Virgin Islands,802.0,1152.0,265000.0,0
+for_sale,9.0,5.0,0.04,Saint Thomas,Virgin Islands,802.0,3120.0,100000.0,0
+for_sale,2.0,2.0,,Saint Thomas,Virgin Islands,802.0,1250.0,200000.0,0
+for_sale,2.0,1.0,,Saint Thomas,Virgin Islands,802.0,900.0,280000.0,0
+for_sale,4.0,6.0,1.04,Saint Thomas,Virgin Islands,802.0,6760.0,1599000.0,0
+for_sale,2.0,2.0,0.5,Saint Thomas,Virgin Islands,802.0,,326900.0,0
+for_sale,1.0,1.0,0.26,Saint Thomas,Virgin Islands,802.0,,320000.0,0
+for_sale,,,1.42,Saint Thomas,Virgin Islands,802.0,,200000.0,0
+for_sale,3.0,3.0,0.37,Saint Thomas,Virgin Islands,802.0,,499000.0,0
+for_sale,,,0.28,Saint Thomas,Virgin Islands,802.0,,85000.0,0
+for_sale,6.0,5.0,0.88,Saint Thomas,Virgin Islands,802.0,6290.0,1999950.0,0
+for_sale,8.0,7.0,0.42,Saint Thomas,Virgin Islands,802.0,,1995000.0,0
+for_sale,4.0,4.0,0.46,Saint John,Virgin Islands,830.0,4830.0,4850000.0,0
+for_sale,1.0,2.0,,Saint Thomas,Virgin Islands,802.0,960.0,435000.0,0
+for_sale,,,,Saint Thomas,Virgin Islands,802.0,,100000.0,0
+for_sale,1.0,1.0,,Saint Thomas,Virgin Islands,802.0,1050.0,395000.0,0
+for_sale,6.0,6.0,0.74,Saint Thomas,Virgin Islands,802.0,3360.0,1295000.0,0
+for_sale,,,0.26,Saint Thomas,Virgin Islands,802.0,,95000.0,0
+for_sale,,,0.13,Saint Thomas,Virgin Islands,802.0,,50000.0,0
+for_sale,4.0,4.0,0.64,Saint Thomas,Virgin Islands,802.0,,1427000.0,0
+for_sale,,,0.7,Saint Thomas,Virgin Islands,802.0,,139500.0,0
+for_sale,3.0,3.0,,Saint Thomas,Virgin Islands,802.0,1750.0,549000.0,0
+for_sale,6.0,5.0,1.45,Saint Thomas,Virgin Islands,802.0,,2497000.0,0
+for_sale,2.0,2.0,,Saint John,Virgin Islands,830.0,1423.0,1875000.0,0
+for_sale,1.0,1.0,,Saint Thomas,Virgin Islands,802.0,750.0,315000.0,0
+for_sale,2.0,1.0,,Saint Thomas,Virgin Islands,802.0,1326.0,485000.0,0
+for_sale,2.0,2.0,,Saint Thomas,Virgin Islands,802.0,1250.0,545000.0,0
+for_sale,6.0,8.0,1.0,Saint Thomas,Virgin Islands,802.0,7000.0,3200000.0,0
+for_sale,2.0,2.0,,Saint Thomas,Virgin Islands,802.0,1379.0,570000.0,0
+for_sale,5.0,7.0,1.4,Saint John,Virgin Islands,830.0,8800.0,3985000.0,0
+for_sale,4.0,3.0,0.6,Saint Thomas,Virgin Islands,802.0,2413.0,1150000.0,0
+for_sale,3.0,4.0,0.7,Saint Thomas,Virgin Islands,802.0,3500.0,1850000.0,0
+for_sale,4.0,6.0,0.83,Saint Thomas,Virgin Islands,802.0,4600.0,6899000.0,1
+for_sale,5.0,6.0,1.07,Saint Thomas,Virgin Islands,802.0,7229.0,2750000.0,0
+for_sale,4.0,5.0,0.46,Saint John,Virgin Islands,830.0,7100.0,3690000.0,0
+for_sale,,,1.66,Saint Thomas,Virgin Islands,802.0,,375000.0,0
+for_sale,,,0.14,Saint Thomas,Virgin Islands,802.0,,300000.0,0
+for_sale,,,3.14,Saint Thomas,Virgin Islands,802.0,,385000.0,0
+for_sale,,,1.5,Saint Thomas,Virgin Islands,802.0,,340000.0,0
+for_sale,,,6.17,Saint Thomas,Virgin Islands,802.0,,890000.0,0
+for_sale,,,3.77,Saint Thomas,Virgin Islands,802.0,,825000.0,0
+for_sale,9.0,5.0,0.04,Saint Thomas,Virgin Islands,802.0,3120.0,100000.0,0
+for_sale,5.0,2.0,0.21,Saint Thomas,Virgin Islands,802.0,1140.0,175000.0,0
+for_sale,2.0,2.0,,Saint Thomas,Virgin Islands,802.0,1250.0,200000.0,0
+for_sale,4.0,6.0,1.04,Saint Thomas,Virgin Islands,802.0,6760.0,1599000.0,0
+for_sale,8.0,7.0,0.42,Saint Thomas,Virgin Islands,802.0,,1995000.0,0
+for_sale,,,0.34,Saint Thomas,Virgin Islands,802.0,,115000.0,0
+for_sale,6.0,5.0,1.45,Saint Thomas,Virgin Islands,802.0,,2497000.0,0
+for_sale,7.0,8.0,4.2,Saint Thomas,Virgin Islands,802.0,,6950000.0,0
+for_sale,2.0,2.0,,Saint Thomas,Virgin Islands,802.0,1152.0,265000.0,0
+for_sale,,,0.28,Saint Thomas,Virgin Islands,802.0,,85000.0,0
+for_sale,4.0,5.0,0.96,Saint Thomas,Virgin Islands,802.0,2000.0,875000.0,0
+for_sale,2.0,2.0,0.5,Saint Thomas,Virgin Islands,802.0,,326900.0,0
+for_sale,1.0,1.0,0.26,Saint Thomas,Virgin Islands,802.0,,320000.0,0
+for_sale,6.0,5.0,0.88,Saint Thomas,Virgin Islands,802.0,6290.0,1999950.0,0
+for_sale,,,1.42,Saint Thomas,Virgin Islands,802.0,,200000.0,0
+for_sale,6.0,6.0,0.74,Saint Thomas,Virgin Islands,802.0,3360.0,1295000.0,0
+for_sale,2.0,1.0,,Saint Thomas,Virgin Islands,802.0,900.0,280000.0,0
+for_sale,4.0,4.0,0.64,Saint Thomas,Virgin Islands,802.0,,1427000.0,0
+for_sale,,,0.26,Saint Thomas,Virgin Islands,802.0,,95000.0,0
+for_sale,,,0.13,Saint Thomas,Virgin Islands,802.0,,50000.0,0
+for_sale,6.0,8.0,1.0,Saint Thomas,Virgin Islands,802.0,7000.0,3200000.0,0
+for_sale,,,,Saint Thomas,Virgin Islands,802.0,,100000.0,0
+for_sale,,,0.7,Saint Thomas,Virgin Islands,802.0,,139500.0,0
+for_sale,5.0,6.0,1.07,Saint Thomas,Virgin Islands,802.0,7229.0,2750000.0,0
+for_sale,3.0,3.0,0.37,Saint Thomas,Virgin Islands,802.0,,499000.0,0
+for_sale,4.0,6.0,0.83,Saint Thomas,Virgin Islands,802.0,4600.0,6899000.0,1
+for_sale,,,1.66,Saint Thomas,Virgin Islands,802.0,,375000.0,0
+for_sale,3.0,4.0,0.7,Saint Thomas,Virgin Islands,802.0,3500.0,1850000.0,0
+for_sale,,,0.14,Saint Thomas,Virgin Islands,802.0,,300000.0,0
+for_sale,,,3.14,Saint Thomas,Virgin Islands,802.0,,385000.0,0
+for_sale,1.0,1.0,,Saint Thomas,Virgin Islands,802.0,750.0,315000.0,0
+for_sale,2.0,1.0,,Saint Thomas,Virgin Islands,802.0,1326.0,485000.0,0
+for_sale,,,1.5,Saint Thomas,Virgin Islands,802.0,,340000.0,0
+for_sale,3.0,3.0,,Saint Thomas,Virgin Islands,802.0,1750.0,549000.0,0
+for_sale,4.0,3.0,0.6,Saint Thomas,Virgin Islands,802.0,2413.0,1150000.0,0
+for_sale,1.0,1.0,,Saint Thomas,Virgin Islands,802.0,1050.0,395000.0,0
+for_sale,2.0,2.0,,Saint Thomas,Virgin Islands,802.0,1379.0,570000.0,0
+for_sale,2.0,2.0,,Saint Thomas,Virgin Islands,802.0,1250.0,545000.0,0
+for_sale,,,6.17,Saint Thomas,Virgin Islands,802.0,,890000.0,0
+for_sale,1.0,2.0,,Saint Thomas,Virgin Islands,802.0,960.0,435000.0,0
+for_sale,3.0,2.0,,Saint Thomas,Virgin Islands,802.0,1487.0,619000.0,0
+for_sale,,,3.77,Saint Thomas,Virgin Islands,802.0,,825000.0,0
+for_sale,,,0.86,Saint Thomas,Virgin Islands,802.0,,74500.0,0
+for_sale,,,0.51,Saint Thomas,Virgin Islands,802.0,,97500.0,0
+for_sale,,,0.5,Saint Thomas,Virgin Islands,802.0,,115500.0,0
+for_sale,,,0.5,Saint Thomas,Virgin Islands,802.0,,125000.0,0
+for_sale,,,0.51,Saint Thomas,Virgin Islands,802.0,,250000.0,0
+for_sale,,,7.82,Saint Thomas,Virgin Islands,802.0,,1500000.0,0
+for_sale,,,3.0,Saint Thomas,Virgin Islands,802.0,,825000.0,0
+for_sale,,,0.52,Saint Thomas,Virgin Islands,802.0,,250000.0,0
+for_sale,,,1.2,Saint Thomas,Virgin Islands,802.0,,875000.0,0
+for_sale,,,0.3,Saint Thomas,Virgin Islands,802.0,,160000.0,0
+for_sale,,,0.3,Saint Thomas,Virgin Islands,802.0,,160000.0,0
+for_sale,,,0.88,Saint Thomas,Virgin Islands,802.0,,210000.0,0
+for_sale,3.0,2.0,0.23,Christiansted,Virgin Islands,820.0,1150.0,200000.0,0
+for_sale,4.0,3.0,0.29,Christiansted,Virgin Islands,820.0,,165000.0,0
+for_sale,7.0,7.0,3.57,Christiansted,Virgin Islands,820.0,,1600000.0,0
+for_sale,3.0,2.0,0.23,Christiansted,Virgin Islands,820.0,,240000.0,0
+for_sale,3.0,2.0,1.79,Christiansted,Virgin Islands,820.0,,225000.0,0
+for_sale,4.0,3.0,0.5,Christiansted,Virgin Islands,820.0,2759.0,625000.0,0
+for_sale,5.0,4.0,0.85,Christiansted,Virgin Islands,820.0,,1595000.0,0
+for_sale,6.0,4.0,1.01,Christiansted,Virgin Islands,820.0,4800.0,759000.0,0
+for_sale,3.0,2.0,0.25,Christiansted,Virgin Islands,820.0,1100.0,320000.0,0
+for_sale,4.0,4.0,0.48,Christiansted,Virgin Islands,820.0,4338.0,877000.0,0
+for_sale,,,0.85,Christiansted,Virgin Islands,820.0,,55000.0,0
+for_sale,3.0,3.0,0.42,Christiansted,Virgin Islands,820.0,1600.0,965000.0,0
+for_sale,1.0,1.0,,Christiansted,Virgin Islands,820.0,695.0,125000.0,0
+for_sale,3.0,2.0,0.5,Christiansted,Virgin Islands,820.0,1300.0,390000.0,0
+for_sale,1.0,1.0,,Christiansted,Virgin Islands,820.0,1100.0,217000.0,0
+for_sale,3.0,2.0,,Christiansted,Virgin Islands,820.0,1515.0,375000.0,0
+for_sale,,,0.57,Christiansted,Virgin Islands,820.0,,59500.0,0
+for_sale,,,0.65,Christiansted,Virgin Islands,820.0,,59500.0,0
+for_sale,,,0.47,Christiansted,Virgin Islands,820.0,,20000.0,0
+for_sale,,,0.5,Christiansted,Virgin Islands,820.0,,70000.0,0
+for_sale,3.0,3.0,0.61,Christiansted,Virgin Islands,820.0,1606.0,549000.0,0
+for_sale,5.0,4.0,0.43,Christiansted,Virgin Islands,820.0,3190.0,999999.0,0
+for_sale,,,0.6,Christiansted,Virgin Islands,820.0,,58000.0,0
+for_sale,5.0,4.0,,Christiansted,Virgin Islands,820.0,3200.0,599000.0,0
+for_sale,,,0.61,Christiansted,Virgin Islands,820.0,,45000.0,0
+for_sale,1.0,1.0,0.53,Christiansted,Virgin Islands,820.0,1200.0,610000.0,0
+for_sale,,,0.27,Christiansted,Virgin Islands,820.0,,30000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1250.0,397000.0,0
+for_sale,,,6.0,Christiansted,Virgin Islands,820.0,,499000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1400.0,415000.0,0
+for_sale,,,0.07,Christiansted,Virgin Islands,820.0,,174900.0,0
+for_sale,2.0,2.0,0.54,Christiansted,Virgin Islands,820.0,3630.0,1295000.0,0
+for_sale,,,1.09,Christiansted,Virgin Islands,820.0,,199000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1250.0,399000.0,0
+for_sale,1.0,1.0,,Christiansted,Virgin Islands,820.0,770.0,249000.0,0
+for_sale,,,1.07,Christiansted,Virgin Islands,820.0,,215000.0,0
+for_sale,,,0.63,Christiansted,Virgin Islands,820.0,,169000.0,0
+for_sale,,,1.35,Christiansted,Virgin Islands,820.0,,225000.0,0
+for_sale,,,1.1,Christiansted,Virgin Islands,820.0,,265000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1250.0,419000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,860.0,395000.0,0
+for_sale,3.0,2.0,,Christiansted,Virgin Islands,820.0,1897.0,810000.0,0
+for_sale,3.0,2.0,0.23,Christiansted,Virgin Islands,820.0,1150.0,200000.0,0
+for_sale,3.0,2.0,0.23,Christiansted,Virgin Islands,820.0,,240000.0,0
+for_sale,4.0,3.0,0.56,Frederiksted,Virgin Islands,840.0,,199000.0,0
+for_sale,3.0,2.0,0.7,Frederiksted,Virgin Islands,840.0,2000.0,325000.0,0
+for_sale,4.0,1.0,0.12,Kingshill,Virgin Islands,850.0,1800.0,225000.0,0
+for_sale,1.0,1.0,,Christiansted,Virgin Islands,820.0,695.0,125000.0,0
+for_sale,4.0,3.0,0.5,Christiansted,Virgin Islands,820.0,2759.0,625000.0,0
+for_sale,6.0,4.0,1.01,Christiansted,Virgin Islands,820.0,4800.0,759000.0,0
+for_sale,4.0,4.0,0.48,Christiansted,Virgin Islands,820.0,4338.0,877000.0,0
+for_sale,3.0,2.0,0.25,Christiansted,Virgin Islands,820.0,1100.0,320000.0,0
+for_sale,5.0,4.0,,Christiansted,Virgin Islands,820.0,3200.0,599000.0,0
+for_sale,1.0,1.0,,Christiansted,Virgin Islands,820.0,1100.0,217000.0,0
+for_sale,3.0,3.0,0.61,Christiansted,Virgin Islands,820.0,1606.0,549000.0,0
+for_sale,5.0,4.0,0.85,Christiansted,Virgin Islands,820.0,,1595000.0,0
+for_sale,3.0,2.0,0.5,Christiansted,Virgin Islands,820.0,1300.0,390000.0,0
+for_sale,2.0,2.0,,Kingshill,Virgin Islands,850.0,1500.0,375000.0,0
+for_sale,1.0,1.0,0.53,Christiansted,Virgin Islands,820.0,1200.0,610000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1250.0,397000.0,0
+for_sale,3.0,3.0,0.67,Frederiksted,Virgin Islands,840.0,4500.0,999999.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1250.0,399000.0,0
+for_sale,,,0.47,Christiansted,Virgin Islands,820.0,,20000.0,0
+for_sale,5.0,4.0,0.43,Christiansted,Virgin Islands,820.0,3190.0,999999.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1400.0,415000.0,0
+for_sale,4.0,4.0,0.96,Frederiksted,Virgin Islands,840.0,6100.0,1695000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1250.0,419000.0,0
+for_sale,,,0.61,Christiansted,Virgin Islands,820.0,,45000.0,0
+for_sale,4.0,3.0,0.39,Frederiksted,Virgin Islands,840.0,4578.0,1595000.0,0
+for_sale,,,0.57,Christiansted,Virgin Islands,820.0,,59500.0,0
+for_sale,,,0.6,Christiansted,Virgin Islands,820.0,,58000.0,0
+for_sale,,,0.65,Christiansted,Virgin Islands,820.0,,59500.0,0
+for_sale,,,0.23,Frederiksted,Virgin Islands,840.0,,36000.0,0
+for_sale,,,0.27,Christiansted,Virgin Islands,820.0,,30000.0,0
+for_sale,2.0,2.0,0.54,Christiansted,Virgin Islands,820.0,3630.0,1295000.0,0
+for_sale,3.0,2.0,,Christiansted,Virgin Islands,820.0,1897.0,810000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,860.0,395000.0,0
+for_sale,,,5.94,Frederiksted,Virgin Islands,840.0,,465000.0,0
+for_sale,,,0.63,Christiansted,Virgin Islands,820.0,,169000.0,0
+for_sale,,,0.07,Christiansted,Virgin Islands,820.0,,174900.0,0
+for_sale,,,1.07,Christiansted,Virgin Islands,820.0,,215000.0,0
+for_sale,,,1.35,Christiansted,Virgin Islands,820.0,,225000.0,0
+for_sale,,,6.0,Christiansted,Virgin Islands,820.0,,499000.0,0
+for_sale,,,1.1,Christiansted,Virgin Islands,820.0,,265000.0,0
+for_sale,1.0,1.0,,Saint Thomas,Virgin Islands,802.0,900.0,225000.0,0
+for_sale,9.0,12.0,0.47,Saint John,Virgin Islands,830.0,30378.0,16999000.0,0
+for_sale,,,0.86,Saint Thomas,Virgin Islands,802.0,,74500.0,0
+for_sale,,,0.87,Saint Thomas,Virgin Islands,802.0,,79000.0,0
+for_sale,,,0.33,Saint Thomas,Virgin Islands,802.0,,70000.0,0
+for_sale,,,0.24,Saint Thomas,Virgin Islands,802.0,,85000.0,0
+for_sale,5.0,6.0,0.11,Saint John,Virgin Islands,830.0,6400.0,2250000.0,0
+for_sale,,,5.0,Saint Thomas,Virgin Islands,802.0,,400000.0,0
+for_sale,,,0.51,Saint Thomas,Virgin Islands,802.0,,97500.0,0
+for_sale,,,0.5,Saint Thomas,Virgin Islands,802.0,,115500.0,0
+for_sale,,,0.23,Saint John,Virgin Islands,830.0,,360000.0,0
+for_sale,6.0,7.0,0.72,Saint John,Virgin Islands,830.0,6371.0,4250000.0,0
+for_sale,,,0.6,Saint Thomas,Virgin Islands,802.0,,125000.0,0
+for_sale,,,0.6,Saint John,Virgin Islands,830.0,,540000.0,0
+for_sale,,,0.99,Saint John,Virgin Islands,830.0,,350000.0,0
+for_sale,,,0.5,Saint Thomas,Virgin Islands,802.0,,125000.0,0
+for_sale,,,0.29,Saint John,Virgin Islands,830.0,,159000.0,0
+for_sale,,,0.73,Saint Thomas,Virgin Islands,802.0,,189000.0,0
+for_sale,,,0.5,Saint Thomas,Virgin Islands,802.0,,185000.0,0
+for_sale,,,1.01,Saint Thomas,Virgin Islands,802.0,,170000.0,0
+for_sale,,,0.74,Saint John,Virgin Islands,830.0,,595000.0,0
+for_sale,,,0.62,Saint Thomas,Virgin Islands,802.0,,150000.0,0
+for_sale,,,2.06,Saint Thomas,Virgin Islands,802.0,,195000.0,0
+for_sale,,,0.45,Saint Thomas,Virgin Islands,802.0,,145000.0,0
+for_sale,,,0.14,Saint John,Virgin Islands,830.0,,299000.0,0
+for_sale,,,0.51,Saint Thomas,Virgin Islands,802.0,,250000.0,0
+for_sale,,,1.03,Saint John,Virgin Islands,830.0,,195000.0,0
+for_sale,,,3.0,Saint Thomas,Virgin Islands,802.0,,825000.0,0
+for_sale,,,0.52,Saint Thomas,Virgin Islands,802.0,,250000.0,0
+for_sale,,,0.82,Saint John,Virgin Islands,830.0,,225000.0,0
+for_sale,,,7.82,Saint Thomas,Virgin Islands,802.0,,1500000.0,0
+for_sale,,,0.3,Saint Thomas,Virgin Islands,802.0,,160000.0,0
+for_sale,,,1.2,Saint Thomas,Virgin Islands,802.0,,875000.0,0
+for_sale,,,0.3,Saint Thomas,Virgin Islands,802.0,,160000.0,0
+for_sale,,,0.9,Saint John,Virgin Islands,830.0,,895000.0,0
+for_sale,,,0.88,Saint Thomas,Virgin Islands,802.0,,210000.0,0
+for_sale,,,0.52,Saint Thomas,Virgin Islands,802.0,,233000.0,0
+for_sale,,,0.44,Saint John,Virgin Islands,830.0,,585000.0,0
+for_sale,,,130.0,Saint Thomas,Virgin Islands,802.0,,23000000.0,0
+for_sale,,,0.86,Saint Thomas,Virgin Islands,802.0,,74500.0,0
+for_sale,,,0.87,Saint Thomas,Virgin Islands,802.0,,79000.0,0
+for_sale,,,0.33,Saint Thomas,Virgin Islands,802.0,,70000.0,0
+for_sale,1.0,1.0,,Saint Thomas,Virgin Islands,802.0,900.0,225000.0,0
+for_sale,,,0.24,Saint Thomas,Virgin Islands,802.0,,85000.0,0
+for_sale,,,4.93,Saint Thomas,Virgin Islands,802.0,,599000.0,0
+for_sale,,,0.51,Saint Thomas,Virgin Islands,802.0,,97500.0,0
+for_sale,,,7.82,Saint Thomas,Virgin Islands,802.0,,1500000.0,0
+for_sale,,,0.51,Saint Thomas,Virgin Islands,802.0,,250000.0,0
+for_sale,,,2.06,Saint Thomas,Virgin Islands,802.0,,195000.0,0
+for_sale,,,0.73,Saint Thomas,Virgin Islands,802.0,,189000.0,0
+for_sale,,,0.5,Saint Thomas,Virgin Islands,802.0,,125000.0,0
+for_sale,,,0.52,Saint Thomas,Virgin Islands,802.0,,233000.0,0
+for_sale,,,1.01,Saint Thomas,Virgin Islands,802.0,,170000.0,0
+for_sale,,,1.2,Saint Thomas,Virgin Islands,802.0,,875000.0,0
+for_sale,,,0.62,Saint Thomas,Virgin Islands,802.0,,150000.0,0
+for_sale,,,0.5,Saint Thomas,Virgin Islands,802.0,,185000.0,0
+for_sale,,,0.45,Saint Thomas,Virgin Islands,802.0,,145000.0,0
+for_sale,,,0.88,Saint Thomas,Virgin Islands,802.0,,210000.0,0
+for_sale,,,0.3,Saint Thomas,Virgin Islands,802.0,,160000.0,0
+for_sale,,,130.0,Saint Thomas,Virgin Islands,802.0,,23000000.0,0
+for_sale,5.0,5.0,0.25,Saint Thomas,Virgin Islands,802.0,10695.0,1000000.0,0
+for_sale,3.0,5.0,0.81,Saint Thomas,Virgin Islands,802.0,4500.0,925000.0,0
+for_sale,,,1.0,Saint Thomas,Virgin Islands,802.0,,99000.0,0
+for_sale,,,0.52,Saint Thomas,Virgin Islands,802.0,,250000.0,0
+for_sale,,,0.6,Saint Thomas,Virgin Islands,802.0,,125000.0,0
+for_sale,4.0,6.0,1.0,Saint Thomas,Virgin Islands,802.0,6600.0,1750000.0,0
+for_sale,7.0,6.0,0.12,Saint Thomas,Virgin Islands,802.0,5077.0,1295000.0,0
+for_sale,,,0.3,Saint Thomas,Virgin Islands,802.0,,160000.0,0
+for_sale,,,5.0,Saint Thomas,Virgin Islands,802.0,,400000.0,0
+for_sale,6.0,5.0,0.88,Saint Thomas,Virgin Islands,802.0,4400.0,825000.0,0
+for_sale,,,0.66,Saint Thomas,Virgin Islands,802.0,,110000.0,0
+for_sale,,,0.05,Saint Thomas,Virgin Islands,802.0,,125000.0,0
+for_sale,,,0.5,Saint Thomas,Virgin Islands,802.0,,115500.0,0
+for_sale,2.0,2.0,,Saint Thomas,Virgin Islands,802.0,1661.0,275000.0,0
+for_sale,,,0.48,Saint Thomas,Virgin Islands,802.0,,110600.0,0
+for_sale,,,0.86,Saint Thomas,Virgin Islands,802.0,,125000.0,0
+for_sale,,,0.5,Saint Thomas,Virgin Islands,802.0,,160000.0,0
+for_sale,5.0,4.0,1.8,Saint Thomas,Virgin Islands,802.0,3300.0,875000.0,0
+for_sale,2.0,2.0,,Saint Thomas,Virgin Islands,802.0,1140.0,320000.0,0
+for_sale,10.0,4.0,0.13,Saint Thomas,Virgin Islands,802.0,,775000.0,0
+for_sale,5.0,4.0,0.99,Saint Thomas,Virgin Islands,802.0,5000.0,950000.0,1
+for_sale,3.0,3.0,0.34,Saint Thomas,Virgin Islands,802.0,,1295000.0,0
+for_sale,4.0,5.0,0.67,Saint Thomas,Virgin Islands,802.0,8000.0,5990000.0,0
+for_sale,4.0,6.0,0.59,Saint Thomas,Virgin Islands,802.0,7000.0,3200000.0,0
+for_sale,,1.0,,Saint Thomas,Virgin Islands,802.0,235.0,115000.0,0
+for_sale,,,0.5,Saint Thomas,Virgin Islands,802.0,,130000.0,0
+for_sale,3.0,5.0,1.21,Saint Thomas,Virgin Islands,802.0,4832.0,2000000.0,0
+for_sale,,,0.53,Saint Thomas,Virgin Islands,802.0,,262000.0,0
+for_sale,6.0,5.0,0.7,Saint Thomas,Virgin Islands,802.0,6200.0,1895000.0,0
+for_sale,,,6.99,Saint Thomas,Virgin Islands,802.0,,560000.0,0
+for_sale,6.0,6.0,0.76,Saint Thomas,Virgin Islands,802.0,,3250000.0,0
+for_sale,,,3.0,Saint Thomas,Virgin Islands,802.0,,825000.0,0
+for_sale,1.0,1.0,,Saint Thomas,Virgin Islands,802.0,760.0,249900.0,0
+for_sale,,,4.28,Saint Thomas,Virgin Islands,802.0,,690000.0,0
+for_sale,4.0,4.0,0.89,Saint Thomas,Virgin Islands,802.0,3000.0,949000.0,0
+for_sale,,,3.1,Saint Thomas,Virgin Islands,802.0,,750000.0,0
+for_sale,,,3.09,Saint Thomas,Virgin Islands,802.0,,750000.0,0
+for_sale,,,3.17,Saint Thomas,Virgin Islands,802.0,,1050000.0,0
+for_sale,,,2.97,Saint Thomas,Virgin Islands,802.0,,1125000.0,0
+for_sale,,,3.72,Saint Thomas,Virgin Islands,802.0,,985000.0,0
+for_sale,,,3.0,Saint Thomas,Virgin Islands,802.0,,2500000.0,0
+for_sale,,,96.6,Saint Thomas,Virgin Islands,802.0,,10990000.0,0
+for_sale,2.0,2.0,,Saint Thomas,Virgin Islands,802.0,1661.0,275000.0,0
+for_sale,2.0,2.0,,Saint Thomas,Virgin Islands,802.0,1140.0,320000.0,0
+for_sale,,1.0,,Saint Thomas,Virgin Islands,802.0,235.0,115000.0,0
+for_sale,,,1.0,Saint Thomas,Virgin Islands,802.0,,99000.0,0
+for_sale,3.0,5.0,0.81,Saint Thomas,Virgin Islands,802.0,4500.0,925000.0,0
+for_sale,5.0,5.0,0.25,Saint Thomas,Virgin Islands,802.0,10695.0,1000000.0,0
+for_sale,,,0.05,Saint Thomas,Virgin Islands,802.0,,125000.0,0
+for_sale,,,0.86,Saint Thomas,Virgin Islands,802.0,,125000.0,0
+for_sale,,,0.48,Saint Thomas,Virgin Islands,802.0,,110600.0,0
+for_sale,6.0,5.0,0.88,Saint Thomas,Virgin Islands,802.0,4400.0,825000.0,0
+for_sale,4.0,6.0,1.0,Saint Thomas,Virgin Islands,802.0,6600.0,1750000.0,0
+for_sale,,,0.5,Saint Thomas,Virgin Islands,802.0,,130000.0,0
+for_sale,5.0,4.0,1.8,Saint Thomas,Virgin Islands,802.0,3300.0,875000.0,0
+for_sale,,,0.34,Saint Thomas,Virgin Islands,802.0,,115000.0,0
+for_sale,1.0,1.0,,Saint Thomas,Virgin Islands,802.0,760.0,249900.0,0
+for_sale,5.0,4.0,0.99,Saint Thomas,Virgin Islands,802.0,5000.0,950000.0,1
+for_sale,,,0.66,Saint Thomas,Virgin Islands,802.0,,110000.0,0
+for_sale,10.0,4.0,0.13,Saint Thomas,Virgin Islands,802.0,,775000.0,0
+for_sale,,,0.5,Saint Thomas,Virgin Islands,802.0,,160000.0,0
+for_sale,3.0,3.0,0.34,Saint Thomas,Virgin Islands,802.0,,1295000.0,0
+for_sale,,,0.53,Saint Thomas,Virgin Islands,802.0,,262000.0,0
+for_sale,4.0,6.0,0.59,Saint Thomas,Virgin Islands,802.0,7000.0,3200000.0,0
+for_sale,3.0,5.0,1.21,Saint Thomas,Virgin Islands,802.0,4832.0,2000000.0,0
+for_sale,7.0,6.0,0.12,Saint Thomas,Virgin Islands,802.0,5077.0,1295000.0,0
+for_sale,6.0,5.0,0.7,Saint Thomas,Virgin Islands,802.0,6200.0,1895000.0,0
+for_sale,4.0,4.0,0.89,Saint Thomas,Virgin Islands,802.0,3000.0,949000.0,0
+for_sale,7.0,8.0,4.2,Saint Thomas,Virgin Islands,802.0,,6950000.0,0
+for_sale,2.0,3.0,0.5,Saint John,Virgin Islands,830.0,2771.0,2000000.0,0
+for_sale,,,6.99,Saint Thomas,Virgin Islands,802.0,,560000.0,0
+for_sale,3.0,2.0,,Saint Thomas,Virgin Islands,802.0,1487.0,619000.0,0
+for_sale,4.0,5.0,0.67,Saint Thomas,Virgin Islands,802.0,8000.0,5990000.0,0
+for_sale,4.0,4.0,0.25,Saint John,Virgin Islands,830.0,3840.0,2000000.0,0
+for_sale,6.0,6.0,0.76,Saint Thomas,Virgin Islands,802.0,,3250000.0,0
+for_sale,,,4.28,Saint Thomas,Virgin Islands,802.0,,690000.0,0
+for_sale,,,3.1,Saint Thomas,Virgin Islands,802.0,,750000.0,0
+for_sale,,,3.09,Saint Thomas,Virgin Islands,802.0,,750000.0,0
+for_sale,,,3.17,Saint Thomas,Virgin Islands,802.0,,1050000.0,0
+for_sale,,,3.72,Saint Thomas,Virgin Islands,802.0,,985000.0,0
+for_sale,,,0.46,Saint John,Virgin Islands,830.0,,850000.0,0
+for_sale,,,2.97,Saint Thomas,Virgin Islands,802.0,,1125000.0,0
+for_sale,,,3.0,Saint Thomas,Virgin Islands,802.0,,2500000.0,0
+for_sale,,,96.6,Saint Thomas,Virgin Islands,802.0,,10990000.0,0
+for_sale,,,0.77,Christiansted,Virgin Islands,820.0,,41000.0,0
+for_sale,,,0.64,Christiansted,Virgin Islands,820.0,,59000.0,0
+for_sale,,,0.29,Christiansted,Virgin Islands,820.0,,39900.0,0
+for_sale,6.0,7.0,1.05,Christiansted,Virgin Islands,820.0,12000.0,8900000.0,0
+for_sale,8.0,5.0,1.62,Christiansted,Virgin Islands,820.0,12296.0,2450000.0,0
+for_sale,,,0.48,Christiansted,Virgin Islands,820.0,,81950.0,0
+for_sale,,,0.76,Christiansted,Virgin Islands,820.0,,79500.0,1
+for_sale,,,2.01,Christiansted,Virgin Islands,820.0,,129000.0,0
+for_sale,,,3.09,Christiansted,Virgin Islands,820.0,,265000.0,0
+for_sale,,,0.74,Christiansted,Virgin Islands,820.0,,78000.0,0
+for_sale,4.0,5.0,1.48,Christiansted,Virgin Islands,820.0,7898.0,3765000.0,0
+for_sale,,,1.24,Christiansted,Virgin Islands,820.0,,129000.0,0
+for_sale,,,3.23,Christiansted,Virgin Islands,820.0,,195000.0,0
+for_sale,,,1.23,Christiansted,Virgin Islands,820.0,,299000.0,0
+for_sale,,,15.8,Christiansted,Virgin Islands,820.0,,595000.0,0
+for_sale,,,0.58,Christiansted,Virgin Islands,820.0,,139000.0,0
+for_sale,,,38.78,Christiansted,Virgin Islands,820.0,,895000.0,0
+for_sale,,,1.66,Christiansted,Virgin Islands,820.0,,180000.0,0
+for_sale,,,2.0,Christiansted,Virgin Islands,820.0,,150000.0,0
+for_sale,,,0.69,Christiansted,Virgin Islands,820.0,,105000.0,0
+for_sale,,,0.69,Christiansted,Virgin Islands,820.0,,179000.0,0
+for_sale,,,0.92,Christiansted,Virgin Islands,820.0,,189000.0,0
+for_sale,,,0.76,Christiansted,Virgin Islands,820.0,,179000.0,0
+for_sale,,,3.3,Christiansted,Virgin Islands,820.0,,495000.0,0
+for_sale,,,0.62,Christiansted,Virgin Islands,820.0,,149000.0,0
+for_sale,,,1.87,Christiansted,Virgin Islands,820.0,,349000.0,0
+for_sale,,,14.0,Christiansted,Virgin Islands,820.0,,1500000.0,0
+for_sale,,,1.55,Christiansted,Virgin Islands,820.0,,349000.0,0
+for_sale,,,21.35,Christiansted,Virgin Islands,820.0,,995000.0,0
+for_sale,,,0.94,Christiansted,Virgin Islands,820.0,,299000.0,0
+for_sale,,,5.33,Christiansted,Virgin Islands,820.0,,1500000.0,0
+for_sale,,,40.54,Christiansted,Virgin Islands,820.0,,3900000.0,0
+for_sale,,,88.36,Christiansted,Virgin Islands,820.0,,2900000.0,0
+for_sale,,,0.77,Christiansted,Virgin Islands,820.0,,41000.0,0
+for_sale,,,0.48,Christiansted,Virgin Islands,820.0,,81950.0,0
+for_sale,,,0.64,Christiansted,Virgin Islands,820.0,,59000.0,0
+for_sale,,,0.62,Frederiksted,Virgin Islands,840.0,,78000.0,0
+for_sale,,,2.01,Christiansted,Virgin Islands,820.0,,129000.0,0
+for_sale,,,0.74,Christiansted,Virgin Islands,820.0,,78000.0,0
+for_sale,8.0,5.0,1.62,Christiansted,Virgin Islands,820.0,12296.0,2450000.0,0
+for_sale,6.0,7.0,1.05,Christiansted,Virgin Islands,820.0,12000.0,8900000.0,0
+for_sale,4.0,5.0,1.48,Christiansted,Virgin Islands,820.0,7898.0,3765000.0,0
+for_sale,,,1.24,Christiansted,Virgin Islands,820.0,,129000.0,0
+for_sale,,,3.09,Christiansted,Virgin Islands,820.0,,265000.0,0
+for_sale,,,0.58,Christiansted,Virgin Islands,820.0,,139000.0,0
+for_sale,,,1.4,Frederiksted,Virgin Islands,840.0,,165000.0,0
+for_sale,,,38.78,Christiansted,Virgin Islands,820.0,,895000.0,0
+for_sale,,,3.23,Christiansted,Virgin Islands,820.0,,195000.0,0
+for_sale,,,0.69,Christiansted,Virgin Islands,820.0,,105000.0,0
+for_sale,,,2.0,Christiansted,Virgin Islands,820.0,,150000.0,0
+for_sale,,,15.8,Christiansted,Virgin Islands,820.0,,595000.0,0
+for_sale,,,0.62,Christiansted,Virgin Islands,820.0,,149000.0,0
+for_sale,,,0.69,Christiansted,Virgin Islands,820.0,,179000.0,0
+for_sale,,,1.66,Christiansted,Virgin Islands,820.0,,180000.0,0
+for_sale,,,1.23,Christiansted,Virgin Islands,820.0,,299000.0,0
+for_sale,,,21.35,Christiansted,Virgin Islands,820.0,,995000.0,0
+for_sale,,,2.36,Kingshill,Virgin Islands,850.0,,615738.0,0
+for_sale,,,0.25,,Virgin Islands,,,25000.0,0
+for_sale,,,1.16,Kingshill,Virgin Islands,850.0,,607920.0,0
+for_sale,,,1.87,Christiansted,Virgin Islands,820.0,,349000.0,0
+for_sale,,,3.3,Christiansted,Virgin Islands,820.0,,495000.0,0
+for_sale,,,3.11,Kingshill,Virgin Islands,850.0,,1217556.0,0
+for_sale,,,1.55,Christiansted,Virgin Islands,820.0,,349000.0,0
+for_sale,,,40.54,Christiansted,Virgin Islands,820.0,,3900000.0,0
+for_sale,,,0.94,Christiansted,Virgin Islands,820.0,,299000.0,0
+for_sale,,,5.33,Christiansted,Virgin Islands,820.0,,1500000.0,0
+for_sale,,,1.19,,Virgin Islands,,,90000.0,0
+for_sale,,,0.5,,Virgin Islands,,,120000.0,0
+for_sale,,,88.36,Christiansted,Virgin Islands,820.0,,2900000.0,0
+for_sale,5.0,5.0,0.74,Frederiksted,Virgin Islands,840.0,,2000000.0,0
+for_sale,,,0.99,Frederiksted,Virgin Islands,840.0,,50000.0,0
+for_sale,,,0.85,Frederiksted,Virgin Islands,840.0,,50000.0,0
+for_sale,,,0.5,Frederiksted,Virgin Islands,840.0,,50000.0,0
+for_sale,,,0.63,Frederiksted,Virgin Islands,840.0,,50000.0,0
+for_sale,,,0.95,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,,,1.33,Frederiksted,Virgin Islands,840.0,,65000.0,0
+for_sale,,,0.63,Frederiksted,Virgin Islands,840.0,,45000.0,0
+for_sale,,,0.82,Christiansted,Virgin Islands,820.0,,59000.0,0
+for_sale,,,0.56,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,,,0.5,Frederiksted,Virgin Islands,840.0,,58000.0,0
+for_sale,,,1.03,Frederiksted,Virgin Islands,840.0,,67000.0,0
+for_sale,,,0.69,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,,,0.69,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,,,0.7,Christiansted,Virgin Islands,820.0,,45000.0,0
+for_sale,,,0.67,Frederiksted,Virgin Islands,840.0,,65000.0,0
+for_sale,,,0.44,Christiansted,Virgin Islands,820.0,,39900.0,0
+for_sale,,,0.24,Christiansted,Virgin Islands,820.0,,42500.0,0
+for_sale,,,0.29,Christiansted,Virgin Islands,820.0,,39900.0,0
+for_sale,,,1.19,Christiansted,Virgin Islands,820.0,,89000.0,0
+for_sale,,,0.79,Christiansted,Virgin Islands,820.0,,232000.0,0
+for_sale,,,4.52,Christiansted,Virgin Islands,820.0,,590000.0,0
+for_sale,,,1.05,Christiansted,Virgin Islands,820.0,,200000.0,0
+for_sale,,,0.92,Christiansted,Virgin Islands,820.0,,189000.0,0
+for_sale,,,0.76,Christiansted,Virgin Islands,820.0,,79500.0,1
+for_sale,,,0.75,Christiansted,Virgin Islands,820.0,,209000.0,0
+for_sale,,,0.96,Christiansted,Virgin Islands,820.0,,119000.0,0
+for_sale,,,2.14,Christiansted,Virgin Islands,820.0,,129500.0,0
+for_sale,,,118.79,Christiansted,Virgin Islands,820.0,,945000.0,0
+for_sale,,,0.85,Kingshill,Virgin Islands,850.0,,332919.0,0
+for_sale,,,0.5,Christiansted,Virgin Islands,820.0,,176500.0,1
+for_sale,,,0.89,Kingshill,Virgin Islands,850.0,,310848.0,0
+for_sale,,,0.99,Kingshill,Virgin Islands,850.0,,476377.0,0
+for_sale,,,0.76,Kingshill,Virgin Islands,850.0,,330790.0,0
+for_sale,,,81.0,Christiansted,Virgin Islands,820.0,,11900000.0,0
+for_sale,5.0,5.0,4.95,Christiansted,Virgin Islands,820.0,6545.0,2950000.0,0
+for_sale,,,1.83,,Virgin Islands,,,649000.0,0
+for_sale,,,11.75,Kingshill,Virgin Islands,850.0,,4204608.0,0
+for_sale,,,18.85,Christiansted,Virgin Islands,820.0,,1950000.0,0
+for_sale,,,1.25,Christiansted,Virgin Islands,820.0,,239000.0,0
+for_sale,,,14.0,Christiansted,Virgin Islands,820.0,,1500000.0,0
+for_sale,,,3.46,Christiansted,Virgin Islands,820.0,,1695000.0,0
+for_sale,1.0,1.0,,Christiansted,Virgin Islands,820.0,1200.0,149000.0,0
+for_sale,3.0,2.0,0.24,Christiansted,Virgin Islands,820.0,,169000.0,0
+for_sale,,,0.91,Frederiksted,Virgin Islands,840.0,,70000.0,0
+for_sale,,,1.88,Kingshill,Virgin Islands,850.0,,67000.0,0
+for_sale,,,0.26,Frederiksted,Virgin Islands,840.0,,40000.0,0
+for_sale,,,1.77,Christiansted,Virgin Islands,820.0,,69000.0,0
+for_sale,,,0.86,Christiansted,Virgin Islands,820.0,,53500.0,0
+for_sale,,,4.33,Frederiksted,Virgin Islands,840.0,,160000.0,0
+for_sale,,,0.8,Christiansted,Virgin Islands,820.0,,54900.0,0
+for_sale,,,0.37,Christiansted,Virgin Islands,820.0,,48500.0,0
+for_sale,,,1.98,Frederiksted,Virgin Islands,840.0,,260000.0,0
+for_sale,,,0.69,Christiansted,Virgin Islands,820.0,,50000.0,0
+for_sale,,,0.43,Christiansted,Virgin Islands,820.0,,60000.0,0
+for_sale,6.0,7.0,3.3,Christiansted,Virgin Islands,820.0,,2900000.0,0
+for_sale,,,1.02,Christiansted,Virgin Islands,820.0,,100000.0,0
+for_sale,,,1.41,Christiansted,Virgin Islands,820.0,,70000.0,0
+for_sale,,,0.83,Christiansted,Virgin Islands,820.0,,62000.0,0
+for_sale,2.0,2.0,37.4,Christiansted,Virgin Islands,820.0,,1900000.0,0
+for_sale,,,33.3,Frederiksted,Virgin Islands,840.0,,498000.0,0
+for_sale,,,6.32,Christiansted,Virgin Islands,820.0,,289000.0,0
+for_sale,,,3.15,Christiansted,Virgin Islands,820.0,,189000.0,0
+for_sale,,,0.79,Frederiksted,Virgin Islands,840.0,,99000.0,0
+for_sale,,,3.31,Christiansted,Virgin Islands,820.0,,195000.0,0
+for_sale,,,43.1,Christiansted,Virgin Islands,820.0,,588000.0,0
+for_sale,,,3.93,Kingshill,Virgin Islands,850.0,,359000.0,0
+for_sale,,,1.43,Christiansted,Virgin Islands,820.0,,94500.0,0
+for_sale,,,0.97,Christiansted,Virgin Islands,820.0,,94900.0,0
+for_sale,,,2.67,Christiansted,Virgin Islands,820.0,,275000.0,0
+for_sale,,,0.51,Christiansted,Virgin Islands,820.0,,89500.0,0
+for_sale,,,2.0,Christiansted,Virgin Islands,820.0,,170000.0,0
+for_sale,7.0,6.0,1.41,Christiansted,Virgin Islands,820.0,8000.0,3900000.0,0
+for_sale,,,0.44,Christiansted,Virgin Islands,820.0,,95000.0,0
+for_sale,,,0.71,Christiansted,Virgin Islands,820.0,,110000.0,0
+for_sale,,,34.15,Christiansted,Virgin Islands,820.0,,751300.0,0
+for_sale,,,0.64,Christiansted,Virgin Islands,820.0,,249000.0,0
+for_sale,,,0.85,Christiansted,Virgin Islands,820.0,,129000.0,0
+for_sale,4.0,4.0,,Christiansted,Virgin Islands,820.0,3240.0,1690000.0,0
+for_sale,,,0.87,Christiansted,Virgin Islands,820.0,,200000.0,0
+for_sale,,,0.5,Christiansted,Virgin Islands,820.0,,135000.0,0
+for_sale,,,744.0,Christiansted,Virgin Islands,820.0,,22500000.0,0
+for_sale,,,0.39,,Virgin Islands,,,55000.0,0
+for_sale,,,0.44,,Virgin Islands,,,165000.0,0
+for_sale,3.0,2.0,0.24,Christiansted,Virgin Islands,820.0,,225000.0,0
+for_sale,5.0,6.0,2.29,Christiansted,Virgin Islands,820.0,,1695000.0,0
+for_sale,,,0.46,Frederiksted,Virgin Islands,840.0,,39500.0,0
+for_sale,,,1.59,Frederiksted,Virgin Islands,840.0,,85000.0,0
+for_sale,3.0,3.0,,Christiansted,Virgin Islands,820.0,2290.0,399000.0,0
+for_sale,,,0.94,Christiansted,Virgin Islands,820.0,,58500.0,0
+for_sale,,,0.5,Frederiksted,Virgin Islands,840.0,,42000.0,0
+for_sale,,,1.17,Christiansted,Virgin Islands,820.0,,64000.0,0
+for_sale,,,0.49,Christiansted,Virgin Islands,820.0,,39900.0,0
+for_sale,,,0.7,Christiansted,Virgin Islands,820.0,,62000.0,0
+for_sale,,,0.99,Christiansted,Virgin Islands,820.0,,67500.0,0
+for_sale,,,0.61,Christiansted,Virgin Islands,820.0,,52000.0,0
+for_sale,,,0.94,Christiansted,Virgin Islands,820.0,,72000.0,0
+for_sale,,,1.15,Christiansted,Virgin Islands,820.0,,76500.0,0
+for_sale,,,1.11,Christiansted,Virgin Islands,820.0,,76500.0,0
+for_sale,,,3.01,Christiansted,Virgin Islands,820.0,,125000.0,0
+for_sale,,,0.6,Christiansted,Virgin Islands,820.0,,85000.0,0
+for_sale,,,16.7,Frederiksted,Virgin Islands,840.0,,599000.0,0
+for_sale,,,0.5,Christiansted,Virgin Islands,820.0,,79000.0,0
+for_sale,,,0.42,Kingshill,Virgin Islands,850.0,,85000.0,0
+for_sale,,,2.63,Christiansted,Virgin Islands,820.0,,159000.0,0
+for_sale,,,2.06,Frederiksted,Virgin Islands,840.0,,317000.0,0
+for_sale,,,0.9,Christiansted,Virgin Islands,820.0,,120000.0,0
+for_sale,,,0.71,Christiansted,Virgin Islands,820.0,,115000.0,0
+for_sale,,,1.94,Christiansted,Virgin Islands,820.0,,199000.0,0
+for_sale,,,1.94,Christiansted,Virgin Islands,820.0,,272000.0,0
+for_sale,,,0.44,Frederiksted,Virgin Islands,840.0,,199000.0,0
+for_sale,,,8.6,Christiansted,Virgin Islands,820.0,,599000.0,0
+for_sale,,,2.16,Christiansted,Virgin Islands,820.0,,500000.0,0
+for_sale,,,2.05,Christiansted,Virgin Islands,820.0,,260000.0,0
+for_sale,,,15.26,Christiansted,Virgin Islands,820.0,,721000.0,0
+for_sale,,,1.04,Christiansted,Virgin Islands,820.0,,165000.0,0
+for_sale,,,0.75,Christiansted,Virgin Islands,820.0,,165000.0,0
+for_sale,,,0.62,Christiansted,Virgin Islands,820.0,,210000.0,0
+for_sale,,,20.0,Christiansted,Virgin Islands,820.0,,2269300.0,0
+for_sale,,,22.68,Christiansted,Virgin Islands,820.0,,2290000.0,0
+for_sale,,,3.91,,Virgin Islands,,,935000.0,0
+for_sale,,,8.0,Christiansted,Virgin Islands,820.0,,2000000.0,0
+for_sale,,,0.6,,Virgin Islands,,,64000.0,0
+for_sale,,,2377.0,Frederiksted,Virgin Islands,840.0,,17500000.0,0
+for_sale,,,0.94,,Virgin Islands,,,125000.0,0
+for_sale,,,1.14,,Virgin Islands,,,199000.0,0
+for_sale,4.0,6.0,0.73,Christiansted,Virgin Islands,820.0,12872.0,2999500.0,0
+for_sale,,,0.3,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,5.0,5.0,0.68,Christiansted,Virgin Islands,820.0,,1295000.0,0
+for_sale,,,0.24,Frederiksted,Virgin Islands,840.0,,35000.0,0
+for_sale,,,0.31,Christiansted,Virgin Islands,820.0,,39000.0,0
+for_sale,5.0,6.0,0.65,Frederiksted,Virgin Islands,840.0,6000.0,1900000.0,0
+for_sale,,,1.06,Christiansted,Virgin Islands,820.0,,55000.0,0
+for_sale,,,0.53,Christiansted,Virgin Islands,820.0,,37000.0,0
+for_sale,,,0.54,Christiansted,Virgin Islands,820.0,,37000.0,0
+for_sale,,,0.37,Kingshill,Virgin Islands,850.0,,45000.0,0
+for_sale,,,0.66,Christiansted,Virgin Islands,820.0,,55000.0,0
+for_sale,,,0.75,Frederiksted,Virgin Islands,840.0,,69999.0,0
+for_sale,,,0.79,Christiansted,Virgin Islands,820.0,,59000.0,0
+for_sale,,,0.69,Christiansted,Virgin Islands,820.0,,65000.0,0
+for_sale,,,1.32,Christiansted,Virgin Islands,820.0,,69300.0,0
+for_sale,,,0.84,Christiansted,Virgin Islands,820.0,,69000.0,0
+for_sale,,,1.99,Christiansted,Virgin Islands,820.0,,150000.0,0
+for_sale,,,1.06,Christiansted,Virgin Islands,820.0,,85000.0,0
+for_sale,,,0.29,Christiansted,Virgin Islands,820.0,,50000.0,0
+for_sale,,,0.52,Christiansted,Virgin Islands,820.0,,59000.0,0
+for_sale,,,0.71,Christiansted,Virgin Islands,820.0,,60300.0,0
+for_sale,,,0.7,Christiansted,Virgin Islands,820.0,,60300.0,0
+for_sale,,,2.44,Christiansted,Virgin Islands,820.0,,140000.0,0
+for_sale,,,0.9,Christiansted,Virgin Islands,820.0,,77000.0,0
+for_sale,,,0.55,Christiansted,Virgin Islands,820.0,,62000.0,0
+for_sale,,,1.72,Christiansted,Virgin Islands,820.0,,165000.0,0
+for_sale,,,1.45,Christiansted,Virgin Islands,820.0,,119000.0,0
+for_sale,,,1.26,Christiansted,Virgin Islands,820.0,,189000.0,0
+for_sale,,,44.52,Christiansted,Virgin Islands,820.0,,700000.0,0
+for_sale,,,39.64,Christiansted,Virgin Islands,820.0,,1100000.0,0
+for_sale,,,1.51,Christiansted,Virgin Islands,820.0,,125000.0,0
+for_sale,,,1.01,Christiansted,Virgin Islands,820.0,,169000.0,0
+for_sale,,,0.33,Christiansted,Virgin Islands,820.0,,199000.0,0
+for_sale,,,1.43,Christiansted,Virgin Islands,820.0,,149000.0,0
+for_sale,,,0.86,Christiansted,Virgin Islands,820.0,,270000.0,0
+for_sale,,,1.18,Christiansted,Virgin Islands,820.0,,249000.0,0
+for_sale,,,0.52,Christiansted,Virgin Islands,820.0,,99000.0,0
+for_sale,,,0.82,Frederiksted,Virgin Islands,840.0,,275000.0,0
+for_sale,,,0.72,Christiansted,Virgin Islands,820.0,,125000.0,0
+for_sale,,,0.75,Christiansted,Virgin Islands,820.0,,299000.0,0
+for_sale,,,0.63,Christiansted,Virgin Islands,820.0,,349000.0,0
+for_sale,,,1.23,Christiansted,Virgin Islands,820.0,,599000.0,0
+for_sale,3.0,1.0,0.12,Kingshill,Virgin Islands,850.0,1200.0,167000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,800.0,199000.0,0
+for_sale,4.0,2.0,0.49,Christiansted,Virgin Islands,820.0,,99000.0,0
+for_sale,4.0,2.0,0.36,Christiansted,Virgin Islands,820.0,,400000.0,0
+for_sale,6.0,6.0,0.5,Christiansted,Virgin Islands,820.0,,899999.0,0
+for_sale,3.0,2.0,0.23,Frederiksted,Virgin Islands,840.0,,339000.0,0
+for_sale,,,0.31,Frederiksted,Virgin Islands,840.0,,47000.0,0
+for_sale,6.0,5.0,1.28,Christiansted,Virgin Islands,820.0,,1950000.0,0
+for_sale,,,0.29,Frederiksted,Virgin Islands,840.0,,45000.0,0
+for_sale,,,0.55,Christiansted,Virgin Islands,820.0,,325000.0,0
+for_sale,,,0.53,Christiansted,Virgin Islands,820.0,,29900.0,0
+for_sale,,,0.53,Christiansted,Virgin Islands,820.0,,52500.0,0
+for_sale,,,0.79,Christiansted,Virgin Islands,820.0,,49000.0,0
+for_sale,3.0,3.0,0.87,Christiansted,Virgin Islands,820.0,7550.0,949000.0,0
+for_sale,,,0.63,Christiansted,Virgin Islands,820.0,,55000.0,0
+for_sale,,,0.38,Christiansted,Virgin Islands,820.0,,45000.0,0
+for_sale,,,1.49,Christiansted,Virgin Islands,820.0,,65000.0,0
+for_sale,,,0.29,Christiansted,Virgin Islands,820.0,,49500.0,0
+for_sale,,,1.27,Christiansted,Virgin Islands,820.0,,89000.0,0
+for_sale,,,0.7,Christiansted,Virgin Islands,820.0,,70000.0,0
+for_sale,,,0.82,Christiansted,Virgin Islands,820.0,,75000.0,0
+for_sale,,,13.36,Christiansted,Virgin Islands,820.0,,375000.0,0
+for_sale,,,2.33,Christiansted,Virgin Islands,820.0,,110000.0,0
+for_sale,,,0.68,Christiansted,Virgin Islands,820.0,,74800.0,0
+for_sale,,,2.0,Christiansted,Virgin Islands,820.0,,130000.0,0
+for_sale,,,0.97,Christiansted,Virgin Islands,820.0,,190000.0,0
+for_sale,,,1.51,Christiansted,Virgin Islands,820.0,,150000.0,0
+for_sale,,,1.81,Christiansted,Virgin Islands,820.0,,195000.0,0
+for_sale,,,13.94,Christiansted,Virgin Islands,820.0,,875000.0,0
+for_sale,,,0.06,Christiansted,Virgin Islands,820.0,,135000.0,0
+for_sale,,,11.73,Christiansted,Virgin Islands,820.0,,800000.0,0
+for_sale,,,1.3,Christiansted,Virgin Islands,820.0,,175000.0,0
+for_sale,,,1.26,Christiansted,Virgin Islands,820.0,,349000.0,0
+for_sale,,,0.49,Kingshill,Virgin Islands,850.0,,135000.0,0
+for_sale,,,0.83,Christiansted,Virgin Islands,820.0,,130000.0,0
+for_sale,,,6.88,Frederiksted,Virgin Islands,840.0,,1795000.0,0
+for_sale,,,9.95,Christiansted,Virgin Islands,820.0,,1700000.0,0
+for_sale,,,149.7,Christiansted,Virgin Islands,820.0,,2500000.0,0
+for_sale,,,618.36,Christiansted,Virgin Islands,820.0,,24500000.0,0
+for_sale,,,0.91,,Virgin Islands,,,45000.0,0
+for_sale,,,0.49,,Virgin Islands,,,59000.0,0
+for_sale,,,0.5,,Virgin Islands,,,79000.0,0
+for_sale,2.0,1.0,0.55,Christiansted,Virgin Islands,820.0,1247.0,325000.0,0
+for_sale,3.0,3.0,,Christiansted,Virgin Islands,820.0,1542.0,234000.0,0
+for_sale,3.0,3.0,1.01,Christiansted,Virgin Islands,820.0,2700.0,699999.0,0
+for_sale,,,1.15,Frederiksted,Virgin Islands,840.0,,25000.0,0
+for_sale,4.0,5.0,1.05,Christiansted,Virgin Islands,820.0,,795000.0,0
+for_sale,,,1.08,Frederiksted,Virgin Islands,840.0,,25000.0,0
+for_sale,,,0.78,Christiansted,Virgin Islands,820.0,,29000.0,0
+for_sale,,,2.05,Frederiksted,Virgin Islands,840.0,,78000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1200.0,189000.0,0
+for_sale,1.0,2.0,1.65,Christiansted,Virgin Islands,820.0,,1900000.0,0
+for_sale,5.0,5.0,0.79,Christiansted,Virgin Islands,820.0,4000.0,1100000.0,0
+for_sale,5.0,3.0,0.43,Frederiksted,Virgin Islands,840.0,,475000.0,0
+for_sale,5.0,4.0,1.01,Christiansted,Virgin Islands,820.0,,595000.0,0
+for_sale,,,0.23,Christiansted,Virgin Islands,820.0,,39000.0,0
+for_sale,,,1.15,Christiansted,Virgin Islands,820.0,,80000.0,0
+for_sale,,,1.07,Christiansted,Virgin Islands,820.0,,95000.0,0
+for_sale,7.0,6.0,11.0,Christiansted,Virgin Islands,820.0,,2400000.0,0
+for_sale,,,1.31,Christiansted,Virgin Islands,820.0,,65000.0,0
+for_sale,,,0.92,Christiansted,Virgin Islands,820.0,,85000.0,0
+for_sale,,,0.86,Christiansted,Virgin Islands,820.0,,53000.0,0
+for_sale,,,0.29,Christiansted,Virgin Islands,820.0,,50000.0,0
+for_sale,,,0.45,Christiansted,Virgin Islands,820.0,,64000.0,0
+for_sale,,,0.6,Frederiksted,Virgin Islands,840.0,,100000.0,0
+for_sale,5.0,7.0,2.78,Christiansted,Virgin Islands,820.0,,7900000.0,0
+for_sale,5.0,6.0,2.0,Christiansted,Virgin Islands,820.0,4500.0,3800000.0,0
+for_sale,,,0.68,Christiansted,Virgin Islands,820.0,,85000.0,0
+for_sale,,,0.6,Christiansted,Virgin Islands,820.0,,85000.0,0
+for_sale,6.0,6.0,1.05,Christiansted,Virgin Islands,820.0,7000.0,3300000.0,0
+for_sale,2.0,2.0,1.5,Christiansted,Virgin Islands,820.0,2289.0,2000000.0,0
+for_sale,3.0,3.0,,Kingshill,Virgin Islands,850.0,1776.0,599000.0,0
+for_sale,,,0.52,Christiansted,Virgin Islands,820.0,,75000.0,0
+for_sale,,,14.97,Christiansted,Virgin Islands,820.0,,595000.0,0
+for_sale,,,1.42,Christiansted,Virgin Islands,820.0,,120000.0,0
+for_sale,,,1.65,Frederiksted,Virgin Islands,840.0,,375000.0,0
+for_sale,13.0,13.0,6.54,Christiansted,Virgin Islands,820.0,,8500000.0,0
+for_sale,,,0.87,Christiansted,Virgin Islands,820.0,,200000.0,0
+for_sale,,,0.23,Christiansted,Virgin Islands,820.0,,195000.0,0
+for_sale,,,0.71,Christiansted,Virgin Islands,820.0,,350000.0,0
+for_sale,,,0.72,Christiansted,Virgin Islands,820.0,,350000.0,0
+for_sale,,,0.67,Christiansted,Virgin Islands,820.0,,350000.0,0
+for_sale,,,0.29,Christiansted,Virgin Islands,820.0,,165000.0,0
+for_sale,,,0.94,Christiansted,Virgin Islands,820.0,,225000.0,0
+for_sale,3.0,2.0,0.06,Christiansted,Virgin Islands,820.0,,235000.0,0
+for_sale,6.0,6.0,0.5,Christiansted,Virgin Islands,820.0,,325000.0,0
+for_sale,6.0,2.0,0.35,Christiansted,Virgin Islands,820.0,2436.0,450000.0,0
+for_sale,3.0,2.0,0.32,Frederiksted,Virgin Islands,840.0,,375000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1200.0,194500.0,0
+for_sale,3.0,2.0,0.58,Christiansted,Virgin Islands,820.0,,535000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1118.0,180000.0,0
+for_sale,,,1.61,Kingshill,Virgin Islands,850.0,,69000.0,0
+for_sale,,,0.82,Christiansted,Virgin Islands,820.0,,89000.0,0
+for_sale,,,0.5,Christiansted,Virgin Islands,820.0,,45000.0,0
+for_sale,,,0.49,Christiansted,Virgin Islands,820.0,,39900.0,0
+for_sale,,,0.23,Frederiksted,Virgin Islands,840.0,,40000.0,0
+for_sale,,,0.68,Christiansted,Virgin Islands,820.0,,60000.0,0
+for_sale,,,0.93,Christiansted,Virgin Islands,820.0,,55000.0,0
+for_sale,,,0.46,Christiansted,Virgin Islands,820.0,,39000.0,0
+for_sale,,,0.58,Christiansted,Virgin Islands,820.0,,60000.0,0
+for_sale,,,0.64,Christiansted,Virgin Islands,820.0,,64000.0,0
+for_sale,,,0.44,Christiansted,Virgin Islands,820.0,,52800.0,0
+for_sale,3.0,3.0,0.69,Christiansted,Virgin Islands,820.0,,895000.0,0
+for_sale,3.0,2.0,0.51,Christiansted,Virgin Islands,820.0,,465000.0,0
+for_sale,,,0.78,Christiansted,Virgin Islands,820.0,,75000.0,0
+for_sale,,,0.71,Christiansted,Virgin Islands,820.0,,75000.0,0
+for_sale,,,0.44,Christiansted,Virgin Islands,820.0,,55000.0,0
+for_sale,3.0,4.0,4.0,Christiansted,Virgin Islands,820.0,4319.0,1300000.0,0
+for_sale,3.0,2.0,3.0,Christiansted,Virgin Islands,820.0,4381.0,1100000.0,0
+for_sale,3.0,3.0,0.64,Christiansted,Virgin Islands,820.0,,1645000.0,0
+for_sale,,,0.57,Christiansted,Virgin Islands,820.0,,79000.0,0
+for_sale,,,0.55,Christiansted,Virgin Islands,820.0,,89500.0,0
+for_sale,,,1.28,Christiansted,Virgin Islands,820.0,,799000.0,0
+for_sale,3.0,3.0,2.38,Christiansted,Virgin Islands,820.0,3550.0,1680000.0,0
+for_sale,7.0,7.0,4.0,Christiansted,Virgin Islands,820.0,,1469000.0,0
+for_sale,4.0,4.0,0.6,Christiansted,Virgin Islands,820.0,,1190000.0,0
+for_sale,5.0,3.0,2.93,Frederiksted,Virgin Islands,840.0,3500.0,1900000.0,0
+for_sale,,,0.94,Christiansted,Virgin Islands,820.0,,184000.0,0
+for_sale,,,1.49,Christiansted,Virgin Islands,820.0,,225000.0,0
+for_sale,,,7.59,Frederiksted,Virgin Islands,840.0,,495000.0,0
+for_sale,7.0,10.0,7.78,Christiansted,Virgin Islands,820.0,11200.0,8000000.0,0
+for_sale,,,0.9,Christiansted,Virgin Islands,820.0,,275000.0,0
+for_sale,,,0.73,Christiansted,Virgin Islands,820.0,,350000.0,0
+for_sale,,,0.72,Christiansted,Virgin Islands,820.0,,350000.0,0
+for_sale,,,0.7,Christiansted,Virgin Islands,820.0,,310000.0,0
+for_sale,1.0,1.0,,,Virgin Islands,,1100.0,197500.0,0
+for_sale,3.0,3.0,0.59,Christiansted,Virgin Islands,820.0,4611.0,410000.0,0
+for_sale,3.0,1.0,3600.11,Christiansted,Virgin Islands,820.0,,220000.0,0
+for_sale,4.0,3.0,0.29,Christiansted,Virgin Islands,820.0,,165000.0,0
+for_sale,5.0,3.0,0.25,Christiansted,Virgin Islands,820.0,,179000.0,0
+for_sale,3.0,3.0,,Christiansted,Virgin Islands,820.0,1542.0,239000.0,0
+for_sale,2.0,2.0,0.24,Christiansted,Virgin Islands,820.0,,324000.0,0
+for_sale,2.0,2.0,1.0,Kingshill,Virgin Islands,850.0,1530.0,525000.0,0
+for_sale,3.0,3.0,0.72,Christiansted,Virgin Islands,820.0,,500000.0,0
+for_sale,7.0,7.0,3.57,Christiansted,Virgin Islands,820.0,,1600000.0,0
+for_sale,4.0,3.0,0.08,Christiansted,Virgin Islands,820.0,3200.0,879000.0,0
+for_sale,2.0,2.0,,Kingshill,Virgin Islands,850.0,1250.0,320000.0,0
+for_sale,4.0,4.0,0.66,Christiansted,Virgin Islands,820.0,,749000.0,0
+for_sale,3.0,3.0,0.3,Christiansted,Virgin Islands,820.0,,529000.0,0
+for_sale,3.0,2.0,,Christiansted,Virgin Islands,820.0,1515.0,375000.0,0
+for_sale,4.0,3.0,0.71,Christiansted,Virgin Islands,820.0,,695000.0,0
+for_sale,5.0,3.0,0.28,Kingshill,Virgin Islands,850.0,,350000.0,0
+for_sale,5.0,6.0,1.0,Christiansted,Virgin Islands,820.0,,1150000.0,0
+for_sale,5.0,4.0,0.75,Christiansted,Virgin Islands,820.0,,749000.0,0
+for_sale,4.0,4.0,0.71,Christiansted,Virgin Islands,820.0,8600.0,1295000.0,0
+for_sale,3.0,3.0,2.15,Christiansted,Virgin Islands,820.0,4500.0,3950000.0,0
+for_sale,3.0,3.0,0.42,Christiansted,Virgin Islands,820.0,1600.0,965000.0,0
+for_sale,2.0,2.0,0.75,Christiansted,Virgin Islands,820.0,,529500.0,0
+for_sale,5.0,5.0,1.01,Kingshill,Virgin Islands,850.0,,1450000.0,0
+for_sale,,,0.7,Christiansted,Virgin Islands,820.0,,69000.0,0
+for_sale,,,2.29,Christiansted,Virgin Islands,820.0,,145000.0,0
+for_sale,,,0.5,Christiansted,Virgin Islands,820.0,,70000.0,0
+for_sale,5.0,3.0,0.95,Christiansted,Virgin Islands,820.0,,1350000.0,0
+for_sale,,,0.65,Frederiksted,Virgin Islands,840.0,,79000.0,0
+for_sale,,,0.55,Frederiksted,Virgin Islands,840.0,,39500.0,0
+for_sale,,,1.03,Christiansted,Virgin Islands,820.0,,150000.0,0
+for_sale,,,0.85,Christiansted,Virgin Islands,820.0,,55000.0,0
+for_sale,6.0,7.0,1.08,Christiansted,Virgin Islands,820.0,,1350000.0,0
+for_sale,,,0.51,Christiansted,Virgin Islands,820.0,,119900.0,0
+for_sale,,,0.42,Christiansted,Virgin Islands,820.0,,150000.0,0
+for_sale,,,0.4,Christiansted,Virgin Islands,820.0,,195000.0,0
+for_sale,,,1.09,Christiansted,Virgin Islands,820.0,,199000.0,0
+for_sale,1.0,1.0,,Christiansted,Virgin Islands,820.0,770.0,249000.0,0
+for_sale,,,15.66,Christiansted,Virgin Islands,820.0,,1850000.0,0
+for_sale,,,0.91,Christiansted,Virgin Islands,820.0,,250000.0,0
+for_sale,,,14.0,Christiansted,Virgin Islands,820.0,,1295000.0,0
+for_sale,,,0.52,Christiansted,Virgin Islands,820.0,,1200000.0,0
+for_sale,,,0.84,,Virgin Islands,,,72000.0,0
+for_sale,,,0.82,Christiansted,Virgin Islands,820.0,,59000.0,0
+for_sale,6.0,7.0,3.3,Christiansted,Virgin Islands,820.0,,2900000.0,0
+for_sale,,,1.15,Christiansted,Virgin Islands,820.0,,83545.0,0
+for_sale,,,0.24,Christiansted,Virgin Islands,820.0,,42500.0,0
+for_sale,,,0.43,Christiansted,Virgin Islands,820.0,,60000.0,0
+for_sale,,,1.19,Christiansted,Virgin Islands,820.0,,89000.0,0
+for_sale,1.0,1.0,,Christiansted,Virgin Islands,820.0,1200.0,149000.0,0
+for_sale,,,1.41,Christiansted,Virgin Islands,820.0,,70000.0,0
+for_sale,,,1.02,Christiansted,Virgin Islands,820.0,,100000.0,0
+for_sale,,,0.7,Christiansted,Virgin Islands,820.0,,45000.0,0
+for_sale,,,1.77,Christiansted,Virgin Islands,820.0,,69000.0,0
+for_sale,,,0.83,Christiansted,Virgin Islands,820.0,,62000.0,0
+for_sale,,,0.69,Christiansted,Virgin Islands,820.0,,50000.0,0
+for_sale,,,0.44,Christiansted,Virgin Islands,820.0,,39900.0,0
+for_sale,,,0.97,Christiansted,Virgin Islands,820.0,,94900.0,0
+for_sale,,,0.96,Christiansted,Virgin Islands,820.0,,119000.0,0
+for_sale,,,6.32,Christiansted,Virgin Islands,820.0,,289000.0,0
+for_sale,,,3.31,Christiansted,Virgin Islands,820.0,,195000.0,0
+for_sale,,,2.14,Christiansted,Virgin Islands,820.0,,129500.0,0
+for_sale,,,0.44,Christiansted,Virgin Islands,820.0,,95000.0,0
+for_sale,,,2.67,Christiansted,Virgin Islands,820.0,,275000.0,0
+for_sale,,,4.52,Christiansted,Virgin Islands,820.0,,590000.0,0
+for_sale,7.0,6.0,1.41,Christiansted,Virgin Islands,820.0,8000.0,3900000.0,0
+for_sale,,,34.15,Christiansted,Virgin Islands,820.0,,751300.0,0
+for_sale,,,1.05,Christiansted,Virgin Islands,820.0,,200000.0,0
+for_sale,,,2.0,Christiansted,Virgin Islands,820.0,,170000.0,0
+for_sale,5.0,5.0,4.95,Christiansted,Virgin Islands,820.0,6545.0,2950000.0,0
+for_sale,,,43.1,Christiansted,Virgin Islands,820.0,,588000.0,0
+for_sale,,,0.79,Christiansted,Virgin Islands,820.0,,232000.0,0
+for_sale,,,0.5,Christiansted,Virgin Islands,820.0,,176500.0,1
+for_sale,,,0.5,Christiansted,Virgin Islands,820.0,,135000.0,0
+for_sale,,,18.85,Christiansted,Virgin Islands,820.0,,1950000.0,0
+for_sale,,,81.0,Christiansted,Virgin Islands,820.0,,11900000.0,0
+for_sale,,,0.75,Christiansted,Virgin Islands,820.0,,209000.0,0
+for_sale,,,0.64,Christiansted,Virgin Islands,820.0,,249000.0,0
+for_sale,,,3.46,Christiansted,Virgin Islands,820.0,,1695000.0,0
+for_sale,,,744.0,Christiansted,Virgin Islands,820.0,,22500000.0,0
+for_sale,,,118.79,Christiansted,Virgin Islands,820.0,,945000.0,0
+for_sale,,,1.25,Christiansted,Virgin Islands,820.0,,239000.0,0
+for_sale,2.0,2.0,37.4,Christiansted,Virgin Islands,820.0,,1900000.0,0
+for_sale,,,0.87,Christiansted,Virgin Islands,820.0,,200000.0,0
+for_sale,4.0,4.0,,Christiansted,Virgin Islands,820.0,3240.0,1690000.0,0
+for_sale,3.0,2.0,0.24,Christiansted,Virgin Islands,820.0,,225000.0,0
+for_sale,5.0,6.0,2.29,Christiansted,Virgin Islands,820.0,,1695000.0,0
+for_sale,3.0,2.0,0.24,Christiansted,Virgin Islands,820.0,,169000.0,0
+for_sale,,,0.37,Christiansted,Virgin Islands,820.0,,48500.0,0
+for_sale,,,0.86,Christiansted,Virgin Islands,820.0,,53500.0,0
+for_sale,,,0.8,Christiansted,Virgin Islands,820.0,,54900.0,0
+for_sale,,,0.49,Christiansted,Virgin Islands,820.0,,39900.0,0
+for_sale,,,0.94,Christiansted,Virgin Islands,820.0,,58500.0,0
+for_sale,,,3.15,Christiansted,Virgin Islands,820.0,,189000.0,0
+for_sale,,,1.17,Christiansted,Virgin Islands,820.0,,64000.0,0
+for_sale,,,0.99,Christiansted,Virgin Islands,820.0,,67500.0,0
+for_sale,,,0.61,Christiansted,Virgin Islands,820.0,,52000.0,0
+for_sale,,,2.16,Christiansted,Virgin Islands,820.0,,500000.0,0
+for_sale,,,3.01,Christiansted,Virgin Islands,820.0,,125000.0,0
+for_sale,,,2.63,Christiansted,Virgin Islands,820.0,,159000.0,0
+for_sale,,,0.7,Christiansted,Virgin Islands,820.0,,62000.0,0
+for_sale,,,1.15,Christiansted,Virgin Islands,820.0,,76500.0,0
+for_sale,,,1.11,Christiansted,Virgin Islands,820.0,,76500.0,0
+for_sale,,,1.94,Christiansted,Virgin Islands,820.0,,272000.0,0
+for_sale,,,1.94,Christiansted,Virgin Islands,820.0,,199000.0,0
+for_sale,,,0.94,Christiansted,Virgin Islands,820.0,,72000.0,0
+for_sale,,,1.99,Christiansted,Virgin Islands,820.0,,150000.0,0
+for_sale,,,8.6,Christiansted,Virgin Islands,820.0,,599000.0,0
+for_sale,3.0,3.0,,Christiansted,Virgin Islands,820.0,2290.0,399000.0,0
+for_sale,,,2.05,Christiansted,Virgin Islands,820.0,,260000.0,0
+for_sale,,,1.43,Christiansted,Virgin Islands,820.0,,94500.0,0
+for_sale,,,0.6,Christiansted,Virgin Islands,820.0,,85000.0,0
+for_sale,,,0.5,Christiansted,Virgin Islands,820.0,,79000.0,0
+for_sale,,,1.45,Christiansted,Virgin Islands,820.0,,119000.0,0
+for_sale,,,1.3,Christiansted,Virgin Islands,820.0,,130000.0,0
+for_sale,,,15.26,Christiansted,Virgin Islands,820.0,,721000.0,0
+for_sale,,,1.04,Christiansted,Virgin Islands,820.0,,165000.0,0
+for_sale,,,8.0,Christiansted,Virgin Islands,820.0,,2000000.0,0
+for_sale,,,0.9,Christiansted,Virgin Islands,820.0,,120000.0,0
+for_sale,,,0.51,Christiansted,Virgin Islands,820.0,,89500.0,0
+for_sale,,,0.75,Christiansted,Virgin Islands,820.0,,165000.0,0
+for_sale,,,0.62,Christiansted,Virgin Islands,820.0,,210000.0,0
+for_sale,,,20.0,Christiansted,Virgin Islands,820.0,,2269300.0,0
+for_sale,,,0.71,Christiansted,Virgin Islands,820.0,,115000.0,0
+for_sale,,,0.85,Christiansted,Virgin Islands,820.0,,129000.0,0
+for_sale,,,22.68,Christiansted,Virgin Islands,820.0,,2290000.0,0
+for_sale,,,0.71,Christiansted,Virgin Islands,820.0,,110000.0,0
+for_sale,4.0,6.0,0.73,Christiansted,Virgin Islands,820.0,12872.0,2999500.0,0
+for_sale,5.0,5.0,0.68,Christiansted,Virgin Islands,820.0,,1295000.0,0
+for_sale,,,1.06,Christiansted,Virgin Islands,820.0,,55000.0,0
+for_sale,,,0.54,Christiansted,Virgin Islands,820.0,,37000.0,0
+for_sale,,,0.53,Christiansted,Virgin Islands,820.0,,37000.0,0
+for_sale,,,0.31,Christiansted,Virgin Islands,820.0,,39000.0,0
+for_sale,,,0.66,Christiansted,Virgin Islands,820.0,,55000.0,0
+for_sale,,,1.06,Christiansted,Virgin Islands,820.0,,85000.0,0
+for_sale,,,0.79,Christiansted,Virgin Islands,820.0,,59000.0,0
+for_sale,,,0.69,Christiansted,Virgin Islands,820.0,,65000.0,0
+for_sale,,,0.29,Christiansted,Virgin Islands,820.0,,50000.0,0
+for_sale,,,0.52,Christiansted,Virgin Islands,820.0,,59000.0,0
+for_sale,,,1.32,Christiansted,Virgin Islands,820.0,,69300.0,0
+for_sale,,,0.84,Christiansted,Virgin Islands,820.0,,69000.0,0
+for_sale,,,0.55,Christiansted,Virgin Islands,820.0,,62000.0,0
+for_sale,,,2.44,Christiansted,Virgin Islands,820.0,,140000.0,0
+for_sale,,,0.71,Christiansted,Virgin Islands,820.0,,60300.0,0
+for_sale,,,0.7,Christiansted,Virgin Islands,820.0,,60300.0,0
+for_sale,,,0.9,Christiansted,Virgin Islands,820.0,,77000.0,0
+for_sale,,,1.72,Christiansted,Virgin Islands,820.0,,165000.0,0
+for_sale,,,0.06,Christiansted,Virgin Islands,820.0,,135000.0,0
+for_sale,,,2.33,Christiansted,Virgin Islands,820.0,,110000.0,0
+for_sale,,,1.81,Christiansted,Virgin Islands,820.0,,195000.0,0
+for_sale,,,0.52,Christiansted,Virgin Islands,820.0,,99000.0,0
+for_sale,,,1.51,Christiansted,Virgin Islands,820.0,,125000.0,0
+for_sale,,,0.82,Christiansted,Virgin Islands,820.0,,75000.0,0
+for_sale,,,0.86,Christiansted,Virgin Islands,820.0,,270000.0,0
+for_sale,,,44.52,Christiansted,Virgin Islands,820.0,,700000.0,0
+for_sale,,,13.94,Christiansted,Virgin Islands,820.0,,875000.0,0
+for_sale,,,1.26,Christiansted,Virgin Islands,820.0,,189000.0,0
+for_sale,,,1.18,Christiansted,Virgin Islands,820.0,,249000.0,0
+for_sale,,,1.43,Christiansted,Virgin Islands,820.0,,149000.0,0
+for_sale,,,1.01,Christiansted,Virgin Islands,820.0,,169000.0,0
+for_sale,,,0.33,Christiansted,Virgin Islands,820.0,,199000.0,0
+for_sale,,,1.23,Christiansted,Virgin Islands,820.0,,599000.0,0
+for_sale,,,39.64,Christiansted,Virgin Islands,820.0,,1100000.0,0
+for_sale,,,0.75,Christiansted,Virgin Islands,820.0,,299000.0,0
+for_sale,,,1.26,Christiansted,Virgin Islands,820.0,,349000.0,0
+for_sale,,,0.63,Christiansted,Virgin Islands,820.0,,349000.0,0
+for_sale,,,0.72,Christiansted,Virgin Islands,820.0,,125000.0,0
+for_sale,,,149.7,Christiansted,Virgin Islands,820.0,,2500000.0,0
+for_sale,,,0.83,Christiansted,Virgin Islands,820.0,,130000.0,0
+for_sale,6.0,5.0,1.28,Christiansted,Virgin Islands,820.0,,1950000.0,0
+for_sale,6.0,6.0,0.5,Christiansted,Virgin Islands,820.0,,899999.0,0
+for_sale,4.0,2.0,0.49,Christiansted,Virgin Islands,820.0,,99000.0,0
+for_sale,3.0,3.0,,Christiansted,Virgin Islands,820.0,1542.0,234000.0,0
+for_sale,4.0,2.0,0.36,Christiansted,Virgin Islands,820.0,,400000.0,0
+for_sale,2.0,2.0,1.15,Christiansted,Virgin Islands,820.0,1900.0,449000.0,0
+for_sale,4.0,5.0,1.05,Christiansted,Virgin Islands,820.0,,795000.0,0
+for_sale,7.0,6.0,11.0,Christiansted,Virgin Islands,820.0,,2400000.0,0
+for_sale,,,0.55,Christiansted,Virgin Islands,820.0,,325000.0,0
+for_sale,3.0,3.0,0.87,Christiansted,Virgin Islands,820.0,7550.0,949000.0,0
+for_sale,1.0,2.0,1.65,Christiansted,Virgin Islands,820.0,,1900000.0,0
+for_sale,,,1.27,Christiansted,Virgin Islands,820.0,,89000.0,0
+for_sale,,,0.38,Christiansted,Virgin Islands,820.0,,45000.0,0
+for_sale,,,0.79,Christiansted,Virgin Islands,820.0,,49000.0,0
+for_sale,,,1.49,Christiansted,Virgin Islands,820.0,,65000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1200.0,189000.0,0
+for_sale,5.0,5.0,0.79,Christiansted,Virgin Islands,820.0,4000.0,1100000.0,0
+for_sale,5.0,6.0,2.0,Christiansted,Virgin Islands,820.0,4500.0,3800000.0,0
+for_sale,5.0,4.0,1.01,Christiansted,Virgin Islands,820.0,,595000.0,0
+for_sale,,,0.53,Christiansted,Virgin Islands,820.0,,52500.0,0
+for_sale,,,0.63,Christiansted,Virgin Islands,820.0,,55000.0,0
+for_sale,,,0.29,Christiansted,Virgin Islands,820.0,,50000.0,0
+for_sale,,,0.53,Christiansted,Virgin Islands,820.0,,29900.0,0
+for_sale,,,0.45,Christiansted,Virgin Islands,820.0,,64000.0,0
+for_sale,,,0.29,Christiansted,Virgin Islands,820.0,,49500.0,0
+for_sale,,,0.6,Christiansted,Virgin Islands,820.0,,85000.0,0
+for_sale,6.0,6.0,1.05,Christiansted,Virgin Islands,820.0,7000.0,3300000.0,0
+for_sale,,,0.68,Christiansted,Virgin Islands,820.0,,74800.0,0
+for_sale,,,2.0,Christiansted,Virgin Islands,820.0,,130000.0,0
+for_sale,,,0.7,Christiansted,Virgin Islands,820.0,,70000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,800.0,199000.0,0
+for_sale,13.0,13.0,6.54,Christiansted,Virgin Islands,820.0,,8500000.0,0
+for_sale,,,14.97,Christiansted,Virgin Islands,820.0,,595000.0,0
+for_sale,,,1.42,Christiansted,Virgin Islands,820.0,,120000.0,0
+for_sale,,,13.36,Christiansted,Virgin Islands,820.0,,375000.0,0
+for_sale,,,1.51,Christiansted,Virgin Islands,820.0,,150000.0,0
+for_sale,,,0.97,Christiansted,Virgin Islands,820.0,,190000.0,0
+for_sale,,,9.95,Christiansted,Virgin Islands,820.0,,1700000.0,0
+for_sale,,,618.36,Christiansted,Virgin Islands,820.0,,24500000.0,0
+for_sale,,,11.73,Christiansted,Virgin Islands,820.0,,800000.0,0
+for_sale,,,1.3,Christiansted,Virgin Islands,820.0,,175000.0,0
+for_sale,,,0.23,Christiansted,Virgin Islands,820.0,,195000.0,0
+for_sale,2.0,1.0,0.55,Christiansted,Virgin Islands,820.0,1247.0,325000.0,0
+for_sale,5.0,7.0,2.78,Christiansted,Virgin Islands,820.0,,7900000.0,0
+for_sale,6.0,2.0,0.35,Christiansted,Virgin Islands,820.0,2436.0,450000.0,0
+for_sale,3.0,3.0,1.01,Christiansted,Virgin Islands,820.0,2700.0,699999.0,0
+for_sale,7.0,7.0,4.0,Christiansted,Virgin Islands,820.0,,1469000.0,0
+for_sale,,,1.28,Christiansted,Virgin Islands,820.0,,799000.0,0
+for_sale,3.0,3.0,0.64,Christiansted,Virgin Islands,820.0,,1645000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1118.0,180000.0,0
+for_sale,,,0.78,Christiansted,Virgin Islands,820.0,,29000.0,0
+for_sale,4.0,4.0,0.6,Christiansted,Virgin Islands,820.0,,1190000.0,0
+for_sale,3.0,3.0,2.38,Christiansted,Virgin Islands,820.0,3550.0,1680000.0,0
+for_sale,2.0,2.0,1.5,Christiansted,Virgin Islands,820.0,2289.0,2000000.0,0
+for_sale,,,1.31,Christiansted,Virgin Islands,820.0,,65000.0,0
+for_sale,,,0.93,Christiansted,Virgin Islands,820.0,,55000.0,0
+for_sale,,,0.23,Christiansted,Virgin Islands,820.0,,39000.0,0
+for_sale,,,0.49,Christiansted,Virgin Islands,820.0,,39900.0,0
+for_sale,,,0.46,Christiansted,Virgin Islands,820.0,,39000.0,0
+for_sale,,,0.86,Christiansted,Virgin Islands,820.0,,53000.0,0
+for_sale,,,0.44,Christiansted,Virgin Islands,820.0,,55000.0,0
+for_sale,,,0.68,Christiansted,Virgin Islands,820.0,,60000.0,0
+for_sale,,,0.58,Christiansted,Virgin Islands,820.0,,60000.0,0
+for_sale,,,0.64,Christiansted,Virgin Islands,820.0,,64000.0,0
+for_sale,,,0.82,Christiansted,Virgin Islands,820.0,,89000.0,0
+for_sale,,,1.07,Christiansted,Virgin Islands,820.0,,95000.0,0
+for_sale,,,0.57,Christiansted,Virgin Islands,820.0,,79000.0,0
+for_sale,,,0.78,Christiansted,Virgin Islands,820.0,,75000.0,0
+for_sale,,,0.71,Christiansted,Virgin Islands,820.0,,75000.0,0
+for_sale,,,0.92,Christiansted,Virgin Islands,820.0,,85000.0,0
+for_sale,,,1.15,Christiansted,Virgin Islands,820.0,,80000.0,0
+for_sale,,,0.55,Christiansted,Virgin Islands,820.0,,89500.0,0
+for_sale,,,0.68,Christiansted,Virgin Islands,820.0,,85000.0,0
+for_sale,,,0.9,Christiansted,Virgin Islands,820.0,,275000.0,0
+for_sale,,,0.73,Christiansted,Virgin Islands,820.0,,350000.0,0
+for_sale,,,0.52,Christiansted,Virgin Islands,820.0,,75000.0,0
+for_sale,,,0.87,Christiansted,Virgin Islands,820.0,,200000.0,0
+for_sale,,,0.94,Christiansted,Virgin Islands,820.0,,225000.0,0
+for_sale,,,0.72,Christiansted,Virgin Islands,820.0,,350000.0,0
+for_sale,,,0.71,Christiansted,Virgin Islands,820.0,,350000.0,0
+for_sale,,,0.67,Christiansted,Virgin Islands,820.0,,350000.0,0
+for_sale,,,0.72,Christiansted,Virgin Islands,820.0,,350000.0,0
+for_sale,,,0.29,Christiansted,Virgin Islands,820.0,,165000.0,0
+for_sale,,,0.7,Christiansted,Virgin Islands,820.0,,310000.0,0
+for_sale,3.0,2.0,0.06,Christiansted,Virgin Islands,820.0,,235000.0,0
+for_sale,3.0,3.0,,Christiansted,Virgin Islands,820.0,1600.0,308000.0,0
+for_sale,6.0,6.0,0.5,Christiansted,Virgin Islands,820.0,,325000.0,0
+for_sale,2.0,2.0,0.24,Christiansted,Virgin Islands,820.0,,324000.0,0
+for_sale,5.0,3.0,0.25,Christiansted,Virgin Islands,820.0,,179000.0,0
+for_sale,3.0,1.0,3600.11,Christiansted,Virgin Islands,820.0,,220000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1200.0,194500.0,0
+for_sale,5.0,6.0,1.0,Christiansted,Virgin Islands,820.0,,1150000.0,0
+for_sale,3.0,3.0,,Christiansted,Virgin Islands,820.0,1542.0,239000.0,0
+for_sale,3.0,3.0,0.69,Christiansted,Virgin Islands,820.0,,895000.0,0
+for_sale,3.0,3.0,0.59,Christiansted,Virgin Islands,820.0,4611.0,410000.0,0
+for_sale,3.0,2.0,0.58,Christiansted,Virgin Islands,820.0,,535000.0,0
+for_sale,,,0.5,Christiansted,Virgin Islands,820.0,,45000.0,0
+for_sale,,,0.44,Christiansted,Virgin Islands,820.0,,52800.0,0
+for_sale,4.0,4.0,0.66,Christiansted,Virgin Islands,820.0,,749000.0,0
+for_sale,3.0,4.0,4.0,Christiansted,Virgin Islands,820.0,4319.0,1300000.0,0
+for_sale,3.0,3.0,0.3,Christiansted,Virgin Islands,820.0,,529000.0,0
+for_sale,3.0,2.0,0.51,Christiansted,Virgin Islands,820.0,,465000.0,0
+for_sale,3.0,3.0,0.72,Christiansted,Virgin Islands,820.0,,500000.0,0
+for_sale,,,0.94,Christiansted,Virgin Islands,820.0,,184000.0,0
+for_sale,2.0,2.0,0.75,Christiansted,Virgin Islands,820.0,,529500.0,0
+for_sale,3.0,2.0,3.0,Christiansted,Virgin Islands,820.0,4381.0,1100000.0,0
+for_sale,,,1.49,Christiansted,Virgin Islands,820.0,,225000.0,0
+for_sale,,,2.29,Christiansted,Virgin Islands,820.0,,145000.0,0
+for_sale,5.0,4.0,0.75,Christiansted,Virgin Islands,820.0,,749000.0,0
+for_sale,3.0,3.0,2.15,Christiansted,Virgin Islands,820.0,4500.0,3950000.0,0
+for_sale,4.0,3.0,0.71,Christiansted,Virgin Islands,820.0,,695000.0,0
+for_sale,4.0,4.0,0.71,Christiansted,Virgin Islands,820.0,8600.0,1295000.0,0
+for_sale,,,1.03,Christiansted,Virgin Islands,820.0,,150000.0,0
+for_sale,,,0.7,Christiansted,Virgin Islands,820.0,,69000.0,0
+for_sale,4.0,3.0,0.08,Christiansted,Virgin Islands,820.0,3200.0,879000.0,0
+for_sale,5.0,3.0,0.95,Christiansted,Virgin Islands,820.0,,1350000.0,0
+for_sale,,,0.58,Christiansted,Virgin Islands,820.0,,230000.0,0
+for_sale,,,0.4,Christiansted,Virgin Islands,820.0,,195000.0,0
+for_sale,,,0.42,Christiansted,Virgin Islands,820.0,,150000.0,0
+for_sale,,,0.51,Christiansted,Virgin Islands,820.0,,119900.0,0
+for_sale,7.0,10.0,7.78,Christiansted,Virgin Islands,820.0,11200.0,8000000.0,0
+for_sale,6.0,7.0,1.08,Christiansted,Virgin Islands,820.0,,1350000.0,0
+for_sale,,,0.91,Christiansted,Virgin Islands,820.0,,250000.0,0
+for_sale,,,15.66,Christiansted,Virgin Islands,820.0,,1850000.0,0
+for_sale,,,0.52,Christiansted,Virgin Islands,820.0,,1200000.0,0
+for_sale,,,14.0,Christiansted,Virgin Islands,820.0,,1295000.0,0
+for_sale,3.0,2.0,0.23,Christiansted,Virgin Islands,820.0,1150.0,200000.0,0
+for_sale,3.0,2.0,0.23,Christiansted,Virgin Islands,820.0,,240000.0,0
+for_sale,4.0,3.0,0.56,Frederiksted,Virgin Islands,840.0,,199000.0,0
+for_sale,3.0,2.0,0.7,Frederiksted,Virgin Islands,840.0,2000.0,325000.0,0
+for_sale,4.0,1.0,0.12,Kingshill,Virgin Islands,850.0,1800.0,225000.0,0
+for_sale,1.0,1.0,,Christiansted,Virgin Islands,820.0,695.0,125000.0,0
+for_sale,4.0,3.0,0.5,Christiansted,Virgin Islands,820.0,2759.0,625000.0,0
+for_sale,6.0,4.0,1.01,Christiansted,Virgin Islands,820.0,4800.0,759000.0,0
+for_sale,4.0,4.0,0.48,Christiansted,Virgin Islands,820.0,4338.0,877000.0,0
+for_sale,3.0,2.0,0.25,Christiansted,Virgin Islands,820.0,1100.0,320000.0,0
+for_sale,5.0,4.0,,Christiansted,Virgin Islands,820.0,3200.0,599000.0,0
+for_sale,3.0,3.0,0.61,Christiansted,Virgin Islands,820.0,1606.0,549000.0,0
+for_sale,1.0,1.0,,Christiansted,Virgin Islands,820.0,1100.0,217000.0,0
+for_sale,5.0,4.0,0.85,Christiansted,Virgin Islands,820.0,,1595000.0,0
+for_sale,3.0,2.0,0.5,Christiansted,Virgin Islands,820.0,1300.0,390000.0,0
+for_sale,2.0,2.0,,Kingshill,Virgin Islands,850.0,1500.0,375000.0,0
+for_sale,1.0,1.0,0.53,Christiansted,Virgin Islands,820.0,1200.0,610000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1250.0,397000.0,0
+for_sale,3.0,3.0,0.67,Frederiksted,Virgin Islands,840.0,4500.0,999999.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1250.0,399000.0,0
+for_sale,,,0.47,Christiansted,Virgin Islands,820.0,,20000.0,0
+for_sale,5.0,4.0,0.43,Christiansted,Virgin Islands,820.0,3190.0,999999.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1400.0,415000.0,0
+for_sale,4.0,4.0,0.96,Frederiksted,Virgin Islands,840.0,6100.0,1695000.0,0
+for_sale,,,0.61,Christiansted,Virgin Islands,820.0,,45000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1250.0,419000.0,0
+for_sale,4.0,3.0,0.39,Frederiksted,Virgin Islands,840.0,4578.0,1595000.0,0
+for_sale,,,0.57,Christiansted,Virgin Islands,820.0,,59500.0,0
+for_sale,,,0.6,Christiansted,Virgin Islands,820.0,,58000.0,0
+for_sale,,,0.65,Christiansted,Virgin Islands,820.0,,59500.0,0
+for_sale,,,0.23,Frederiksted,Virgin Islands,840.0,,36000.0,0
+for_sale,,,0.27,Christiansted,Virgin Islands,820.0,,30000.0,0
+for_sale,2.0,2.0,0.54,Christiansted,Virgin Islands,820.0,3630.0,1295000.0,0
+for_sale,3.0,2.0,,Christiansted,Virgin Islands,820.0,1897.0,810000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,860.0,395000.0,0
+for_sale,,,5.94,Frederiksted,Virgin Islands,840.0,,465000.0,0
+for_sale,,,0.63,Christiansted,Virgin Islands,820.0,,169000.0,0
+for_sale,,,0.07,Christiansted,Virgin Islands,820.0,,174900.0,0
+for_sale,,,1.07,Christiansted,Virgin Islands,820.0,,215000.0,0
+for_sale,,,1.35,Christiansted,Virgin Islands,820.0,,225000.0,0
+for_sale,,,6.0,Christiansted,Virgin Islands,820.0,,499000.0,0
+for_sale,,,1.1,Christiansted,Virgin Islands,820.0,,265000.0,0
+for_sale,4.0,4.0,0.46,Saint John,Virgin Islands,830.0,4830.0,2900000.0,0
+for_sale,,,0.39,Saint John,Virgin Islands,830.0,,88000.0,0
+for_sale,,,0.23,Saint John,Virgin Islands,830.0,,110000.0,0
+for_sale,3.0,2.0,0.47,Saint John,Virgin Islands,830.0,2000.0,565000.0,0
+for_sale,,,0.46,Saint John,Virgin Islands,830.0,,350000.0,0
+for_sale,,,0.61,Saint John,Virgin Islands,830.0,,139000.0,0
+for_sale,,,2.07,Saint John,Virgin Islands,830.0,,450000.0,0
+for_sale,2.0,3.0,0.3,Saint John,Virgin Islands,830.0,2258.0,975000.0,0
+for_sale,3.0,4.0,0.53,Saint John,Virgin Islands,830.0,4006.0,1475000.0,0
+for_sale,,,0.5,Saint John,Virgin Islands,830.0,,195000.0,0
+for_sale,,,1.03,Saint John,Virgin Islands,830.0,,350000.0,0
+for_sale,,,1.03,Saint John,Virgin Islands,830.0,,350000.0,0
+for_sale,,,0.41,Saint John,Virgin Islands,830.0,,269000.0,0
+for_sale,6.0,4.0,0.66,Saint John,Virgin Islands,830.0,3770.0,1386250.0,0
+for_sale,1.0,1.0,0.24,Saint John,Virgin Islands,830.0,1300.0,675000.0,0
+for_sale,,,1.0,Saint John,Virgin Islands,830.0,,249000.0,0
+for_sale,2.0,3.0,0.56,Saint John,Virgin Islands,830.0,2040.0,1350000.0,0
+for_sale,,,0.55,Saint John,Virgin Islands,830.0,,120000.0,0
+for_sale,2.0,3.0,0.5,Saint John,Virgin Islands,830.0,2771.0,2000000.0,0
+for_sale,,,2.06,Saint John,Virgin Islands,830.0,,600000.0,0
+for_sale,,,0.53,Saint John,Virgin Islands,830.0,,305000.0,0
+for_sale,4.0,4.0,0.46,Saint John,Virgin Islands,830.0,4830.0,4850000.0,0
+for_sale,,,0.51,Saint John,Virgin Islands,830.0,,350000.0,0
+for_sale,1.0,1.0,0.29,Saint John,Virgin Islands,830.0,580.0,385000.0,0
+for_sale,,,0.5,Saint John,Virgin Islands,830.0,,375000.0,0
+for_sale,4.0,4.0,0.23,Saint John,Virgin Islands,830.0,4050.0,1749999.0,0
+for_sale,,,3.21,Saint John,Virgin Islands,830.0,,525000.0,0
+for_sale,,,0.68,Saint John,Virgin Islands,830.0,,350000.0,0
+for_sale,4.0,4.0,0.69,Saint John,Virgin Islands,830.0,5100.0,2695000.0,0
+for_sale,4.0,5.0,0.46,Saint John,Virgin Islands,830.0,7100.0,3690000.0,0
+for_sale,5.0,7.0,1.4,Saint John,Virgin Islands,830.0,8800.0,3985000.0,0
+for_sale,4.0,4.0,0.25,Saint John,Virgin Islands,830.0,3840.0,2000000.0,0
+for_sale,4.0,4.0,1.03,Saint John,Virgin Islands,830.0,4588.0,4700000.0,0
+for_sale,4.0,4.0,0.51,Saint John,Virgin Islands,830.0,3000.0,2850000.0,0
+for_sale,4.0,4.0,0.5,Saint John,Virgin Islands,830.0,3836.0,2199000.0,0
+for_sale,2.0,2.0,,Saint John,Virgin Islands,830.0,1423.0,1875000.0,0
+for_sale,4.0,5.0,1.04,Saint John,Virgin Islands,830.0,5600.0,4200000.0,0
+for_sale,,,7.29,Saint John,Virgin Islands,830.0,,1395000.0,0
+for_sale,3.0,3.0,0.26,Saint John,Virgin Islands,830.0,3064.0,2100000.0,0
+for_sale,,,0.93,Saint John,Virgin Islands,830.0,,980000.0,0
+for_sale,,,20.0,Saint John,Virgin Islands,830.0,,3499000.0,0
+for_sale,,,0.77,Saint John,Virgin Islands,830.0,,895000.0,0
+for_sale,2.0,2.0,,Saint Thomas,Virgin Islands,802.0,1250.0,200000.0,0
+for_sale,2.0,2.0,0.5,Saint Thomas,Virgin Islands,802.0,,326900.0,0
+for_sale,3.0,2.0,0.47,Saint John,Virgin Islands,830.0,2000.0,565000.0,0
+for_sale,2.0,3.0,0.3,Saint John,Virgin Islands,830.0,2258.0,975000.0,0
+for_sale,,,0.28,Saint Thomas,Virgin Islands,802.0,,85000.0,0
+for_sale,1.0,1.0,0.29,Saint John,Virgin Islands,830.0,580.0,385000.0,0
+for_sale,1.0,2.0,,Saint Thomas,Virgin Islands,802.0,960.0,435000.0,0
+for_sale,1.0,1.0,0.24,Saint John,Virgin Islands,830.0,1300.0,675000.0,0
+for_sale,6.0,5.0,0.88,Saint Thomas,Virgin Islands,802.0,6290.0,1999950.0,0
+for_sale,,,0.55,Saint John,Virgin Islands,830.0,,120000.0,0
+for_sale,,,0.23,Saint John,Virgin Islands,830.0,,110000.0,0
+for_sale,4.0,4.0,0.46,Saint John,Virgin Islands,830.0,4830.0,4850000.0,0
+for_sale,,,,Saint Thomas,Virgin Islands,802.0,,100000.0,0
+for_sale,3.0,3.0,,Saint Thomas,Virgin Islands,802.0,1750.0,549000.0,0
+for_sale,2.0,2.0,,Saint Thomas,Virgin Islands,802.0,1250.0,545000.0,0
+for_sale,6.0,6.0,0.74,Saint Thomas,Virgin Islands,802.0,3360.0,1295000.0,0
+for_sale,,,1.0,Saint John,Virgin Islands,830.0,,249000.0,0
+for_sale,4.0,4.0,0.69,Saint John,Virgin Islands,830.0,5100.0,2695000.0,0
+for_sale,4.0,3.0,0.6,Saint Thomas,Virgin Islands,802.0,2413.0,1150000.0,0
+for_sale,4.0,4.0,0.64,Saint Thomas,Virgin Islands,802.0,,1427000.0,0
+for_sale,2.0,2.0,,Saint Thomas,Virgin Islands,802.0,1379.0,570000.0,0
+for_sale,,,0.13,Saint Thomas,Virgin Islands,802.0,,50000.0,0
+for_sale,,,0.7,Saint Thomas,Virgin Islands,802.0,,139500.0,0
+for_sale,1.0,1.0,,Saint Thomas,Virgin Islands,802.0,750.0,315000.0,0
+for_sale,4.0,4.0,0.5,Saint John,Virgin Islands,830.0,3836.0,2199000.0,0
+for_sale,,,1.03,Saint John,Virgin Islands,830.0,,350000.0,0
+for_sale,,,1.03,Saint John,Virgin Islands,830.0,,350000.0,0
+for_sale,5.0,6.0,1.07,Saint Thomas,Virgin Islands,802.0,7229.0,2750000.0,0
+for_sale,3.0,3.0,0.26,Saint John,Virgin Islands,830.0,3064.0,2100000.0,0
+for_sale,6.0,8.0,1.0,Saint Thomas,Virgin Islands,802.0,7000.0,3200000.0,0
+for_sale,4.0,4.0,1.03,Saint John,Virgin Islands,830.0,4588.0,4700000.0,0
+for_sale,2.0,2.0,,Saint John,Virgin Islands,830.0,1423.0,1875000.0,0
+for_sale,3.0,4.0,0.7,Saint Thomas,Virgin Islands,802.0,3500.0,1850000.0,0
+for_sale,,,0.14,Saint Thomas,Virgin Islands,802.0,,300000.0,0
+for_sale,5.0,7.0,1.4,Saint John,Virgin Islands,830.0,8800.0,3985000.0,0
+for_sale,,,0.53,Saint John,Virgin Islands,830.0,,305000.0,0
+for_sale,,,3.21,Saint John,Virgin Islands,830.0,,525000.0,0
+for_sale,4.0,5.0,1.04,Saint John,Virgin Islands,830.0,5600.0,4200000.0,0
+for_sale,,,2.06,Saint John,Virgin Islands,830.0,,600000.0,0
+for_sale,,,20.0,Saint John,Virgin Islands,830.0,,3499000.0,0
+for_sale,,,0.93,Saint John,Virgin Islands,830.0,,980000.0,0
+for_sale,,,0.77,Saint John,Virgin Islands,830.0,,895000.0,0
+for_sale,3.0,2.0,0.32,Frederiksted,Virgin Islands,840.0,,375000.0,0
+for_sale,3.0,2.0,0.7,Frederiksted,Virgin Islands,840.0,2000.0,325000.0,0
+for_sale,5.0,3.0,0.43,Frederiksted,Virgin Islands,840.0,,475000.0,0
+for_sale,,,0.31,Frederiksted,Virgin Islands,840.0,,47000.0,0
+for_sale,5.0,4.0,0.3,Frederiksted,Virgin Islands,840.0,2000.0,135000.0,0
+for_sale,,,2.05,Frederiksted,Virgin Islands,840.0,,78000.0,0
+for_sale,,,1.15,Frederiksted,Virgin Islands,840.0,,25000.0,0
+for_sale,4.0,3.0,0.56,Frederiksted,Virgin Islands,840.0,,199000.0,0
+for_sale,5.0,3.0,2.93,Frederiksted,Virgin Islands,840.0,3500.0,1900000.0,0
+for_sale,8.0,3.0,0.25,Frederiksted,Virgin Islands,840.0,3300.0,289000.0,0
+for_sale,3.0,2.0,0.53,Frederiksted,Virgin Islands,840.0,,450000.0,0
+for_sale,,,0.63,Frederiksted,Virgin Islands,840.0,,75000.0,0
+for_sale,,,1.08,Frederiksted,Virgin Islands,840.0,,25000.0,0
+for_sale,3.0,2.0,0.23,Frederiksted,Virgin Islands,840.0,,339000.0,0
+for_sale,3.0,3.0,0.62,Frederiksted,Virgin Islands,840.0,,699000.0,0
+for_sale,,,0.29,Frederiksted,Virgin Islands,840.0,,45000.0,0
+for_sale,3.0,3.0,1.07,Frederiksted,Virgin Islands,840.0,,885000.0,0
+for_sale,4.0,2.0,1.25,Frederiksted,Virgin Islands,840.0,49658.0,499000.0,0
+for_sale,,,0.23,Frederiksted,Virgin Islands,840.0,,40000.0,0
+for_sale,1.0,2.0,,Frederiksted,Virgin Islands,840.0,1100.0,159900.0,0
+for_sale,3.0,1.0,0.25,Frederiksted,Virgin Islands,840.0,860.0,260000.0,0
+for_sale,,,0.23,Frederiksted,Virgin Islands,840.0,,38000.0,0
+for_sale,1.0,2.0,,Frederiksted,Virgin Islands,840.0,1100.0,174900.0,0
+for_sale,,,0.23,Frederiksted,Virgin Islands,840.0,,28000.0,0
+for_sale,1.0,2.0,,Frederiksted,Virgin Islands,840.0,886.0,160000.0,0
+for_sale,,,5.94,Frederiksted,Virgin Islands,840.0,,465000.0,0
+for_sale,3.0,3.0,0.67,Frederiksted,Virgin Islands,840.0,4500.0,999999.0,0
+for_sale,,,0.13,Frederiksted,Virgin Islands,840.0,,45000.0,0
+for_sale,,,0.48,Frederiksted,Virgin Islands,840.0,,36000.0,0
+for_sale,,,1.0,Frederiksted,Virgin Islands,840.0,,100000.0,0
+for_sale,,,7.59,Frederiksted,Virgin Islands,840.0,,495000.0,0
+for_sale,,,0.6,Frederiksted,Virgin Islands,840.0,,100000.0,0
+for_sale,,,1.65,Frederiksted,Virgin Islands,840.0,,375000.0,0
+for_sale,,,0.64,Frederiksted,Virgin Islands,840.0,,33000.0,0
+for_sale,,,0.65,Frederiksted,Virgin Islands,840.0,,79000.0,0
+for_sale,,,0.11,Frederiksted,Virgin Islands,840.0,,125000.0,0
+for_sale,4.0,3.0,0.39,Frederiksted,Virgin Islands,840.0,4578.0,1595000.0,0
+for_sale,,,0.55,Frederiksted,Virgin Islands,840.0,,39500.0,0
+for_sale,,,0.23,Frederiksted,Virgin Islands,840.0,,36000.0,0
+for_sale,4.0,4.0,0.96,Frederiksted,Virgin Islands,840.0,6100.0,1695000.0,0
+for_sale,,,6.88,Frederiksted,Virgin Islands,840.0,,1795000.0,0
+for_sale,,,0.13,Frederiksted,Virgin Islands,840.0,,160000.0,0
+for_sale,3.0,2.0,0.23,Christiansted,Virgin Islands,820.0,1150.0,200000.0,0
+for_sale,4.0,3.0,0.56,Frederiksted,Virgin Islands,840.0,,199000.0,0
+for_sale,4.0,1.0,0.12,Kingshill,Virgin Islands,850.0,1800.0,225000.0,0
+for_sale,3.0,2.0,0.7,Frederiksted,Virgin Islands,840.0,2000.0,325000.0,0
+for_sale,1.0,2.0,,Frederiksted,Virgin Islands,840.0,886.0,160000.0,0
+for_sale,1.0,2.0,,Frederiksted,Virgin Islands,840.0,1100.0,159900.0,0
+for_sale,8.0,3.0,0.25,Frederiksted,Virgin Islands,840.0,3300.0,289000.0,0
+for_sale,7.0,7.0,3.57,Christiansted,Virgin Islands,820.0,,1600000.0,0
+for_sale,,,0.63,Frederiksted,Virgin Islands,840.0,,75000.0,0
+for_sale,3.0,2.0,1.79,Christiansted,Virgin Islands,820.0,,225000.0,0
+for_sale,1.0,2.0,,Frederiksted,Virgin Islands,840.0,1100.0,174900.0,0
+for_sale,3.0,2.0,0.24,Kingshill,Virgin Islands,850.0,,325000.0,0
+for_sale,3.0,1.0,0.25,Frederiksted,Virgin Islands,840.0,860.0,260000.0,0
+for_sale,4.0,2.0,1.25,Frederiksted,Virgin Islands,840.0,49658.0,499000.0,0
+for_sale,3.0,3.0,0.62,Frederiksted,Virgin Islands,840.0,,699000.0,0
+for_sale,1.0,1.0,,Christiansted,Virgin Islands,820.0,695.0,125000.0,0
+for_sale,3.0,3.0,1.07,Frederiksted,Virgin Islands,840.0,,885000.0,0
+for_sale,4.0,3.0,0.5,Christiansted,Virgin Islands,820.0,2759.0,625000.0,0
+for_sale,2.0,2.0,0.75,Christiansted,Virgin Islands,820.0,,529500.0,0
+for_sale,3.0,3.0,0.61,Christiansted,Virgin Islands,820.0,1606.0,549000.0,0
+for_sale,3.0,2.0,0.5,Christiansted,Virgin Islands,820.0,1300.0,390000.0,0
+for_sale,3.0,2.0,,Christiansted,Virgin Islands,820.0,1515.0,375000.0,0
+for_sale,,,0.13,Frederiksted,Virgin Islands,840.0,,160000.0,0
+for_sale,1.0,1.0,,Christiansted,Virgin Islands,820.0,1100.0,217000.0,0
+for_sale,6.0,4.0,1.01,Christiansted,Virgin Islands,820.0,4800.0,759000.0,0
+for_sale,5.0,3.0,0.95,Christiansted,Virgin Islands,820.0,,1350000.0,0
+for_sale,5.0,4.0,0.43,Christiansted,Virgin Islands,820.0,3190.0,999999.0,0
+for_sale,2.0,2.0,,Kingshill,Virgin Islands,850.0,1500.0,375000.0,0
+for_sale,5.0,5.0,1.01,Kingshill,Virgin Islands,850.0,,1450000.0,0
+for_sale,,,0.64,Frederiksted,Virgin Islands,840.0,,33000.0,0
+for_sale,,,0.13,Frederiksted,Virgin Islands,840.0,,45000.0,0
+for_sale,4.0,4.0,0.96,Frederiksted,Virgin Islands,840.0,6100.0,1695000.0,0
+for_sale,,,0.65,Frederiksted,Virgin Islands,840.0,,79000.0,0
+for_sale,,,0.65,Christiansted,Virgin Islands,820.0,,59500.0,0
+for_sale,3.0,3.0,0.67,Frederiksted,Virgin Islands,840.0,4500.0,999999.0,0
+for_sale,,,0.57,Christiansted,Virgin Islands,820.0,,59500.0,0
+for_sale,4.0,3.0,0.39,Frederiksted,Virgin Islands,840.0,4578.0,1595000.0,0
+for_sale,,,0.23,Frederiksted,Virgin Islands,840.0,,36000.0,0
+for_sale,,,0.27,Christiansted,Virgin Islands,820.0,,30000.0,0
+for_sale,,,5.94,Frederiksted,Virgin Islands,840.0,,465000.0,0
+for_sale,,,27.68,Kingshill,Virgin Islands,850.0,,695000.0,0
+for_sale,,,14.0,Christiansted,Virgin Islands,820.0,,1295000.0,0
+for_sale,4.0,1.0,0.12,Kingshill,Virgin Islands,850.0,1800.0,225000.0,0
+for_sale,6.0,3.0,0.32,Kingshill,Virgin Islands,850.0,,175000.0,0
+for_sale,3.0,2.0,0.24,Kingshill,Virgin Islands,850.0,,325000.0,0
+for_sale,,,1.33,Kingshill,Virgin Islands,850.0,,55000.0,0
+for_sale,3.0,1.0,0.12,Kingshill,Virgin Islands,850.0,1200.0,167000.0,0
+for_sale,,,1.61,Kingshill,Virgin Islands,850.0,,69000.0,0
+for_sale,,,1.88,Kingshill,Virgin Islands,850.0,,67000.0,0
+for_sale,,,0.3,Kingshill,Virgin Islands,850.0,2700.0,135000.0,0
+for_sale,2.0,2.0,,Kingshill,Virgin Islands,850.0,1500.0,375000.0,0
+for_sale,,,0.54,Kingshill,Virgin Islands,850.0,,60000.0,0
+for_sale,5.0,3.0,0.28,Kingshill,Virgin Islands,850.0,,350000.0,0
+for_sale,2.0,2.0,,Kingshill,Virgin Islands,850.0,1250.0,320000.0,0
+for_sale,2.0,2.0,1.0,Kingshill,Virgin Islands,850.0,1530.0,525000.0,0
+for_sale,5.0,5.0,1.01,Kingshill,Virgin Islands,850.0,,1450000.0,0
+for_sale,,,0.37,Kingshill,Virgin Islands,850.0,,45000.0,0
+for_sale,,,27.68,Kingshill,Virgin Islands,850.0,,695000.0,0
+for_sale,,,3.93,Kingshill,Virgin Islands,850.0,,359000.0,0
+for_sale,,,0.42,Kingshill,Virgin Islands,850.0,,85000.0,0
+for_sale,3.0,3.0,,Kingshill,Virgin Islands,850.0,1776.0,599000.0,0
+for_sale,,,23.11,Kingshill,Virgin Islands,850.0,,799000.0,0
+for_sale,,,2.36,Kingshill,Virgin Islands,850.0,,615738.0,0
+for_sale,,,0.49,Kingshill,Virgin Islands,850.0,,135000.0,0
+for_sale,,,3.11,Kingshill,Virgin Islands,850.0,,1217556.0,0
+for_sale,,,1.16,Kingshill,Virgin Islands,850.0,,607920.0,0
+for_sale,,,0.85,Kingshill,Virgin Islands,850.0,,332919.0,0
+for_sale,,,0.89,Kingshill,Virgin Islands,850.0,,310848.0,0
+for_sale,,,0.99,Kingshill,Virgin Islands,850.0,,476377.0,0
+for_sale,,,11.75,Kingshill,Virgin Islands,850.0,,4204608.0,0
+for_sale,,,0.76,Kingshill,Virgin Islands,850.0,,330790.0,0
+for_sale,,,0.79,Kingshill,Virgin Islands,850.0,,145000.0,0
+for_sale,,,0.46,Kingshill,Virgin Islands,850.0,,145000.0,0
+for_sale,,,0.45,Kingshill,Virgin Islands,850.0,,145000.0,0
+for_sale,,,0.45,Kingshill,Virgin Islands,850.0,,145000.0,0
+for_sale,,,0.47,Kingshill,Virgin Islands,850.0,,145000.0,0
+for_sale,,,0.47,Kingshill,Virgin Islands,850.0,,145000.0,0
+for_sale,,,0.48,Kingshill,Virgin Islands,850.0,,145000.0,0
+for_sale,,,0.7,Kingshill,Virgin Islands,850.0,,175000.0,0
+for_sale,,,0.45,Kingshill,Virgin Islands,850.0,,175000.0,0
+for_sale,,,0.46,Kingshill,Virgin Islands,850.0,,175000.0,0
+for_sale,,,0.49,Kingshill,Virgin Islands,850.0,,175000.0,0
+for_sale,,,0.49,Kingshill,Virgin Islands,850.0,,175000.0,0
+for_sale,,,0.48,Kingshill,Virgin Islands,850.0,,175000.0,0
+for_sale,3.0,2.0,0.23,Christiansted,Virgin Islands,820.0,1150.0,200000.0,0
+for_sale,3.0,2.0,0.23,Christiansted,Virgin Islands,820.0,,240000.0,0
+for_sale,3.0,2.0,1.79,Christiansted,Virgin Islands,820.0,,225000.0,0
+for_sale,1.0,2.0,,Frederiksted,Virgin Islands,840.0,1100.0,159900.0,0
+for_sale,3.0,2.0,0.7,Frederiksted,Virgin Islands,840.0,2000.0,325000.0,0
+for_sale,4.0,1.0,0.12,Kingshill,Virgin Islands,850.0,1800.0,225000.0,0
+for_sale,1.0,2.0,,Frederiksted,Virgin Islands,840.0,1100.0,174900.0,0
+for_sale,8.0,3.0,0.25,Frederiksted,Virgin Islands,840.0,3300.0,289000.0,0
+for_sale,1.0,2.0,,Frederiksted,Virgin Islands,840.0,886.0,160000.0,0
+for_sale,1.0,1.0,,Christiansted,Virgin Islands,820.0,695.0,125000.0,0
+for_sale,3.0,2.0,0.24,Kingshill,Virgin Islands,850.0,,325000.0,0
+for_sale,4.0,3.0,0.5,Christiansted,Virgin Islands,820.0,2759.0,625000.0,0
+for_sale,6.0,4.0,1.01,Christiansted,Virgin Islands,820.0,4800.0,759000.0,0
+for_sale,3.0,1.0,0.25,Frederiksted,Virgin Islands,840.0,860.0,260000.0,0
+for_sale,3.0,2.0,0.25,Christiansted,Virgin Islands,820.0,1100.0,320000.0,0
+for_sale,4.0,2.0,1.25,Frederiksted,Virgin Islands,840.0,49658.0,499000.0,0
+for_sale,5.0,4.0,0.85,Christiansted,Virgin Islands,820.0,,1595000.0,0
+for_sale,3.0,3.0,0.61,Christiansted,Virgin Islands,820.0,1606.0,549000.0,0
+for_sale,1.0,1.0,,Christiansted,Virgin Islands,820.0,1100.0,217000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1250.0,397000.0,0
+for_sale,5.0,4.0,,Christiansted,Virgin Islands,820.0,3200.0,599000.0,0
+for_sale,3.0,2.0,0.5,Christiansted,Virgin Islands,820.0,1300.0,390000.0,0
+for_sale,,,0.47,Christiansted,Virgin Islands,820.0,,20000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1250.0,399000.0,0
+for_sale,5.0,4.0,0.43,Christiansted,Virgin Islands,820.0,3190.0,999999.0,0
+for_sale,1.0,1.0,0.53,Christiansted,Virgin Islands,820.0,1200.0,610000.0,0
+for_sale,3.0,3.0,0.67,Frederiksted,Virgin Islands,840.0,4500.0,999999.0,0
+for_sale,,,0.61,Christiansted,Virgin Islands,820.0,,45000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1250.0,419000.0,0
+for_sale,2.0,2.0,,Kingshill,Virgin Islands,850.0,1500.0,375000.0,0
+for_sale,,,0.13,Frederiksted,Virgin Islands,840.0,,45000.0,0
+for_sale,4.0,3.0,0.39,Frederiksted,Virgin Islands,840.0,4578.0,1595000.0,0
+for_sale,,,0.57,Christiansted,Virgin Islands,820.0,,59500.0,0
+for_sale,,,0.27,Christiansted,Virgin Islands,820.0,,30000.0,0
+for_sale,,,0.65,Christiansted,Virgin Islands,820.0,,59500.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,860.0,395000.0,0
+for_sale,2.0,2.0,0.54,Christiansted,Virgin Islands,820.0,3630.0,1295000.0,0
+for_sale,,,0.23,Frederiksted,Virgin Islands,840.0,,36000.0,0
+for_sale,,,0.63,Christiansted,Virgin Islands,820.0,,169000.0,0
+for_sale,,,0.07,Christiansted,Virgin Islands,820.0,,174900.0,0
+for_sale,,,27.68,Kingshill,Virgin Islands,850.0,,695000.0,0
+for_sale,,,6.0,Christiansted,Virgin Islands,820.0,,499000.0,0
+for_sale,,,0.77,Christiansted,Virgin Islands,820.0,,41000.0,0
+for_sale,,,0.48,Christiansted,Virgin Islands,820.0,,81950.0,0
+for_sale,,,0.64,Christiansted,Virgin Islands,820.0,,59000.0,0
+for_sale,,,0.62,Frederiksted,Virgin Islands,840.0,,78000.0,0
+for_sale,,,2.01,Christiansted,Virgin Islands,820.0,,129000.0,0
+for_sale,,,0.74,Christiansted,Virgin Islands,820.0,,78000.0,0
+for_sale,8.0,5.0,1.62,Christiansted,Virgin Islands,820.0,12296.0,2450000.0,0
+for_sale,6.0,7.0,1.05,Christiansted,Virgin Islands,820.0,12000.0,8900000.0,0
+for_sale,4.0,5.0,1.48,Christiansted,Virgin Islands,820.0,7898.0,3765000.0,0
+for_sale,,,1.24,Christiansted,Virgin Islands,820.0,,129000.0,0
+for_sale,,,3.09,Christiansted,Virgin Islands,820.0,,265000.0,0
+for_sale,,,0.58,Christiansted,Virgin Islands,820.0,,139000.0,0
+for_sale,,,1.4,Frederiksted,Virgin Islands,840.0,,165000.0,0
+for_sale,,,38.78,Christiansted,Virgin Islands,820.0,,895000.0,0
+for_sale,,,3.23,Christiansted,Virgin Islands,820.0,,195000.0,0
+for_sale,,,0.69,Christiansted,Virgin Islands,820.0,,105000.0,0
+for_sale,,,2.0,Christiansted,Virgin Islands,820.0,,150000.0,0
+for_sale,,,15.8,Christiansted,Virgin Islands,820.0,,595000.0,0
+for_sale,,,0.62,Christiansted,Virgin Islands,820.0,,149000.0,0
+for_sale,,,0.69,Christiansted,Virgin Islands,820.0,,179000.0,0
+for_sale,,,1.66,Christiansted,Virgin Islands,820.0,,180000.0,0
+for_sale,,,1.23,Christiansted,Virgin Islands,820.0,,299000.0,0
+for_sale,,,21.35,Christiansted,Virgin Islands,820.0,,995000.0,0
+for_sale,,,2.36,Kingshill,Virgin Islands,850.0,,615738.0,0
+for_sale,,,0.25,,Virgin Islands,,,25000.0,0
+for_sale,,,1.16,Kingshill,Virgin Islands,850.0,,607920.0,0
+for_sale,,,1.87,Christiansted,Virgin Islands,820.0,,349000.0,0
+for_sale,,,3.3,Christiansted,Virgin Islands,820.0,,495000.0,0
+for_sale,,,3.11,Kingshill,Virgin Islands,850.0,,1217556.0,0
+for_sale,,,1.55,Christiansted,Virgin Islands,820.0,,349000.0,0
+for_sale,,,40.54,Christiansted,Virgin Islands,820.0,,3900000.0,0
+for_sale,,,0.94,Christiansted,Virgin Islands,820.0,,299000.0,0
+for_sale,,,5.33,Christiansted,Virgin Islands,820.0,,1500000.0,0
+for_sale,,,1.19,,Virgin Islands,,,90000.0,0
+for_sale,,,0.5,,Virgin Islands,,,120000.0,0
+for_sale,,,88.36,Christiansted,Virgin Islands,820.0,,2900000.0,0
+for_sale,6.0,5.0,0.88,Saint Thomas,Virgin Islands,802.0,4400.0,825000.0,0
+for_sale,,,0.4,Saint John,Virgin Islands,830.0,,85000.0,0
+for_sale,,,0.39,Saint John,Virgin Islands,830.0,,88000.0,0
+for_sale,,,1.0,Saint Thomas,Virgin Islands,802.0,,99000.0,0
+for_sale,7.0,6.0,0.12,Saint Thomas,Virgin Islands,802.0,5077.0,1295000.0,0
+for_sale,1.0,1.0,,Saint Thomas,Virgin Islands,802.0,760.0,249900.0,0
+for_sale,3.0,3.0,0.37,Saint Thomas,Virgin Islands,802.0,,499000.0,0
+for_sale,4.0,4.0,0.89,Saint Thomas,Virgin Islands,802.0,3000.0,949000.0,0
+for_sale,,,0.05,Saint Thomas,Virgin Islands,802.0,,125000.0,0
+for_sale,10.0,4.0,0.13,Saint Thomas,Virgin Islands,802.0,,775000.0,0
+for_sale,6.0,5.0,0.7,Saint Thomas,Virgin Islands,802.0,6200.0,1895000.0,0
+for_sale,,,0.48,Saint Thomas,Virgin Islands,802.0,,110600.0,0
+for_sale,,,0.86,Saint Thomas,Virgin Islands,802.0,,125000.0,0
+for_sale,1.0,1.0,,Saint Thomas,Virgin Islands,802.0,1050.0,395000.0,0
+for_sale,,,0.61,Saint John,Virgin Islands,830.0,,139000.0,0
+for_sale,3.0,4.0,0.53,Saint John,Virgin Islands,830.0,4006.0,1475000.0,0
+for_sale,,,0.34,Saint Thomas,Virgin Islands,802.0,,115000.0,0
+for_sale,,,0.5,Saint John,Virgin Islands,830.0,,195000.0,0
+for_sale,,,0.41,Saint John,Virgin Islands,830.0,,269000.0,0
+for_sale,,,0.53,Saint John,Virgin Islands,830.0,,250000.0,0
+for_sale,2.0,3.0,0.56,Saint John,Virgin Islands,830.0,2040.0,1350000.0,0
+for_sale,5.0,6.0,0.6,Saint John,Virgin Islands,830.0,6918.0,8999500.0,0
+for_sale,,,0.46,Saint John,Virgin Islands,830.0,,350000.0,0
+for_sale,2.0,3.0,0.5,Saint John,Virgin Islands,830.0,2771.0,2000000.0,0
+for_sale,4.0,6.0,0.59,Saint Thomas,Virgin Islands,802.0,7000.0,3200000.0,0
+for_sale,,,2.07,Saint John,Virgin Islands,830.0,,450000.0,0
+for_sale,3.0,3.0,1.03,Saint John,Virgin Islands,830.0,4400.0,2250000.0,0
+for_sale,6.0,4.0,0.66,Saint John,Virgin Islands,830.0,3770.0,1386250.0,0
+for_sale,,,0.68,Saint John,Virgin Islands,830.0,,350000.0,0
+for_sale,4.0,4.0,0.58,Saint John,Virgin Islands,830.0,4409.0,1890000.0,0
+for_sale,,,0.51,Saint John,Virgin Islands,830.0,,350000.0,0
+for_sale,7.0,8.0,4.2,Saint Thomas,Virgin Islands,802.0,,6950000.0,0
+for_sale,8.0,7.0,0.42,Saint Thomas,Virgin Islands,802.0,,1995000.0,0
+for_sale,,,0.5,Saint John,Virgin Islands,830.0,,375000.0,0
+for_sale,6.0,6.0,0.76,Saint Thomas,Virgin Islands,802.0,,3250000.0,0
+for_sale,4.0,4.0,0.51,Saint John,Virgin Islands,830.0,3000.0,2850000.0,0
+for_sale,4.0,5.0,0.67,Saint Thomas,Virgin Islands,802.0,8000.0,5990000.0,0
+for_sale,4.0,4.0,0.25,Saint John,Virgin Islands,830.0,3840.0,2000000.0,0
+for_sale,4.0,4.0,0.23,Saint John,Virgin Islands,830.0,4050.0,1749999.0,0
+for_sale,6.0,5.0,1.45,Saint Thomas,Virgin Islands,802.0,,2497000.0,0
+for_sale,4.0,5.0,0.46,Saint John,Virgin Islands,830.0,7100.0,3690000.0,0
+for_sale,,,7.29,Saint John,Virgin Islands,830.0,,1395000.0,0
+for_sale,,,0.43,Saint John,Virgin Islands,830.0,,80000.0,0
+for_sale,,,0.3,Saint John,Virgin Islands,830.0,,140000.0,0
+for_sale,,,1.33,Saint John,Virgin Islands,830.0,,125000.0,0
+for_sale,,,0.58,Saint John,Virgin Islands,830.0,,169000.0,0
+for_sale,,,0.14,Saint John,Virgin Islands,830.0,,299000.0,0
+for_sale,,,0.29,Saint John,Virgin Islands,830.0,,159000.0,0
+for_sale,,,0.23,Saint John,Virgin Islands,830.0,,360000.0,0
+for_sale,,,3.18,Saint John,Virgin Islands,830.0,,275000.0,0
+for_sale,,,0.77,Saint John,Virgin Islands,830.0,,550000.0,0
+for_sale,,,0.43,Saint John,Virgin Islands,830.0,,175000.0,0
+for_sale,,,1.03,Saint John,Virgin Islands,830.0,,195000.0,0
+for_sale,,,0.6,Saint John,Virgin Islands,830.0,,540000.0,0
+for_sale,,,0.5,Saint John,Virgin Islands,830.0,,595000.0,0
+for_sale,,,0.53,Saint John,Virgin Islands,830.0,,195000.0,0
+for_sale,,,0.26,Saint John,Virgin Islands,830.0,,225000.0,0
+for_sale,,,0.98,Saint John,Virgin Islands,830.0,,695000.0,0
+for_sale,,,0.65,Saint John,Virgin Islands,830.0,,780000.0,0
+for_sale,,,0.76,Saint John,Virgin Islands,830.0,,349000.0,0
+for_sale,,,0.99,Saint John,Virgin Islands,830.0,,350000.0,0
+for_sale,,,0.82,Saint John,Virgin Islands,830.0,,225000.0,0
+for_sale,,,1.15,Saint John,Virgin Islands,830.0,,1080000.0,0
+for_sale,,,0.78,Saint John,Virgin Islands,830.0,,289000.0,0
+for_sale,,,0.74,Saint John,Virgin Islands,830.0,,595000.0,0
+for_sale,,,0.61,Saint John,Virgin Islands,830.0,,1000000.0,0
+for_sale,,,0.42,Saint John,Virgin Islands,830.0,,325000.0,0
+for_sale,,,0.54,Saint John,Virgin Islands,830.0,,250000.0,0
+for_sale,,,0.68,Saint John,Virgin Islands,830.0,,250000.0,0
+for_sale,,,15.38,Frederiksted,Virgin Islands,840.0,,248000.0,0
+for_sale,5.0,5.0,0.74,Frederiksted,Virgin Islands,840.0,,2000000.0,0
+for_sale,,,6.3,Frederiksted,Virgin Islands,840.0,,129000.0,1
+for_sale,,,1.4,Frederiksted,Virgin Islands,840.0,,165000.0,0
+for_sale,,,0.62,Frederiksted,Virgin Islands,840.0,,78000.0,0
+for_sale,,,1.2,Frederiksted,Virgin Islands,840.0,,65000.0,0
+for_sale,,,1.86,Frederiksted,Virgin Islands,840.0,,65900.0,0
+for_sale,,,0.81,Frederiksted,Virgin Islands,840.0,,50000.0,0
+for_sale,,,1.33,Frederiksted,Virgin Islands,840.0,,65000.0,0
+for_sale,,,1.11,Frederiksted,Virgin Islands,840.0,,75000.0,0
+for_sale,,,1.03,Frederiksted,Virgin Islands,840.0,,67000.0,0
+for_sale,,,0.5,Frederiksted,Virgin Islands,840.0,,50000.0,0
+for_sale,,,0.99,Frederiksted,Virgin Islands,840.0,,50000.0,0
+for_sale,,,0.85,Frederiksted,Virgin Islands,840.0,,50000.0,0
+for_sale,,,0.56,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,,,0.67,Frederiksted,Virgin Islands,840.0,,65000.0,0
+for_sale,,,0.5,Frederiksted,Virgin Islands,840.0,,58000.0,0
+for_sale,,,0.95,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,,,0.63,Frederiksted,Virgin Islands,840.0,,45000.0,0
+for_sale,,,0.9,Frederiksted,Virgin Islands,840.0,,48000.0,0
+for_sale,,,0.69,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,,,0.63,Frederiksted,Virgin Islands,840.0,,50000.0,0
+for_sale,,,0.69,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,,,16.73,Frederiksted,Virgin Islands,840.0,,1600000.0,0
+for_sale,,,1.86,Frederiksted,Virgin Islands,840.0,,65900.0,0
+for_sale,,,0.62,Frederiksted,Virgin Islands,840.0,,78000.0,0
+for_sale,,,3.09,Christiansted,Virgin Islands,820.0,,265000.0,0
+for_sale,,,1.4,Frederiksted,Virgin Islands,840.0,,165000.0,0
+for_sale,,,38.78,Christiansted,Virgin Islands,820.0,,895000.0,0
+for_sale,,,2.36,Kingshill,Virgin Islands,850.0,,615738.0,0
+for_sale,,,2.0,Christiansted,Virgin Islands,820.0,,150000.0,0
+for_sale,,,15.8,Christiansted,Virgin Islands,820.0,,595000.0,0
+for_sale,,,1.16,Kingshill,Virgin Islands,850.0,,607920.0,0
+for_sale,,,3.11,Kingshill,Virgin Islands,850.0,,1217556.0,0
+for_sale,,,0.79,Kingshill,Virgin Islands,850.0,,145000.0,0
+for_sale,,,0.46,Kingshill,Virgin Islands,850.0,,145000.0,0
+for_sale,,,0.25,,Virgin Islands,,,25000.0,0
+for_sale,,,0.45,Kingshill,Virgin Islands,850.0,,145000.0,0
+for_sale,,,0.7,Kingshill,Virgin Islands,850.0,,175000.0,0
+for_sale,,,40.54,Christiansted,Virgin Islands,820.0,,3900000.0,0
+for_sale,,,0.45,Kingshill,Virgin Islands,850.0,,145000.0,0
+for_sale,,,0.47,Kingshill,Virgin Islands,850.0,,145000.0,0
+for_sale,,,0.47,Kingshill,Virgin Islands,850.0,,145000.0,0
+for_sale,,,5.33,Christiansted,Virgin Islands,820.0,,1500000.0,0
+for_sale,,,0.48,Kingshill,Virgin Islands,850.0,,145000.0,0
+for_sale,,,0.46,Kingshill,Virgin Islands,850.0,,175000.0,0
+for_sale,,,0.45,Kingshill,Virgin Islands,850.0,,175000.0,0
+for_sale,,,88.36,Christiansted,Virgin Islands,820.0,,2900000.0,0
+for_sale,,,0.49,Kingshill,Virgin Islands,850.0,,175000.0,0
+for_sale,,,0.49,Kingshill,Virgin Islands,850.0,,175000.0,0
+for_sale,,,0.48,Kingshill,Virgin Islands,850.0,,175000.0,0
+for_sale,1.0,1.0,,Christiansted,Virgin Islands,820.0,1200.0,149000.0,0
+for_sale,5.0,5.0,0.74,Frederiksted,Virgin Islands,840.0,,2000000.0,0
+for_sale,,,1.33,Frederiksted,Virgin Islands,840.0,,65000.0,0
+for_sale,,,0.99,Frederiksted,Virgin Islands,840.0,,50000.0,0
+for_sale,,,0.95,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,,,1.88,Kingshill,Virgin Islands,850.0,,67000.0,0
+for_sale,,,0.85,Frederiksted,Virgin Islands,840.0,,50000.0,0
+for_sale,,,1.03,Frederiksted,Virgin Islands,840.0,,67000.0,0
+for_sale,,,0.9,Frederiksted,Virgin Islands,840.0,,48000.0,0
+for_sale,,,0.5,Frederiksted,Virgin Islands,840.0,,58000.0,0
+for_sale,,,0.5,Frederiksted,Virgin Islands,840.0,,50000.0,0
+for_sale,,,0.56,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,,,0.69,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,,,0.67,Frederiksted,Virgin Islands,840.0,,65000.0,0
+for_sale,,,0.69,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,,,0.63,Frederiksted,Virgin Islands,840.0,,50000.0,0
+for_sale,,,0.63,Frederiksted,Virgin Islands,840.0,,45000.0,0
+for_sale,,,0.91,Frederiksted,Virgin Islands,840.0,,70000.0,0
+for_sale,,,1.15,Christiansted,Virgin Islands,820.0,,83545.0,0
+for_sale,,,6.3,Frederiksted,Virgin Islands,840.0,,129000.0,1
+for_sale,,,4.33,Frederiksted,Virgin Islands,840.0,,160000.0,0
+for_sale,,,6.32,Christiansted,Virgin Islands,820.0,,289000.0,0
+for_sale,,,0.96,Christiansted,Virgin Islands,820.0,,119000.0,0
+for_sale,,,19.07,Frederiksted,Virgin Islands,840.0,,550000.0,0
+for_sale,,,1.98,Frederiksted,Virgin Islands,840.0,,260000.0,0
+for_sale,,,55.1,Frederiksted,Virgin Islands,840.0,,8600000.0,0
+for_sale,,,4.52,Christiansted,Virgin Islands,820.0,,590000.0,0
+for_sale,,,1.05,Christiansted,Virgin Islands,820.0,,200000.0,0
+for_sale,,,0.79,Christiansted,Virgin Islands,820.0,,232000.0,0
+for_sale,,,0.75,Christiansted,Virgin Islands,820.0,,209000.0,0
+for_sale,,,11.53,Frederiksted,Virgin Islands,840.0,,2650000.0,0
+for_sale,,,34.15,Christiansted,Virgin Islands,820.0,,751300.0,0
+for_sale,,,0.85,Kingshill,Virgin Islands,850.0,,332919.0,0
+for_sale,,,2.0,Christiansted,Virgin Islands,820.0,,170000.0,0
+for_sale,,,0.89,Kingshill,Virgin Islands,850.0,,310848.0,0
+for_sale,,,37.4,Frederiksted,Virgin Islands,840.0,,5700000.0,0
+for_sale,,,0.99,Kingshill,Virgin Islands,850.0,,476377.0,0
+for_sale,,,0.76,Kingshill,Virgin Islands,850.0,,330790.0,0
+for_sale,,,11.75,Kingshill,Virgin Islands,850.0,,4204608.0,0
+for_sale,5.0,5.0,4.95,Christiansted,Virgin Islands,820.0,6545.0,2950000.0,0
+for_sale,,,14.0,Christiansted,Virgin Islands,820.0,,1500000.0,0
+for_sale,,,17.7,Frederiksted,Virgin Islands,840.0,,2900000.0,0
+for_sale,,,1.86,Frederiksted,Virgin Islands,840.0,,65900.0,0
+for_sale,,,38.78,Christiansted,Virgin Islands,820.0,,895000.0,0
+for_sale,,,2.0,Christiansted,Virgin Islands,820.0,,150000.0,0
+for_sale,,,0.69,Christiansted,Virgin Islands,820.0,,105000.0,0
+for_sale,,,0.79,Kingshill,Virgin Islands,850.0,,145000.0,0
+for_sale,,,5.33,Christiansted,Virgin Islands,820.0,,1500000.0,0
+for_sale,,,0.45,Kingshill,Virgin Islands,850.0,,175000.0,0
+for_sale,,,0.47,Kingshill,Virgin Islands,850.0,,145000.0,0
+for_sale,,,0.47,Kingshill,Virgin Islands,850.0,,145000.0,0
+for_sale,,,88.36,Christiansted,Virgin Islands,820.0,,2900000.0,0
+for_sale,,,0.48,Kingshill,Virgin Islands,850.0,,145000.0,0
+for_sale,,,0.48,Kingshill,Virgin Islands,850.0,,175000.0,0
+for_sale,,,0.62,Frederiksted,Virgin Islands,840.0,,78000.0,0
+for_sale,,,0.63,Frederiksted,Virgin Islands,840.0,,50000.0,0
+for_sale,,,1.19,Christiansted,Virgin Islands,820.0,,89000.0,0
+for_sale,5.0,5.0,0.74,Frederiksted,Virgin Islands,840.0,,2000000.0,0
+for_sale,,,0.29,Christiansted,Virgin Islands,820.0,,39900.0,0
+for_sale,,,0.82,Christiansted,Virgin Islands,820.0,,59000.0,0
+for_sale,,,1.4,Frederiksted,Virgin Islands,840.0,,165000.0,0
+for_sale,4.0,5.0,1.48,Christiansted,Virgin Islands,820.0,7898.0,3765000.0,0
+for_sale,,,3.09,Christiansted,Virgin Islands,820.0,,265000.0,0
+for_sale,,,15.8,Christiansted,Virgin Islands,820.0,,595000.0,0
+for_sale,,,0.58,Christiansted,Virgin Islands,820.0,,139000.0,0
+for_sale,,,1.66,Christiansted,Virgin Islands,820.0,,180000.0,0
+for_sale,,,0.69,Christiansted,Virgin Islands,820.0,,179000.0,0
+for_sale,,,0.62,Christiansted,Virgin Islands,820.0,,149000.0,0
+for_sale,,,1.05,Christiansted,Virgin Islands,820.0,,200000.0,0
+for_sale,,,0.92,Christiansted,Virgin Islands,820.0,,189000.0,0
+for_sale,,,81.0,Christiansted,Virgin Islands,820.0,,11900000.0,0
+for_sale,,,0.46,Kingshill,Virgin Islands,850.0,,145000.0,0
+for_sale,,,0.45,Kingshill,Virgin Islands,850.0,,145000.0,0
+for_sale,,,0.75,Christiansted,Virgin Islands,820.0,,209000.0,0
+for_sale,,,0.45,Kingshill,Virgin Islands,850.0,,145000.0,0
+for_sale,,,2.36,Kingshill,Virgin Islands,850.0,,615738.0,0
+for_sale,,,0.7,Kingshill,Virgin Islands,850.0,,175000.0,0
+for_sale,,,4.52,Christiansted,Virgin Islands,820.0,,590000.0,0
+for_sale,,,0.79,Christiansted,Virgin Islands,820.0,,232000.0,0
+for_sale,,,1.87,Christiansted,Virgin Islands,820.0,,349000.0,0
+for_sale,,,3.3,Christiansted,Virgin Islands,820.0,,495000.0,0
+for_sale,,,0.85,Kingshill,Virgin Islands,850.0,,332919.0,0
+for_sale,,,11.75,Kingshill,Virgin Islands,850.0,,4204608.0,0
+for_sale,,,1.55,Christiansted,Virgin Islands,820.0,,349000.0,0
+for_sale,,,14.0,Christiansted,Virgin Islands,820.0,,1500000.0,0
+for_sale,,,0.25,,Virgin Islands,,,25000.0,0
+for_sale,,,1.16,Kingshill,Virgin Islands,850.0,,607920.0,0
+for_sale,,,0.46,Kingshill,Virgin Islands,850.0,,175000.0,0
+for_sale,,,0.89,Kingshill,Virgin Islands,850.0,,310848.0,0
+for_sale,,,0.99,Kingshill,Virgin Islands,850.0,,476377.0,0
+for_sale,,,0.49,Kingshill,Virgin Islands,850.0,,175000.0,0
+for_sale,,,0.49,Kingshill,Virgin Islands,850.0,,175000.0,0
+for_sale,,,0.76,Kingshill,Virgin Islands,850.0,,330790.0,0
+for_sale,,,3.11,Kingshill,Virgin Islands,850.0,,1217556.0,0
+for_sale,5.0,5.0,4.95,Christiansted,Virgin Islands,820.0,6545.0,2950000.0,0
+for_sale,,,40.54,Christiansted,Virgin Islands,820.0,,3900000.0,0
+for_sale,1.0,1.0,,Christiansted,Virgin Islands,820.0,1200.0,149000.0,0
+for_sale,,,6.3,Frederiksted,Virgin Islands,840.0,,129000.0,1
+for_sale,,,4.33,Frederiksted,Virgin Islands,840.0,,160000.0,0
+for_sale,,,0.26,Frederiksted,Virgin Islands,840.0,,40000.0,0
+for_sale,,,0.99,Frederiksted,Virgin Islands,840.0,,50000.0,0
+for_sale,,,0.9,Frederiksted,Virgin Islands,840.0,,48000.0,0
+for_sale,,,0.85,Frederiksted,Virgin Islands,840.0,,50000.0,0
+for_sale,,,3.31,Christiansted,Virgin Islands,820.0,,195000.0,0
+for_sale,6.0,7.0,3.3,Christiansted,Virgin Islands,820.0,,2900000.0,0
+for_sale,,,0.5,Frederiksted,Virgin Islands,840.0,,50000.0,0
+for_sale,,,19.07,Frederiksted,Virgin Islands,840.0,,550000.0,0
+for_sale,,,6.32,Christiansted,Virgin Islands,820.0,,289000.0,0
+for_sale,,,0.95,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,,,1.98,Frederiksted,Virgin Islands,840.0,,260000.0,0
+for_sale,,,1.88,Kingshill,Virgin Islands,850.0,,67000.0,0
+for_sale,,,0.56,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,,,0.63,Frederiksted,Virgin Islands,840.0,,45000.0,0
+for_sale,,,0.5,Frederiksted,Virgin Islands,840.0,,58000.0,0
+for_sale,,,1.15,Christiansted,Virgin Islands,820.0,,83545.0,0
+for_sale,,,0.96,Christiansted,Virgin Islands,820.0,,119000.0,0
+for_sale,,,0.69,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,,,1.33,Frederiksted,Virgin Islands,840.0,,65000.0,0
+for_sale,,,0.44,Christiansted,Virgin Islands,820.0,,39900.0,0
+for_sale,,,1.03,Frederiksted,Virgin Islands,840.0,,67000.0,0
+for_sale,,,0.69,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,,,2.0,Christiansted,Virgin Islands,820.0,,170000.0,0
+for_sale,,,0.91,Frederiksted,Virgin Islands,840.0,,70000.0,0
+for_sale,,,0.7,Christiansted,Virgin Islands,820.0,,45000.0,0
+for_sale,,,0.24,Christiansted,Virgin Islands,820.0,,42500.0,0
+for_sale,,,0.67,Frederiksted,Virgin Islands,840.0,,65000.0,0
+for_sale,,,0.43,Christiansted,Virgin Islands,820.0,,60000.0,0
+for_sale,,,1.77,Christiansted,Virgin Islands,820.0,,69000.0,0
+for_sale,,,37.4,Frederiksted,Virgin Islands,840.0,,5700000.0,0
+for_sale,,,34.15,Christiansted,Virgin Islands,820.0,,751300.0,0
+for_sale,,,11.53,Frederiksted,Virgin Islands,840.0,,2650000.0,0
+for_sale,,,118.79,Christiansted,Virgin Islands,820.0,,945000.0,0
+for_sale,,,0.5,Christiansted,Virgin Islands,820.0,,135000.0,0
+for_sale,,,1.83,,Virgin Islands,,,649000.0,0
+for_sale,,,0.44,Christiansted,Virgin Islands,820.0,,95000.0,0
+for_sale,,,18.85,Christiansted,Virgin Islands,820.0,,1950000.0,0
+for_sale,,,55.1,Frederiksted,Virgin Islands,840.0,,8600000.0,0
+for_sale,,,17.7,Frederiksted,Virgin Islands,840.0,,2900000.0,0
+for_sale,3.0,2.0,0.24,Christiansted,Virgin Islands,820.0,,225000.0,0
+for_sale,3.0,2.0,0.24,Christiansted,Virgin Islands,820.0,,169000.0,0
+for_sale,3.0,3.0,,Christiansted,Virgin Islands,820.0,2290.0,399000.0,0
+for_sale,,,1.59,Frederiksted,Virgin Islands,840.0,,85000.0,0
+for_sale,,,0.57,Frederiksted,Virgin Islands,840.0,,33000.0,0
+for_sale,,,0.57,Frederiksted,Virgin Islands,840.0,,33000.0,0
+for_sale,,,0.51,Frederiksted,Virgin Islands,840.0,,33000.0,0
+for_sale,,,0.62,Frederiksted,Virgin Islands,840.0,,35000.0,0
+for_sale,,,0.94,Christiansted,Virgin Islands,820.0,,58500.0,0
+for_sale,,,0.5,Frederiksted,Virgin Islands,840.0,,42000.0,0
+for_sale,,,0.99,Christiansted,Virgin Islands,820.0,,67500.0,0
+for_sale,,,0.86,Christiansted,Virgin Islands,820.0,,53500.0,0
+for_sale,,,1.41,Christiansted,Virgin Islands,820.0,,70000.0,0
+for_sale,,,0.7,Christiansted,Virgin Islands,820.0,,62000.0,0
+for_sale,,,0.61,Christiansted,Virgin Islands,820.0,,52000.0,0
+for_sale,,,0.6,Christiansted,Virgin Islands,820.0,,85000.0,0
+for_sale,,,33.3,Frederiksted,Virgin Islands,840.0,,498000.0,0
+for_sale,,,0.79,Frederiksted,Virgin Islands,840.0,,99000.0,0
+for_sale,,,3.15,Christiansted,Virgin Islands,820.0,,189000.0,0
+for_sale,,,16.7,Frederiksted,Virgin Islands,840.0,,599000.0,0
+for_sale,,,2.63,Christiansted,Virgin Islands,820.0,,159000.0,0
+for_sale,,,0.71,Christiansted,Virgin Islands,820.0,,110000.0,0
+for_sale,,,2.67,Christiansted,Virgin Islands,820.0,,275000.0,0
+for_sale,,,44.81,Frederiksted,Virgin Islands,840.0,,750000.0,0
+for_sale,,,0.51,Christiansted,Virgin Islands,820.0,,89500.0,0
+for_sale,,,1.43,Christiansted,Virgin Islands,820.0,,94500.0,0
+for_sale,,,3.93,Kingshill,Virgin Islands,850.0,,359000.0,0
+for_sale,,,2.06,Frederiksted,Virgin Islands,840.0,,317000.0,0
+for_sale,,,1.94,Christiansted,Virgin Islands,820.0,,199000.0,0
+for_sale,,,23.11,Kingshill,Virgin Islands,850.0,,799000.0,0
+for_sale,4.0,4.0,,Christiansted,Virgin Islands,820.0,3240.0,1690000.0,0
+for_sale,,,2.16,Christiansted,Virgin Islands,820.0,,500000.0,0
+for_sale,,,0.85,Christiansted,Virgin Islands,820.0,,129000.0,0
+for_sale,,,2.05,Christiansted,Virgin Islands,820.0,,260000.0,0
+for_sale,,,15.26,Christiansted,Virgin Islands,820.0,,721000.0,0
+for_sale,,,1.04,Christiansted,Virgin Islands,820.0,,165000.0,0
+for_sale,,,20.0,Christiansted,Virgin Islands,820.0,,2269300.0,0
+for_sale,,,3.91,,Virgin Islands,,,935000.0,0
+for_sale,,,8.0,Christiansted,Virgin Islands,820.0,,2000000.0,0
+for_sale,,,744.0,Christiansted,Virgin Islands,820.0,,22500000.0,0
+for_sale,,,0.39,,Virgin Islands,,,55000.0,0
+for_sale,,,0.44,,Virgin Islands,,,165000.0,0
+for_sale,4.0,6.0,0.73,Christiansted,Virgin Islands,820.0,12872.0,2999500.0,0
+for_sale,5.0,6.0,8.7,Frederiksted,Virgin Islands,840.0,10100.0,3200000.0,0
+for_sale,,,0.46,Frederiksted,Virgin Islands,840.0,,39500.0,0
+for_sale,,,1.33,Kingshill,Virgin Islands,850.0,,55000.0,0
+for_sale,,,2.06,Frederiksted,Virgin Islands,840.0,,62000.0,0
+for_sale,,,0.49,Christiansted,Virgin Islands,820.0,,39900.0,0
+for_sale,,,2.68,Frederiksted,Virgin Islands,840.0,,80000.0,0
+for_sale,,,0.24,Frederiksted,Virgin Islands,840.0,,35000.0,0
+for_sale,5.0,6.0,2.29,Christiansted,Virgin Islands,820.0,,1695000.0,0
+for_sale,,,2.0,Frederiksted,Virgin Islands,840.0,,75000.0,0
+for_sale,5.0,6.0,0.65,Frederiksted,Virgin Islands,840.0,6000.0,1900000.0,0
+for_sale,,,0.3,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,,,0.75,Frederiksted,Virgin Islands,840.0,,69999.0,0
+for_sale,,,13.24,Frederiksted,Virgin Islands,840.0,,148000.0,0
+for_sale,,,1.17,Christiansted,Virgin Islands,820.0,,64000.0,0
+for_sale,,,19.95,Frederiksted,Virgin Islands,840.0,,278000.0,0
+for_sale,,,0.94,Christiansted,Virgin Islands,820.0,,72000.0,0
+for_sale,,,1.15,Christiansted,Virgin Islands,820.0,,76500.0,0
+for_sale,,,1.11,Christiansted,Virgin Islands,820.0,,76500.0,0
+for_sale,,,0.69,Christiansted,Virgin Islands,820.0,,65000.0,0
+for_sale,,,28.61,Frederiksted,Virgin Islands,840.0,,368000.0,0
+for_sale,,,3.92,Frederiksted,Virgin Islands,840.0,,198000.0,0
+for_sale,,,17.18,Frederiksted,Virgin Islands,840.0,,398000.0,0
+for_sale,,,1.06,Christiansted,Virgin Islands,820.0,,85000.0,0
+for_sale,,,0.52,Christiansted,Virgin Islands,820.0,,59000.0,0
+for_sale,,,1.94,Christiansted,Virgin Islands,820.0,,272000.0,0
+for_sale,,,2.44,Christiansted,Virgin Islands,820.0,,140000.0,0
+for_sale,,,0.44,Frederiksted,Virgin Islands,840.0,,199000.0,0
+for_sale,,,8.6,Christiansted,Virgin Islands,820.0,,599000.0,0
+for_sale,,,39.02,Frederiksted,Virgin Islands,840.0,,1200000.0,0
+for_sale,,,1.99,Christiansted,Virgin Islands,820.0,,150000.0,0
+for_sale,,,0.42,Kingshill,Virgin Islands,850.0,,85000.0,0
+for_sale,,,0.71,Christiansted,Virgin Islands,820.0,,115000.0,0
+for_sale,,,0.75,Christiansted,Virgin Islands,820.0,,165000.0,0
+for_sale,,,0.33,Christiansted,Virgin Islands,820.0,,199000.0,0
+for_sale,,,0.82,Frederiksted,Virgin Islands,840.0,,275000.0,0
+for_sale,,,0.72,Christiansted,Virgin Islands,820.0,,125000.0,0
+for_sale,,,22.68,Christiansted,Virgin Islands,820.0,,2290000.0,0
+for_sale,,,2377.0,Frederiksted,Virgin Islands,840.0,,17500000.0,0
+for_sale,,,0.6,,Virgin Islands,,,64000.0,0
+for_sale,,,0.94,,Virgin Islands,,,125000.0,0
+for_sale,,,1.14,,Virgin Islands,,,199000.0,0
+for_sale,3.0,1.0,0.12,Kingshill,Virgin Islands,850.0,1200.0,167000.0,0
+for_sale,8.0,11.0,2.5,Frederiksted,Virgin Islands,840.0,13000.0,3200000.0,0
+for_sale,4.0,2.0,0.49,Christiansted,Virgin Islands,820.0,,99000.0,0
+for_sale,2.0,2.0,1.15,Christiansted,Virgin Islands,820.0,1900.0,449000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,800.0,199000.0,0
+for_sale,,,0.31,Frederiksted,Virgin Islands,840.0,,47000.0,0
+for_sale,3.0,2.0,0.23,Frederiksted,Virgin Islands,840.0,,339000.0,0
+for_sale,,,0.54,Christiansted,Virgin Islands,820.0,,37000.0,0
+for_sale,,,0.53,Christiansted,Virgin Islands,820.0,,37000.0,0
+for_sale,,,0.79,Christiansted,Virgin Islands,820.0,,59000.0,0
+for_sale,5.0,5.0,0.68,Christiansted,Virgin Islands,820.0,,1295000.0,0
+for_sale,,,0.37,Kingshill,Virgin Islands,850.0,,45000.0,0
+for_sale,,,0.79,Christiansted,Virgin Islands,820.0,,49000.0,0
+for_sale,,,0.71,Christiansted,Virgin Islands,820.0,,60300.0,0
+for_sale,,,0.7,Christiansted,Virgin Islands,820.0,,60300.0,0
+for_sale,,,0.29,Christiansted,Virgin Islands,820.0,,49500.0,0
+for_sale,,,0.9,Christiansted,Virgin Islands,820.0,,77000.0,0
+for_sale,,,1.32,Christiansted,Virgin Islands,820.0,,69300.0,0
+for_sale,,,1.27,Christiansted,Virgin Islands,820.0,,89000.0,0
+for_sale,,,0.29,Christiansted,Virgin Islands,820.0,,50000.0,0
+for_sale,,,1.0,Frederiksted,Virgin Islands,840.0,,100000.0,0
+for_sale,,,0.82,Christiansted,Virgin Islands,820.0,,75000.0,0
+for_sale,,,17.7,Frederiksted,Virgin Islands,840.0,,531000.0,0
+for_sale,,,2.33,Christiansted,Virgin Islands,820.0,,110000.0,0
+for_sale,,,13.56,Frederiksted,Virgin Islands,840.0,,407000.0,0
+for_sale,,,13.36,Christiansted,Virgin Islands,820.0,,375000.0,0
+for_sale,,,0.52,Christiansted,Virgin Islands,820.0,,99000.0,0
+for_sale,,,44.52,Christiansted,Virgin Islands,820.0,,700000.0,0
+for_sale,,,1.72,Christiansted,Virgin Islands,820.0,,165000.0,0
+for_sale,,,0.97,Christiansted,Virgin Islands,820.0,,190000.0,0
+for_sale,,,39.64,Christiansted,Virgin Islands,820.0,,1100000.0,0
+for_sale,,,1.81,Christiansted,Virgin Islands,820.0,,195000.0,0
+for_sale,,,0.06,Christiansted,Virgin Islands,820.0,,135000.0,0
+for_sale,,,0.86,Christiansted,Virgin Islands,820.0,,270000.0,0
+for_sale,,,68.74,Frederiksted,Virgin Islands,840.0,,1950000.0,0
+for_sale,,,13.94,Christiansted,Virgin Islands,820.0,,875000.0,0
+for_sale,,,0.75,Christiansted,Virgin Islands,820.0,,299000.0,0
+for_sale,,,1.23,Christiansted,Virgin Islands,820.0,,599000.0,0
+for_sale,,,0.83,Christiansted,Virgin Islands,820.0,,130000.0,0
+for_sale,,,9.95,Christiansted,Virgin Islands,820.0,,1700000.0,0
+for_sale,,,149.7,Christiansted,Virgin Islands,820.0,,2500000.0,0
+for_sale,,,0.91,,Virgin Islands,,,45000.0,0
+for_sale,3.0,3.0,,Christiansted,Virgin Islands,820.0,1542.0,234000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1200.0,189000.0,0
+for_sale,3.0,3.0,1.01,Christiansted,Virgin Islands,820.0,2700.0,699999.0,0
+for_sale,4.0,2.0,0.36,Christiansted,Virgin Islands,820.0,,400000.0,0
+for_sale,,,1.15,Frederiksted,Virgin Islands,840.0,,25000.0,0
+for_sale,4.0,5.0,1.05,Christiansted,Virgin Islands,820.0,,795000.0,0
+for_sale,,,1.08,Frederiksted,Virgin Islands,840.0,,25000.0,0
+for_sale,6.0,5.0,1.28,Christiansted,Virgin Islands,820.0,,1950000.0,0
+for_sale,5.0,5.0,0.79,Christiansted,Virgin Islands,820.0,4000.0,1100000.0,0
+for_sale,5.0,3.0,0.43,Frederiksted,Virgin Islands,840.0,,475000.0,0
+for_sale,,,0.78,Christiansted,Virgin Islands,820.0,,29000.0,0
+for_sale,,,0.55,Christiansted,Virgin Islands,820.0,,325000.0,0
+for_sale,,,0.23,Frederiksted,Virgin Islands,840.0,,38000.0,0
+for_sale,3.0,3.0,0.87,Christiansted,Virgin Islands,820.0,7550.0,949000.0,0
+for_sale,5.0,4.0,1.01,Christiansted,Virgin Islands,820.0,,595000.0,0
+for_sale,3.0,3.0,,Kingshill,Virgin Islands,850.0,1776.0,599000.0,0
+for_sale,,,2.05,Frederiksted,Virgin Islands,840.0,,78000.0,0
+for_sale,,,0.53,Christiansted,Virgin Islands,820.0,,29900.0,0
+for_sale,,,0.29,Frederiksted,Virgin Islands,840.0,,45000.0,0
+for_sale,,,0.53,Christiansted,Virgin Islands,820.0,,52500.0,0
+for_sale,,,0.23,Christiansted,Virgin Islands,820.0,,39000.0,0
+for_sale,,,0.86,Christiansted,Virgin Islands,820.0,,53000.0,0
+for_sale,,,0.29,Christiansted,Virgin Islands,820.0,,50000.0,0
+for_sale,5.0,7.0,2.78,Christiansted,Virgin Islands,820.0,,7900000.0,0
+for_sale,,,1.49,Christiansted,Virgin Islands,820.0,,65000.0,0
+for_sale,7.0,6.0,11.0,Christiansted,Virgin Islands,820.0,,2400000.0,0
+for_sale,,,1.31,Christiansted,Virgin Islands,820.0,,65000.0,0
+for_sale,,,0.6,Frederiksted,Virgin Islands,840.0,,100000.0,0
+for_sale,,,1.07,Christiansted,Virgin Islands,820.0,,95000.0,0
+for_sale,,,0.92,Christiansted,Virgin Islands,820.0,,85000.0,0
+for_sale,,,1.15,Christiansted,Virgin Islands,820.0,,80000.0,0
+for_sale,,,14.97,Christiansted,Virgin Islands,820.0,,595000.0,0
+for_sale,,,2.0,Christiansted,Virgin Islands,820.0,,130000.0,0
+for_sale,,,0.68,Christiansted,Virgin Islands,820.0,,85000.0,0
+for_sale,,,11.73,Christiansted,Virgin Islands,820.0,,800000.0,0
+for_sale,,,0.23,Christiansted,Virgin Islands,820.0,,195000.0,0
+for_sale,,,1.42,Christiansted,Virgin Islands,820.0,,120000.0,0
+for_sale,,,0.29,Christiansted,Virgin Islands,820.0,,165000.0,0
+for_sale,,,0.94,Christiansted,Virgin Islands,820.0,,225000.0,0
+for_sale,,,0.49,Kingshill,Virgin Islands,850.0,,135000.0,0
+for_sale,,,6.88,Frederiksted,Virgin Islands,840.0,,1795000.0,0
+for_sale,,,0.49,,Virgin Islands,,,59000.0,0
+for_sale,3.0,2.0,0.06,Christiansted,Virgin Islands,820.0,,235000.0,0
+for_sale,2.0,1.0,0.55,Christiansted,Virgin Islands,820.0,1247.0,325000.0,0
+for_sale,5.0,4.0,0.3,Frederiksted,Virgin Islands,840.0,2000.0,135000.0,0
+for_sale,6.0,6.0,0.5,Christiansted,Virgin Islands,820.0,,325000.0,0
+for_sale,,,0.3,Kingshill,Virgin Islands,850.0,2700.0,135000.0,0
+for_sale,3.0,2.0,0.32,Frederiksted,Virgin Islands,840.0,,375000.0,0
+for_sale,6.0,2.0,0.35,Christiansted,Virgin Islands,820.0,2436.0,450000.0,0
+for_sale,3.0,2.0,0.58,Christiansted,Virgin Islands,820.0,,535000.0,0
+for_sale,,,0.23,Frederiksted,Virgin Islands,840.0,,28000.0,0
+for_sale,,,0.23,Frederiksted,Virgin Islands,840.0,,40000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1200.0,194500.0,0
+for_sale,,,1.61,Kingshill,Virgin Islands,850.0,,69000.0,0
+for_sale,,,0.5,Christiansted,Virgin Islands,820.0,,45000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1118.0,180000.0,0
+for_sale,,,0.68,Christiansted,Virgin Islands,820.0,,60000.0,0
+for_sale,,,0.93,Christiansted,Virgin Islands,820.0,,55000.0,0
+for_sale,5.0,6.0,1.0,Christiansted,Virgin Islands,820.0,,1150000.0,0
+for_sale,,,0.58,Christiansted,Virgin Islands,820.0,,60000.0,0
+for_sale,,,0.49,Christiansted,Virgin Islands,820.0,,39900.0,0
+for_sale,,,0.82,Christiansted,Virgin Islands,820.0,,89000.0,0
+for_sale,3.0,2.0,0.51,Christiansted,Virgin Islands,820.0,,465000.0,0
+for_sale,,,0.57,Christiansted,Virgin Islands,820.0,,79000.0,0
+for_sale,5.0,3.0,2.93,Frederiksted,Virgin Islands,840.0,3500.0,1900000.0,0
+for_sale,,,0.71,Christiansted,Virgin Islands,820.0,,75000.0,0
+for_sale,,,0.78,Christiansted,Virgin Islands,820.0,,75000.0,0
+for_sale,,,0.44,Christiansted,Virgin Islands,820.0,,55000.0,0
+for_sale,4.0,4.0,0.71,Christiansted,Virgin Islands,820.0,8600.0,1295000.0,0
+for_sale,3.0,4.0,4.0,Christiansted,Virgin Islands,820.0,4319.0,1300000.0,0
+for_sale,,,0.48,Frederiksted,Virgin Islands,840.0,,36000.0,0
+for_sale,3.0,3.0,2.38,Christiansted,Virgin Islands,820.0,3550.0,1680000.0,0
+for_sale,3.0,2.0,3.0,Christiansted,Virgin Islands,820.0,4381.0,1100000.0,0
+for_sale,4.0,4.0,0.6,Christiansted,Virgin Islands,820.0,,1190000.0,0
+for_sale,,,0.55,Christiansted,Virgin Islands,820.0,,89500.0,0
+for_sale,7.0,10.0,7.78,Christiansted,Virgin Islands,820.0,11200.0,8000000.0,0
+for_sale,,,0.94,Christiansted,Virgin Islands,820.0,,184000.0,0
+for_sale,,,1.49,Christiansted,Virgin Islands,820.0,,225000.0,0
+for_sale,,,7.59,Frederiksted,Virgin Islands,840.0,,495000.0,0
+for_sale,,,1.65,Frederiksted,Virgin Islands,840.0,,375000.0,0
+for_sale,,,15.66,Christiansted,Virgin Islands,820.0,,1850000.0,0
+for_sale,,,0.52,Christiansted,Virgin Islands,820.0,,1200000.0,0
+for_sale,,,0.7,Christiansted,Virgin Islands,820.0,,310000.0,0
+for_sale,1.0,1.0,,,Virgin Islands,,1100.0,197500.0,0
+for_sale,3.0,3.0,0.59,Christiansted,Virgin Islands,820.0,4611.0,410000.0,0
+for_sale,3.0,1.0,3600.11,Christiansted,Virgin Islands,820.0,,220000.0,0
+for_sale,4.0,3.0,0.29,Christiansted,Virgin Islands,820.0,,165000.0,0
+for_sale,5.0,3.0,0.25,Christiansted,Virgin Islands,820.0,,179000.0,0
+for_sale,2.0,2.0,0.24,Christiansted,Virgin Islands,820.0,,324000.0,0
+for_sale,4.0,3.0,0.56,Frederiksted,Virgin Islands,840.0,,199000.0,0
+for_sale,,,0.63,Frederiksted,Virgin Islands,840.0,,75000.0,0
+for_sale,7.0,7.0,3.57,Christiansted,Virgin Islands,820.0,,1600000.0,0
+for_sale,3.0,3.0,,Christiansted,Virgin Islands,820.0,1542.0,239000.0,0
+for_sale,3.0,3.0,0.62,Frederiksted,Virgin Islands,840.0,,699000.0,0
+for_sale,3.0,3.0,0.3,Christiansted,Virgin Islands,820.0,,529000.0,0
+for_sale,4.0,3.0,0.08,Christiansted,Virgin Islands,820.0,3200.0,879000.0,0
+for_sale,3.0,2.0,,Christiansted,Virgin Islands,820.0,1515.0,375000.0,0
+for_sale,4.0,3.0,0.71,Christiansted,Virgin Islands,820.0,,695000.0,0
+for_sale,2.0,2.0,1.0,Kingshill,Virgin Islands,850.0,1530.0,525000.0,0
+for_sale,5.0,3.0,0.95,Christiansted,Virgin Islands,820.0,,1350000.0,0
+for_sale,5.0,3.0,0.28,Kingshill,Virgin Islands,850.0,,350000.0,0
+for_sale,2.0,2.0,,Kingshill,Virgin Islands,850.0,1250.0,320000.0,0
+for_sale,3.0,3.0,1.07,Frederiksted,Virgin Islands,840.0,,885000.0,0
+for_sale,,,0.54,Kingshill,Virgin Islands,850.0,,60000.0,0
+for_sale,3.0,3.0,2.15,Christiansted,Virgin Islands,820.0,4500.0,3950000.0,0
+for_sale,2.0,2.0,0.75,Christiansted,Virgin Islands,820.0,,529500.0,0
+for_sale,,,0.11,Frederiksted,Virgin Islands,840.0,,125000.0,0
+for_sale,,,0.7,Christiansted,Virgin Islands,820.0,,69000.0,0
+for_sale,,,0.65,Frederiksted,Virgin Islands,840.0,,79000.0,0
+for_sale,5.0,5.0,1.01,Kingshill,Virgin Islands,850.0,,1450000.0,0
+for_sale,4.0,4.0,0.96,Frederiksted,Virgin Islands,840.0,6100.0,1695000.0,0
+for_sale,,,0.64,Frederiksted,Virgin Islands,840.0,,33000.0,0
+for_sale,,,0.55,Frederiksted,Virgin Islands,840.0,,39500.0,0
+for_sale,,,5.94,Frederiksted,Virgin Islands,840.0,,465000.0,0
+for_sale,,,0.5,Christiansted,Virgin Islands,820.0,,70000.0,0
+for_sale,,,0.13,Frederiksted,Virgin Islands,840.0,,160000.0,0
+for_sale,6.0,7.0,1.08,Christiansted,Virgin Islands,820.0,,1350000.0,0
+for_sale,,,0.51,Christiansted,Virgin Islands,820.0,,119900.0,0
+for_sale,,,1.03,Christiansted,Virgin Islands,820.0,,150000.0,0
+for_sale,1.0,1.0,,Christiansted,Virgin Islands,820.0,770.0,249000.0,0
+for_sale,,,0.42,Christiansted,Virgin Islands,820.0,,150000.0,0
+for_sale,,,0.4,Christiansted,Virgin Islands,820.0,,195000.0,0
+for_sale,,,0.58,Christiansted,Virgin Islands,820.0,,230000.0,0
+for_sale,,,14.0,Christiansted,Virgin Islands,820.0,,1295000.0,0
+for_sale,,,0.91,Christiansted,Virgin Islands,820.0,,250000.0,0
+for_sale,,,0.84,,Virgin Islands,,,72000.0,0
+for_sale,3.0,2.0,0.24,Christiansted,Virgin Islands,820.0,,169000.0,0
+for_sale,,,0.26,Frederiksted,Virgin Islands,840.0,,40000.0,0
+for_sale,,,0.46,Frederiksted,Virgin Islands,840.0,,39500.0,0
+for_sale,5.0,6.0,8.7,Frederiksted,Virgin Islands,840.0,10100.0,3200000.0,0
+for_sale,,,1.59,Frederiksted,Virgin Islands,840.0,,85000.0,0
+for_sale,,,0.3,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,,,0.43,Christiansted,Virgin Islands,820.0,,60000.0,0
+for_sale,,,0.5,Frederiksted,Virgin Islands,840.0,,42000.0,0
+for_sale,,,13.24,Frederiksted,Virgin Islands,840.0,,148000.0,0
+for_sale,,,0.57,Frederiksted,Virgin Islands,840.0,,33000.0,0
+for_sale,,,0.57,Frederiksted,Virgin Islands,840.0,,33000.0,0
+for_sale,,,0.51,Frederiksted,Virgin Islands,840.0,,33000.0,0
+for_sale,5.0,6.0,2.29,Christiansted,Virgin Islands,820.0,,1695000.0,0
+for_sale,5.0,6.0,0.65,Frederiksted,Virgin Islands,840.0,6000.0,1900000.0,0
+for_sale,,,0.62,Frederiksted,Virgin Islands,840.0,,35000.0,0
+for_sale,,,0.79,Frederiksted,Virgin Islands,840.0,,99000.0,0
+for_sale,,,0.42,Kingshill,Virgin Islands,850.0,,85000.0,0
+for_sale,,,17.18,Frederiksted,Virgin Islands,840.0,,398000.0,0
+for_sale,,,0.51,Christiansted,Virgin Islands,820.0,,89500.0,0
+for_sale,,,28.61,Frederiksted,Virgin Islands,840.0,,368000.0,0
+for_sale,,,3.92,Frederiksted,Virgin Islands,840.0,,198000.0,0
+for_sale,,,33.3,Frederiksted,Virgin Islands,840.0,,498000.0,0
+for_sale,,,0.71,Christiansted,Virgin Islands,820.0,,110000.0,0
+for_sale,,,19.95,Frederiksted,Virgin Islands,840.0,,278000.0,0
+for_sale,,,16.7,Frederiksted,Virgin Islands,840.0,,599000.0,0
+for_sale,,,1.99,Christiansted,Virgin Islands,820.0,,150000.0,0
+for_sale,,,3.93,Kingshill,Virgin Islands,850.0,,359000.0,0
+for_sale,,,44.81,Frederiksted,Virgin Islands,840.0,,750000.0,0
+for_sale,,,2.06,Frederiksted,Virgin Islands,840.0,,317000.0,0
+for_sale,,,0.44,Frederiksted,Virgin Islands,840.0,,199000.0,0
+for_sale,,,8.6,Christiansted,Virgin Islands,820.0,,599000.0,0
+for_sale,,,39.02,Frederiksted,Virgin Islands,840.0,,1200000.0,0
+for_sale,,,1.94,Christiansted,Virgin Islands,820.0,,199000.0,0
+for_sale,,,23.11,Kingshill,Virgin Islands,850.0,,799000.0,0
+for_sale,,,15.26,Christiansted,Virgin Islands,820.0,,721000.0,0
+for_sale,,,20.0,Christiansted,Virgin Islands,820.0,,2269300.0,0
+for_sale,,,2377.0,Frederiksted,Virgin Islands,840.0,,17500000.0,0
+for_sale,,,3.91,,Virgin Islands,,,935000.0,0
+for_sale,,,0.6,,Virgin Islands,,,64000.0,0
+for_sale,,,0.39,,Virgin Islands,,,55000.0,0
+for_sale,,,0.94,,Virgin Islands,,,125000.0,0
+for_sale,,,1.14,,Virgin Islands,,,199000.0,0
+for_sale,3.0,1.0,0.12,Kingshill,Virgin Islands,850.0,1200.0,167000.0,0
+for_sale,2.0,2.0,1.15,Christiansted,Virgin Islands,820.0,1900.0,449000.0,0
+for_sale,,,1.33,Kingshill,Virgin Islands,850.0,,55000.0,0
+for_sale,8.0,11.0,2.5,Frederiksted,Virgin Islands,840.0,13000.0,3200000.0,0
+for_sale,4.0,2.0,0.49,Christiansted,Virgin Islands,820.0,,99000.0,0
+for_sale,3.0,2.0,0.23,Frederiksted,Virgin Islands,840.0,,339000.0,0
+for_sale,,,0.31,Frederiksted,Virgin Islands,840.0,,47000.0,0
+for_sale,,,2.06,Frederiksted,Virgin Islands,840.0,,62000.0,0
+for_sale,,,0.29,Frederiksted,Virgin Islands,840.0,,45000.0,0
+for_sale,,,0.24,Frederiksted,Virgin Islands,840.0,,35000.0,0
+for_sale,,,2.0,Frederiksted,Virgin Islands,840.0,,75000.0,0
+for_sale,,,0.53,Christiansted,Virgin Islands,820.0,,37000.0,0
+for_sale,,,0.54,Christiansted,Virgin Islands,820.0,,37000.0,0
+for_sale,,,2.68,Frederiksted,Virgin Islands,840.0,,80000.0,0
+for_sale,,,0.37,Kingshill,Virgin Islands,850.0,,45000.0,0
+for_sale,,,0.79,Christiansted,Virgin Islands,820.0,,49000.0,0
+for_sale,,,0.53,Christiansted,Virgin Islands,820.0,,52500.0,0
+for_sale,,,0.75,Frederiksted,Virgin Islands,840.0,,69999.0,0
+for_sale,,,0.29,Christiansted,Virgin Islands,820.0,,49500.0,0
+for_sale,,,0.52,Christiansted,Virgin Islands,820.0,,59000.0,0
+for_sale,,,14.97,Christiansted,Virgin Islands,820.0,,595000.0,0
+for_sale,,,17.7,Frederiksted,Virgin Islands,840.0,,531000.0,0
+for_sale,,,13.36,Christiansted,Virgin Islands,820.0,,375000.0,0
+for_sale,,,1.0,Frederiksted,Virgin Islands,840.0,,100000.0,0
+for_sale,,,13.56,Frederiksted,Virgin Islands,840.0,,407000.0,0
+for_sale,,,0.9,Christiansted,Virgin Islands,820.0,,77000.0,0
+for_sale,,,2.0,Christiansted,Virgin Islands,820.0,,130000.0,0
+for_sale,,,0.82,Christiansted,Virgin Islands,820.0,,75000.0,0
+for_sale,,,1.81,Christiansted,Virgin Islands,820.0,,195000.0,0
+for_sale,,,0.23,Christiansted,Virgin Islands,820.0,,195000.0,0
+for_sale,,,68.74,Frederiksted,Virgin Islands,840.0,,1950000.0,0
+for_sale,,,44.52,Christiansted,Virgin Islands,820.0,,700000.0,0
+for_sale,,,39.64,Christiansted,Virgin Islands,820.0,,1100000.0,0
+for_sale,,,0.86,Christiansted,Virgin Islands,820.0,,270000.0,0
+for_sale,,,0.49,Kingshill,Virgin Islands,850.0,,135000.0,0
+for_sale,,,0.82,Frederiksted,Virgin Islands,840.0,,275000.0,0
+for_sale,,,0.75,Christiansted,Virgin Islands,820.0,,299000.0,0
+for_sale,,,6.88,Frederiksted,Virgin Islands,840.0,,1795000.0,0
+for_sale,,,0.83,Christiansted,Virgin Islands,820.0,,130000.0,0
+for_sale,,,9.95,Christiansted,Virgin Islands,820.0,,1700000.0,0
+for_sale,,,0.91,,Virgin Islands,,,45000.0,0
+for_sale,,,0.49,,Virgin Islands,,,59000.0,0
+for_sale,2.0,1.0,0.55,Christiansted,Virgin Islands,820.0,1247.0,325000.0,0
+for_sale,5.0,4.0,0.3,Frederiksted,Virgin Islands,840.0,2000.0,135000.0,0
+for_sale,3.0,2.0,0.06,Christiansted,Virgin Islands,820.0,,235000.0,0
+for_sale,,,0.3,Kingshill,Virgin Islands,850.0,2700.0,135000.0,0
+for_sale,6.0,6.0,0.5,Christiansted,Virgin Islands,820.0,,325000.0,0
+for_sale,3.0,2.0,0.32,Frederiksted,Virgin Islands,840.0,,375000.0,0
+for_sale,3.0,3.0,1.01,Christiansted,Virgin Islands,820.0,2700.0,699999.0,0
+for_sale,5.0,3.0,0.25,Christiansted,Virgin Islands,820.0,,179000.0,0
+for_sale,6.0,2.0,0.35,Christiansted,Virgin Islands,820.0,2436.0,450000.0,0
+for_sale,,,1.15,Frederiksted,Virgin Islands,840.0,,25000.0,0
+for_sale,,,1.08,Frederiksted,Virgin Islands,840.0,,25000.0,0
+for_sale,,,2.05,Frederiksted,Virgin Islands,840.0,,78000.0,0
+for_sale,,,0.23,Frederiksted,Virgin Islands,840.0,,40000.0,0
+for_sale,3.0,1.0,3600.11,Christiansted,Virgin Islands,820.0,,220000.0,0
+for_sale,,,0.23,Frederiksted,Virgin Islands,840.0,,28000.0,0
+for_sale,5.0,4.0,1.01,Christiansted,Virgin Islands,820.0,,595000.0,0
+for_sale,,,1.61,Kingshill,Virgin Islands,850.0,,69000.0,0
+for_sale,,,0.5,Christiansted,Virgin Islands,820.0,,45000.0,0
+for_sale,5.0,3.0,0.43,Frederiksted,Virgin Islands,840.0,,475000.0,0
+for_sale,,,0.54,Kingshill,Virgin Islands,850.0,,60000.0,0
+for_sale,2.0,2.0,1.0,Kingshill,Virgin Islands,850.0,1530.0,525000.0,0
+for_sale,,,0.23,Frederiksted,Virgin Islands,840.0,,38000.0,0
+for_sale,2.0,2.0,,Kingshill,Virgin Islands,850.0,1250.0,320000.0,0
+for_sale,,,0.11,Frederiksted,Virgin Islands,840.0,,125000.0,0
+for_sale,,,0.23,Christiansted,Virgin Islands,820.0,,39000.0,0
+for_sale,,,0.48,Frederiksted,Virgin Islands,840.0,,36000.0,0
+for_sale,,,1.15,Christiansted,Virgin Islands,820.0,,80000.0,0
+for_sale,,,0.55,Frederiksted,Virgin Islands,840.0,,39500.0,0
+for_sale,4.0,3.0,0.08,Christiansted,Virgin Islands,820.0,3200.0,879000.0,0
+for_sale,,,0.6,Frederiksted,Virgin Islands,840.0,,100000.0,0
+for_sale,5.0,3.0,0.28,Kingshill,Virgin Islands,850.0,,350000.0,0
+for_sale,3.0,3.0,,Kingshill,Virgin Islands,850.0,1776.0,599000.0,0
+for_sale,,,0.55,Christiansted,Virgin Islands,820.0,,89500.0,0
+for_sale,4.0,4.0,0.6,Christiansted,Virgin Islands,820.0,,1190000.0,0
+for_sale,5.0,3.0,2.93,Frederiksted,Virgin Islands,840.0,3500.0,1900000.0,0
+for_sale,,,1.42,Christiansted,Virgin Islands,820.0,,120000.0,0
+for_sale,,,1.49,Christiansted,Virgin Islands,820.0,,225000.0,0
+for_sale,,,7.59,Frederiksted,Virgin Islands,840.0,,495000.0,0
+for_sale,,,1.65,Frederiksted,Virgin Islands,840.0,,375000.0,0
+for_sale,,,0.58,Christiansted,Virgin Islands,820.0,,230000.0,0
+for_sale,,,0.91,Christiansted,Virgin Islands,820.0,,250000.0,0
+for_sale,1.0,1.0,,,Virgin Islands,,1100.0,197500.0,0
+for_sale,8.0,11.0,2.5,Frederiksted,Virgin Islands,840.0,13000.0,3200000.0,0
+for_sale,,,2.68,Frederiksted,Virgin Islands,840.0,,80000.0,0
+for_sale,,,0.91,Frederiksted,Virgin Islands,840.0,,70000.0,0
+for_sale,,,2.06,Frederiksted,Virgin Islands,840.0,,62000.0,0
+for_sale,,,2.0,Frederiksted,Virgin Islands,840.0,,75000.0,0
+for_sale,,,1.59,Frederiksted,Virgin Islands,840.0,,85000.0,0
+for_sale,,,0.26,Frederiksted,Virgin Islands,840.0,,40000.0,0
+for_sale,,,13.24,Frederiksted,Virgin Islands,840.0,,148000.0,0
+for_sale,,,0.46,Frederiksted,Virgin Islands,840.0,,39500.0,0
+for_sale,,,4.33,Frederiksted,Virgin Islands,840.0,,160000.0,0
+for_sale,,,0.3,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,5.0,6.0,8.7,Frederiksted,Virgin Islands,840.0,10100.0,3200000.0,0
+for_sale,,,0.75,Frederiksted,Virgin Islands,840.0,,69999.0,0
+for_sale,,,3.92,Frederiksted,Virgin Islands,840.0,,198000.0,0
+for_sale,,,0.5,Frederiksted,Virgin Islands,840.0,,42000.0,0
+for_sale,,,0.57,Frederiksted,Virgin Islands,840.0,,33000.0,0
+for_sale,,,0.57,Frederiksted,Virgin Islands,840.0,,33000.0,0
+for_sale,,,0.51,Frederiksted,Virgin Islands,840.0,,33000.0,0
+for_sale,,,0.79,Frederiksted,Virgin Islands,840.0,,99000.0,0
+for_sale,5.0,6.0,0.65,Frederiksted,Virgin Islands,840.0,6000.0,1900000.0,0
+for_sale,,,16.7,Frederiksted,Virgin Islands,840.0,,599000.0,0
+for_sale,,,1.98,Frederiksted,Virgin Islands,840.0,,260000.0,0
+for_sale,,,33.3,Frederiksted,Virgin Islands,840.0,,498000.0,0
+for_sale,,,0.62,Frederiksted,Virgin Islands,840.0,,35000.0,0
+for_sale,,,19.07,Frederiksted,Virgin Islands,840.0,,550000.0,0
+for_sale,,,2.06,Frederiksted,Virgin Islands,840.0,,317000.0,0
+for_sale,,,19.95,Frederiksted,Virgin Islands,840.0,,278000.0,0
+for_sale,,,55.1,Frederiksted,Virgin Islands,840.0,,8600000.0,0
+for_sale,,,17.7,Frederiksted,Virgin Islands,840.0,,531000.0,0
+for_sale,,,11.53,Frederiksted,Virgin Islands,840.0,,2650000.0,0
+for_sale,,,2377.0,Frederiksted,Virgin Islands,840.0,,17500000.0,0
+for_sale,,,28.61,Frederiksted,Virgin Islands,840.0,,368000.0,0
+for_sale,,,0.24,Frederiksted,Virgin Islands,840.0,,35000.0,0
+for_sale,,,13.56,Frederiksted,Virgin Islands,840.0,,407000.0,0
+for_sale,,,17.18,Frederiksted,Virgin Islands,840.0,,398000.0,0
+for_sale,,,0.44,Frederiksted,Virgin Islands,840.0,,199000.0,0
+for_sale,,,44.81,Frederiksted,Virgin Islands,840.0,,750000.0,0
+for_sale,,,37.4,Frederiksted,Virgin Islands,840.0,,5700000.0,0
+for_sale,,,39.02,Frederiksted,Virgin Islands,840.0,,1200000.0,0
+for_sale,,,68.74,Frederiksted,Virgin Islands,840.0,,1950000.0,0
+for_sale,,,17.7,Frederiksted,Virgin Islands,840.0,,2900000.0,0
+for_sale,,,0.82,Frederiksted,Virgin Islands,840.0,,275000.0,0
+for_sale,,,0.61,Saint John,Virgin Islands,830.0,,85000.0,0
+for_sale,,,0.43,Saint John,Virgin Islands,830.0,,80000.0,0
+for_sale,,,0.23,Saint John,Virgin Islands,830.0,,128000.0,0
+for_sale,,,1.33,Saint John,Virgin Islands,830.0,,125000.0,0
+for_sale,,,0.41,Saint John,Virgin Islands,830.0,,150000.0,0
+for_sale,,,0.3,Saint John,Virgin Islands,830.0,,140000.0,0
+for_sale,,,0.73,Saint Thomas,Virgin Islands,802.0,,189000.0,0
+for_sale,,,0.29,Saint John,Virgin Islands,830.0,,159000.0,0
+for_sale,,,1.07,Saint John,Virgin Islands,830.0,,590000.0,0
+for_sale,,,0.95,Saint John,Virgin Islands,830.0,,245000.0,0
+for_sale,,,0.94,Saint John,Virgin Islands,830.0,,238000.0,0
+for_sale,,,0.58,Saint John,Virgin Islands,830.0,,169000.0,0
+for_sale,,,0.23,Saint John,Virgin Islands,830.0,,199000.0,0
+for_sale,,,1.37,Saint John,Virgin Islands,830.0,,250000.0,0
+for_sale,,,0.5,Saint John,Virgin Islands,830.0,,595000.0,0
+for_sale,,,0.6,Saint John,Virgin Islands,830.0,,540000.0,0
+for_sale,,,3.18,Saint John,Virgin Islands,830.0,,275000.0,0
+for_sale,,,0.77,Saint John,Virgin Islands,830.0,,550000.0,0
+for_sale,,,0.23,Saint John,Virgin Islands,830.0,,360000.0,0
+for_sale,,,0.14,Saint John,Virgin Islands,830.0,,299000.0,0
+for_sale,,,0.65,Saint John,Virgin Islands,830.0,,780000.0,0
+for_sale,,,1.03,Saint John,Virgin Islands,830.0,,195000.0,0
+for_sale,,,0.98,Saint John,Virgin Islands,830.0,,695000.0,0
+for_sale,,,0.52,Saint John,Virgin Islands,830.0,,295000.0,0
+for_sale,,,0.76,Saint John,Virgin Islands,830.0,,349000.0,0
+for_sale,,,0.53,Saint John,Virgin Islands,830.0,,195000.0,0
+for_sale,,,0.99,Saint John,Virgin Islands,830.0,,350000.0,0
+for_sale,,,0.26,Saint John,Virgin Islands,830.0,,225000.0,0
+for_sale,,,0.74,Saint John,Virgin Islands,830.0,,595000.0,0
+for_sale,,,1.15,Saint John,Virgin Islands,830.0,,1080000.0,0
+for_sale,,,0.43,Saint John,Virgin Islands,830.0,,175000.0,0
+for_sale,,,0.43,Saint John,Virgin Islands,830.0,,240000.0,0
+for_sale,,,0.78,Saint John,Virgin Islands,830.0,,289000.0,0
+for_sale,,,0.82,Saint John,Virgin Islands,830.0,,225000.0,0
+for_sale,,,0.61,Saint John,Virgin Islands,830.0,,1000000.0,0
+for_sale,,,0.42,Saint John,Virgin Islands,830.0,,325000.0,0
+for_sale,,,0.54,Saint John,Virgin Islands,830.0,,250000.0,0
+for_sale,,,0.68,Saint John,Virgin Islands,830.0,,250000.0,0
+for_sale,1.0,1.0,,Saint Thomas,Virgin Islands,802.0,900.0,225000.0,0
+for_sale,3.0,4.0,0.52,Saint John,Virgin Islands,830.0,3166.0,1450000.0,0
+for_sale,,,0.31,Saint John,Virgin Islands,830.0,,65000.0,0
+for_sale,,,0.25,Saint John,Virgin Islands,830.0,,75000.0,0
+for_sale,,,0.87,Saint Thomas,Virgin Islands,802.0,,79000.0,0
+for_sale,,,0.26,Saint John,Virgin Islands,830.0,,95000.0,0
+for_sale,,,0.24,Saint Thomas,Virgin Islands,802.0,,85000.0,0
+for_sale,,,0.31,Saint John,Virgin Islands,830.0,,158250.0,0
+for_sale,5.0,6.0,0.11,Saint John,Virgin Islands,830.0,6400.0,2250000.0,0
+for_sale,,,10.92,Saint John,Virgin Islands,830.0,,495000.0,0
+for_sale,,,1.91,Saint John,Virgin Islands,830.0,,550000.0,0
+for_sale,,,0.51,Saint John,Virgin Islands,830.0,,125000.0,0
+for_sale,,,1.01,Saint Thomas,Virgin Islands,802.0,,170000.0,0
+for_sale,,,0.62,Saint Thomas,Virgin Islands,802.0,,150000.0,0
+for_sale,,,1.01,Saint John,Virgin Islands,830.0,,425000.0,0
+for_sale,3.0,3.0,1.01,Saint John,Virgin Islands,830.0,5223.0,3175000.0,0
+for_sale,,,0.36,Saint John,Virgin Islands,830.0,,183750.0,0
+for_sale,,,1.26,Saint John,Virgin Islands,830.0,,399000.0,0
+for_sale,,,2.06,Saint Thomas,Virgin Islands,802.0,,195000.0,0
+for_sale,,,0.32,Saint John,Virgin Islands,830.0,,123000.0,0
+for_sale,,,0.25,Saint John,Virgin Islands,830.0,,185000.0,0
+for_sale,,,0.46,Saint John,Virgin Islands,830.0,,123000.0,0
+for_sale,,,0.5,Saint Thomas,Virgin Islands,802.0,,185000.0,0
+for_sale,,,0.67,Saint John,Virgin Islands,830.0,,307800.0,0
+for_sale,,,0.65,Saint John,Virgin Islands,830.0,,179000.0,0
+for_sale,,,0.35,Saint John,Virgin Islands,830.0,,275000.0,0
+for_sale,,,0.26,Saint John,Virgin Islands,830.0,,275000.0,0
+for_sale,,,0.66,Saint John,Virgin Islands,830.0,,420000.0,0
+for_sale,,,1.0,Saint John,Virgin Islands,830.0,,445000.0,0
+for_sale,,,0.5,Saint John,Virgin Islands,830.0,,295000.0,0
+for_sale,,,0.5,Saint John,Virgin Islands,830.0,,295000.0,0
+for_sale,,,0.5,Saint John,Virgin Islands,830.0,,295000.0,0
+for_sale,,,0.81,Saint John,Virgin Islands,830.0,,200000.0,0
+for_sale,,,0.52,Saint Thomas,Virgin Islands,802.0,,233000.0,0
+for_sale,,,1.0,Saint John,Virgin Islands,830.0,,425000.0,0
+for_sale,,,0.32,Saint John,Virgin Islands,830.0,,275000.0,0
+for_sale,,,0.66,Saint John,Virgin Islands,830.0,,415000.0,0
+for_sale,,,0.34,Saint John,Virgin Islands,830.0,,330000.0,0
+for_sale,,,0.44,Saint John,Virgin Islands,830.0,,585000.0,0
+for_sale,,,0.36,Saint John,Virgin Islands,830.0,,199000.0,0
+for_sale,,,1.0,Saint John,Virgin Islands,830.0,,249000.0,0
+for_sale,,,130.0,Saint Thomas,Virgin Islands,802.0,,23000000.0,0
+for_sale,4.0,2.0,0.5,Saint John,Virgin Islands,830.0,6300.0,999000.0,0
+for_sale,5.0,5.0,0.25,Saint Thomas,Virgin Islands,802.0,10695.0,1000000.0,0
+for_sale,7.0,5.0,0.25,Saint John,Virgin Islands,830.0,3186.0,999000.0,0
+for_sale,2.0,2.0,,Saint Thomas,Virgin Islands,802.0,1661.0,275000.0,0
+for_sale,9.0,12.0,0.47,Saint John,Virgin Islands,830.0,30378.0,16999000.0,0
+for_sale,4.0,6.0,1.0,Saint Thomas,Virgin Islands,802.0,6600.0,1750000.0,0
+for_sale,3.0,4.0,0.28,Saint John,Virgin Islands,830.0,1842.0,1295000.0,0
+for_sale,,,0.33,Saint Thomas,Virgin Islands,802.0,,70000.0,0
+for_sale,5.0,5.0,0.89,Saint John,Virgin Islands,830.0,4468.0,1499000.0,0
+for_sale,3.0,5.0,1.21,Saint Thomas,Virgin Islands,802.0,4832.0,2000000.0,0
+for_sale,,,0.51,Saint John,Virgin Islands,830.0,,95000.0,0
+for_sale,4.0,5.0,0.53,Saint John,Virgin Islands,830.0,5869.0,2999000.0,0
+for_sale,,,0.57,Saint John,Virgin Islands,830.0,,125000.0,0
+for_sale,6.0,7.0,0.72,Saint John,Virgin Islands,830.0,6371.0,4250000.0,0
+for_sale,,,0.45,Saint Thomas,Virgin Islands,802.0,,145000.0,0
+for_sale,,,0.51,Saint John,Virgin Islands,830.0,,150000.0,0
+for_sale,,,0.24,Saint John,Virgin Islands,830.0,,175000.0,0
+for_sale,,,0.66,Saint John,Virgin Islands,830.0,,150000.0,0
+for_sale,,,0.24,Saint John,Virgin Islands,830.0,,175000.0,0
+for_sale,,,0.6,Saint Thomas,Virgin Islands,802.0,,125000.0,0
+for_sale,,,0.3,Saint John,Virgin Islands,830.0,,150000.0,0
+for_sale,,,0.23,Saint John,Virgin Islands,830.0,,189000.0,0
+for_sale,,,1.23,Saint John,Virgin Islands,830.0,,399000.0,0
+for_sale,,,0.5,Saint John,Virgin Islands,830.0,,175000.0,0
+for_sale,,,0.96,Saint John,Virgin Islands,830.0,,399000.0,0
+for_sale,,,0.35,Saint John,Virgin Islands,830.0,,275000.0,0
+for_sale,,,0.59,Saint John,Virgin Islands,830.0,,400000.0,0
+for_sale,,,0.98,Saint John,Virgin Islands,830.0,,275000.0,0
+for_sale,,,1.17,Saint John,Virgin Islands,830.0,,275000.0,0
+for_sale,,,0.53,Saint John,Virgin Islands,830.0,,185000.0,0
+for_sale,,,0.25,Saint John,Virgin Islands,830.0,,225000.0,0
+for_sale,,,0.23,Saint John,Virgin Islands,830.0,,199000.0,0
+for_sale,,,0.59,Saint John,Virgin Islands,830.0,,400000.0,0
+for_sale,,,0.35,Saint John,Virgin Islands,830.0,,275000.0,0
+for_sale,,,0.28,Saint John,Virgin Islands,830.0,,225000.0,0
+for_sale,,,0.77,Saint John,Virgin Islands,830.0,,675000.0,0
+for_sale,,,0.65,Saint John,Virgin Islands,830.0,,250000.0,0
+for_sale,,,0.45,Saint John,Virgin Islands,830.0,,425000.0,0
+for_sale,,,0.67,Saint John,Virgin Islands,830.0,,675000.0,0
+for_sale,,,0.46,Saint John,Virgin Islands,830.0,,850000.0,0
+for_sale,,,0.9,Saint John,Virgin Islands,830.0,,895000.0,0
+for_sale,,,0.5,Saint John,Virgin Islands,830.0,,515000.0,0
+for_sale,,,0.25,Saint John,Virgin Islands,830.0,,75000.0,0
+for_sale,,,0.31,Saint John,Virgin Islands,830.0,,65000.0,0
+for_sale,,,0.61,Saint John,Virgin Islands,830.0,,85000.0,0
+for_sale,,,0.23,Saint John,Virgin Islands,830.0,,128000.0,0
+for_sale,3.0,4.0,0.52,Saint John,Virgin Islands,830.0,3166.0,1450000.0,0
+for_sale,,,0.26,Saint John,Virgin Islands,830.0,,95000.0,0
+for_sale,,,0.31,Saint John,Virgin Islands,830.0,,158250.0,0
+for_sale,5.0,6.0,0.11,Saint John,Virgin Islands,830.0,6400.0,2250000.0,0
+for_sale,,,10.92,Saint John,Virgin Islands,830.0,,495000.0,0
+for_sale,,,0.41,Saint John,Virgin Islands,830.0,,150000.0,0
+for_sale,,,1.07,Saint John,Virgin Islands,830.0,,590000.0,0
+for_sale,,,1.01,Saint John,Virgin Islands,830.0,,425000.0,0
+for_sale,,,0.23,Saint John,Virgin Islands,830.0,,199000.0,0
+for_sale,,,1.91,Saint John,Virgin Islands,830.0,,550000.0,0
+for_sale,,,0.51,Saint John,Virgin Islands,830.0,,125000.0,0
+for_sale,,,0.36,Saint John,Virgin Islands,830.0,,183750.0,0
+for_sale,,,1.26,Saint John,Virgin Islands,830.0,,399000.0,0
+for_sale,,,0.32,Saint John,Virgin Islands,830.0,,123000.0,0
+for_sale,,,0.46,Saint John,Virgin Islands,830.0,,123000.0,0
+for_sale,,,1.37,Saint John,Virgin Islands,830.0,,250000.0,0
+for_sale,,,0.25,Saint John,Virgin Islands,830.0,,185000.0,0
+for_sale,,,1.0,Saint John,Virgin Islands,830.0,,445000.0,0
+for_sale,,,0.95,Saint John,Virgin Islands,830.0,,245000.0,0
+for_sale,,,0.67,Saint John,Virgin Islands,830.0,,307800.0,0
+for_sale,,,0.94,Saint John,Virgin Islands,830.0,,238000.0,0
+for_sale,,,1.0,Saint John,Virgin Islands,830.0,,425000.0,0
+for_sale,,,0.5,Saint John,Virgin Islands,830.0,,295000.0,0
+for_sale,,,0.5,Saint John,Virgin Islands,830.0,,295000.0,0
+for_sale,,,0.66,Saint John,Virgin Islands,830.0,,420000.0,0
+for_sale,,,0.35,Saint John,Virgin Islands,830.0,,275000.0,0
+for_sale,,,0.65,Saint John,Virgin Islands,830.0,,179000.0,0
+for_sale,,,0.81,Saint John,Virgin Islands,830.0,,200000.0,0
+for_sale,,,0.52,Saint John,Virgin Islands,830.0,,295000.0,0
+for_sale,,,1.0,Saint John,Virgin Islands,830.0,,249000.0,0
+for_sale,,,0.26,Saint John,Virgin Islands,830.0,,275000.0,0
+for_sale,,,0.43,Saint John,Virgin Islands,830.0,,240000.0,0
+for_sale,,,0.44,Saint John,Virgin Islands,830.0,,585000.0,0
+for_sale,,,0.66,Saint John,Virgin Islands,830.0,,415000.0,0
+for_sale,,,0.36,Saint John,Virgin Islands,830.0,,199000.0,0
+for_sale,,,0.34,Saint John,Virgin Islands,830.0,,330000.0,0
+for_sale,,,0.32,Saint John,Virgin Islands,830.0,,275000.0,0
+for_sale,3.0,3.0,1.01,Saint John,Virgin Islands,830.0,5223.0,3175000.0,0
+for_sale,4.0,2.0,0.5,Saint John,Virgin Islands,830.0,6300.0,999000.0,0
+for_sale,9.0,12.0,0.47,Saint John,Virgin Islands,830.0,30378.0,16999000.0,0
+for_sale,7.0,5.0,0.25,Saint John,Virgin Islands,830.0,3186.0,999000.0,0
+for_sale,5.0,5.0,0.89,Saint John,Virgin Islands,830.0,4468.0,1499000.0,0
+for_sale,,,0.4,Saint John,Virgin Islands,830.0,,85000.0,0
+for_sale,,,0.51,Saint John,Virgin Islands,830.0,,95000.0,0
+for_sale,,,0.24,Saint John,Virgin Islands,830.0,,175000.0,0
+for_sale,,,0.24,Saint John,Virgin Islands,830.0,,175000.0,0
+for_sale,3.0,4.0,0.28,Saint John,Virgin Islands,830.0,1842.0,1295000.0,0
+for_sale,4.0,4.0,0.58,Saint John,Virgin Islands,830.0,4409.0,1890000.0,0
+for_sale,6.0,7.0,0.72,Saint John,Virgin Islands,830.0,6371.0,4250000.0,0
+for_sale,,,0.57,Saint John,Virgin Islands,830.0,,125000.0,0
+for_sale,,,0.66,Saint John,Virgin Islands,830.0,,150000.0,0
+for_sale,,,0.51,Saint John,Virgin Islands,830.0,,150000.0,0
+for_sale,,,0.3,Saint John,Virgin Islands,830.0,,150000.0,0
+for_sale,4.0,5.0,0.53,Saint John,Virgin Islands,830.0,5869.0,2999000.0,0
+for_sale,,,0.35,Saint John,Virgin Islands,830.0,,275000.0,0
+for_sale,3.0,3.0,1.03,Saint John,Virgin Islands,830.0,4400.0,2250000.0,0
+for_sale,5.0,6.0,0.6,Saint John,Virgin Islands,830.0,6918.0,8999500.0,0
+for_sale,,,0.5,Saint John,Virgin Islands,830.0,,175000.0,0
+for_sale,,,0.23,Saint John,Virgin Islands,830.0,,189000.0,0
+for_sale,,,0.28,Saint John,Virgin Islands,830.0,,225000.0,0
+for_sale,,,0.23,Saint John,Virgin Islands,830.0,,199000.0,0
+for_sale,,,0.25,Saint John,Virgin Islands,830.0,,225000.0,0
+for_sale,,,0.65,Saint John,Virgin Islands,830.0,,250000.0,0
+for_sale,,,0.98,Saint John,Virgin Islands,830.0,,275000.0,0
+for_sale,,,0.35,Saint John,Virgin Islands,830.0,,275000.0,0
+for_sale,,,0.53,Saint John,Virgin Islands,830.0,,185000.0,0
+for_sale,,,0.24,Saint John,Virgin Islands,830.0,,425000.0,0
+for_sale,,,0.53,Saint John,Virgin Islands,830.0,,250000.0,0
+for_sale,,,0.5,Saint John,Virgin Islands,830.0,,295000.0,0
+for_sale,,,1.23,Saint John,Virgin Islands,830.0,,399000.0,0
+for_sale,,,1.17,Saint John,Virgin Islands,830.0,,275000.0,0
+for_sale,,,0.59,Saint John,Virgin Islands,830.0,,400000.0,0
+for_sale,,,0.96,Saint John,Virgin Islands,830.0,,399000.0,0
+for_sale,,,0.59,Saint John,Virgin Islands,830.0,,400000.0,0
+for_sale,,,0.9,Saint John,Virgin Islands,830.0,,895000.0,0
+for_sale,,,0.45,Saint John,Virgin Islands,830.0,,425000.0,0
+for_sale,,,0.77,Saint John,Virgin Islands,830.0,,675000.0,0
+for_sale,,,0.5,Saint John,Virgin Islands,830.0,,515000.0,0
+for_sale,,,0.67,Saint John,Virgin Islands,830.0,,675000.0,0
+for_sale,,,0.46,Saint John,Virgin Islands,830.0,,850000.0,0
+for_sale,5.0,5.0,0.74,Frederiksted,Virgin Islands,840.0,,2000000.0,0
+for_sale,,,0.99,Frederiksted,Virgin Islands,840.0,,50000.0,0
+for_sale,,,0.85,Frederiksted,Virgin Islands,840.0,,50000.0,0
+for_sale,,,0.5,Frederiksted,Virgin Islands,840.0,,50000.0,0
+for_sale,,,0.63,Frederiksted,Virgin Islands,840.0,,50000.0,0
+for_sale,,,0.95,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,,,1.33,Frederiksted,Virgin Islands,840.0,,65000.0,0
+for_sale,,,0.63,Frederiksted,Virgin Islands,840.0,,45000.0,0
+for_sale,,,0.82,Christiansted,Virgin Islands,820.0,,59000.0,0
+for_sale,,,0.56,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,,,0.5,Frederiksted,Virgin Islands,840.0,,58000.0,0
+for_sale,,,1.03,Frederiksted,Virgin Islands,840.0,,67000.0,0
+for_sale,,,0.69,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,,,0.69,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,,,0.7,Christiansted,Virgin Islands,820.0,,45000.0,0
+for_sale,,,0.67,Frederiksted,Virgin Islands,840.0,,65000.0,0
+for_sale,,,0.44,Christiansted,Virgin Islands,820.0,,39900.0,0
+for_sale,,,0.24,Christiansted,Virgin Islands,820.0,,42500.0,0
+for_sale,,,0.29,Christiansted,Virgin Islands,820.0,,39900.0,0
+for_sale,,,1.19,Christiansted,Virgin Islands,820.0,,89000.0,0
+for_sale,,,0.79,Christiansted,Virgin Islands,820.0,,232000.0,0
+for_sale,,,4.52,Christiansted,Virgin Islands,820.0,,590000.0,0
+for_sale,,,1.05,Christiansted,Virgin Islands,820.0,,200000.0,0
+for_sale,,,0.92,Christiansted,Virgin Islands,820.0,,189000.0,0
+for_sale,,,0.76,Christiansted,Virgin Islands,820.0,,79500.0,1
+for_sale,,,0.75,Christiansted,Virgin Islands,820.0,,209000.0,0
+for_sale,,,0.96,Christiansted,Virgin Islands,820.0,,119000.0,0
+for_sale,,,2.14,Christiansted,Virgin Islands,820.0,,129500.0,0
+for_sale,,,118.79,Christiansted,Virgin Islands,820.0,,945000.0,0
+for_sale,,,0.85,Kingshill,Virgin Islands,850.0,,332919.0,0
+for_sale,,,0.5,Christiansted,Virgin Islands,820.0,,176500.0,1
+for_sale,,,0.89,Kingshill,Virgin Islands,850.0,,310848.0,0
+for_sale,,,0.99,Kingshill,Virgin Islands,850.0,,476377.0,0
+for_sale,,,0.76,Kingshill,Virgin Islands,850.0,,330790.0,0
+for_sale,,,81.0,Christiansted,Virgin Islands,820.0,,11900000.0,0
+for_sale,5.0,5.0,4.95,Christiansted,Virgin Islands,820.0,6545.0,2950000.0,0
+for_sale,,,1.83,,Virgin Islands,,,649000.0,0
+for_sale,,,11.75,Kingshill,Virgin Islands,850.0,,4204608.0,0
+for_sale,,,18.85,Christiansted,Virgin Islands,820.0,,1950000.0,0
+for_sale,,,1.25,Christiansted,Virgin Islands,820.0,,239000.0,0
+for_sale,,,14.0,Christiansted,Virgin Islands,820.0,,1500000.0,0
+for_sale,,,3.46,Christiansted,Virgin Islands,820.0,,1695000.0,0
+for_sale,1.0,1.0,,Christiansted,Virgin Islands,820.0,1200.0,149000.0,0
+for_sale,3.0,2.0,0.24,Christiansted,Virgin Islands,820.0,,169000.0,0
+for_sale,,,0.91,Frederiksted,Virgin Islands,840.0,,70000.0,0
+for_sale,,,1.88,Kingshill,Virgin Islands,850.0,,67000.0,0
+for_sale,,,0.26,Frederiksted,Virgin Islands,840.0,,40000.0,0
+for_sale,,,1.77,Christiansted,Virgin Islands,820.0,,69000.0,0
+for_sale,,,0.86,Christiansted,Virgin Islands,820.0,,53500.0,0
+for_sale,,,4.33,Frederiksted,Virgin Islands,840.0,,160000.0,0
+for_sale,,,0.8,Christiansted,Virgin Islands,820.0,,54900.0,0
+for_sale,,,0.37,Christiansted,Virgin Islands,820.0,,48500.0,0
+for_sale,,,1.98,Frederiksted,Virgin Islands,840.0,,260000.0,0
+for_sale,,,0.69,Christiansted,Virgin Islands,820.0,,50000.0,0
+for_sale,,,0.43,Christiansted,Virgin Islands,820.0,,60000.0,0
+for_sale,6.0,7.0,3.3,Christiansted,Virgin Islands,820.0,,2900000.0,0
+for_sale,,,1.02,Christiansted,Virgin Islands,820.0,,100000.0,0
+for_sale,,,1.41,Christiansted,Virgin Islands,820.0,,70000.0,0
+for_sale,,,0.83,Christiansted,Virgin Islands,820.0,,62000.0,0
+for_sale,2.0,2.0,37.4,Christiansted,Virgin Islands,820.0,,1900000.0,0
+for_sale,,,33.3,Frederiksted,Virgin Islands,840.0,,498000.0,0
+for_sale,,,6.32,Christiansted,Virgin Islands,820.0,,289000.0,0
+for_sale,,,3.15,Christiansted,Virgin Islands,820.0,,189000.0,0
+for_sale,,,0.79,Frederiksted,Virgin Islands,840.0,,99000.0,0
+for_sale,,,3.31,Christiansted,Virgin Islands,820.0,,195000.0,0
+for_sale,,,43.1,Christiansted,Virgin Islands,820.0,,588000.0,0
+for_sale,,,3.93,Kingshill,Virgin Islands,850.0,,359000.0,0
+for_sale,,,1.43,Christiansted,Virgin Islands,820.0,,94500.0,0
+for_sale,,,0.97,Christiansted,Virgin Islands,820.0,,94900.0,0
+for_sale,,,2.67,Christiansted,Virgin Islands,820.0,,275000.0,0
+for_sale,,,0.51,Christiansted,Virgin Islands,820.0,,89500.0,0
+for_sale,,,2.0,Christiansted,Virgin Islands,820.0,,170000.0,0
+for_sale,7.0,6.0,1.41,Christiansted,Virgin Islands,820.0,8000.0,3900000.0,0
+for_sale,,,0.44,Christiansted,Virgin Islands,820.0,,95000.0,0
+for_sale,,,0.71,Christiansted,Virgin Islands,820.0,,110000.0,0
+for_sale,,,34.15,Christiansted,Virgin Islands,820.0,,751300.0,0
+for_sale,,,0.64,Christiansted,Virgin Islands,820.0,,249000.0,0
+for_sale,,,0.85,Christiansted,Virgin Islands,820.0,,129000.0,0
+for_sale,4.0,4.0,,Christiansted,Virgin Islands,820.0,3240.0,1690000.0,0
+for_sale,,,0.87,Christiansted,Virgin Islands,820.0,,200000.0,0
+for_sale,,,0.5,Christiansted,Virgin Islands,820.0,,135000.0,0
+for_sale,,,744.0,Christiansted,Virgin Islands,820.0,,22500000.0,0
+for_sale,,,0.39,,Virgin Islands,,,55000.0,0
+for_sale,,,0.44,,Virgin Islands,,,165000.0,0
+for_sale,3.0,2.0,0.24,Christiansted,Virgin Islands,820.0,,225000.0,0
+for_sale,5.0,6.0,2.29,Christiansted,Virgin Islands,820.0,,1695000.0,0
+for_sale,,,0.46,Frederiksted,Virgin Islands,840.0,,39500.0,0
+for_sale,,,1.59,Frederiksted,Virgin Islands,840.0,,85000.0,0
+for_sale,3.0,3.0,,Christiansted,Virgin Islands,820.0,2290.0,399000.0,0
+for_sale,,,0.94,Christiansted,Virgin Islands,820.0,,58500.0,0
+for_sale,,,0.5,Frederiksted,Virgin Islands,840.0,,42000.0,0
+for_sale,,,1.17,Christiansted,Virgin Islands,820.0,,64000.0,0
+for_sale,,,0.49,Christiansted,Virgin Islands,820.0,,39900.0,0
+for_sale,,,0.7,Christiansted,Virgin Islands,820.0,,62000.0,0
+for_sale,,,0.99,Christiansted,Virgin Islands,820.0,,67500.0,0
+for_sale,,,0.61,Christiansted,Virgin Islands,820.0,,52000.0,0
+for_sale,,,0.94,Christiansted,Virgin Islands,820.0,,72000.0,0
+for_sale,,,1.15,Christiansted,Virgin Islands,820.0,,76500.0,0
+for_sale,,,1.11,Christiansted,Virgin Islands,820.0,,76500.0,0
+for_sale,,,3.01,Christiansted,Virgin Islands,820.0,,125000.0,0
+for_sale,,,0.6,Christiansted,Virgin Islands,820.0,,85000.0,0
+for_sale,,,16.7,Frederiksted,Virgin Islands,840.0,,599000.0,0
+for_sale,,,0.5,Christiansted,Virgin Islands,820.0,,79000.0,0
+for_sale,,,0.42,Kingshill,Virgin Islands,850.0,,85000.0,0
+for_sale,,,2.63,Christiansted,Virgin Islands,820.0,,159000.0,0
+for_sale,,,2.06,Frederiksted,Virgin Islands,840.0,,317000.0,0
+for_sale,,,0.9,Christiansted,Virgin Islands,820.0,,120000.0,0
+for_sale,,,0.71,Christiansted,Virgin Islands,820.0,,115000.0,0
+for_sale,,,1.94,Christiansted,Virgin Islands,820.0,,199000.0,0
+for_sale,,,1.94,Christiansted,Virgin Islands,820.0,,272000.0,0
+for_sale,,,0.44,Frederiksted,Virgin Islands,840.0,,199000.0,0
+for_sale,,,8.6,Christiansted,Virgin Islands,820.0,,599000.0,0
+for_sale,,,2.16,Christiansted,Virgin Islands,820.0,,500000.0,0
+for_sale,,,2.05,Christiansted,Virgin Islands,820.0,,260000.0,0
+for_sale,,,15.26,Christiansted,Virgin Islands,820.0,,721000.0,0
+for_sale,,,1.04,Christiansted,Virgin Islands,820.0,,165000.0,0
+for_sale,,,0.75,Christiansted,Virgin Islands,820.0,,165000.0,0
+for_sale,,,0.62,Christiansted,Virgin Islands,820.0,,210000.0,0
+for_sale,,,20.0,Christiansted,Virgin Islands,820.0,,2269300.0,0
+for_sale,,,22.68,Christiansted,Virgin Islands,820.0,,2290000.0,0
+for_sale,,,3.91,,Virgin Islands,,,935000.0,0
+for_sale,,,8.0,Christiansted,Virgin Islands,820.0,,2000000.0,0
+for_sale,,,0.6,,Virgin Islands,,,64000.0,0
+for_sale,,,2377.0,Frederiksted,Virgin Islands,840.0,,17500000.0,0
+for_sale,,,0.94,,Virgin Islands,,,125000.0,0
+for_sale,,,1.14,,Virgin Islands,,,199000.0,0
+for_sale,4.0,6.0,0.73,Christiansted,Virgin Islands,820.0,12872.0,2999500.0,0
+for_sale,,,0.3,Frederiksted,Virgin Islands,840.0,,55000.0,0
+for_sale,5.0,5.0,0.68,Christiansted,Virgin Islands,820.0,,1295000.0,0
+for_sale,,,0.24,Frederiksted,Virgin Islands,840.0,,35000.0,0
+for_sale,,,0.31,Christiansted,Virgin Islands,820.0,,39000.0,0
+for_sale,5.0,6.0,0.65,Frederiksted,Virgin Islands,840.0,6000.0,1900000.0,0
+for_sale,,,1.06,Christiansted,Virgin Islands,820.0,,55000.0,0
+for_sale,,,0.53,Christiansted,Virgin Islands,820.0,,37000.0,0
+for_sale,,,0.54,Christiansted,Virgin Islands,820.0,,37000.0,0
+for_sale,,,0.37,Kingshill,Virgin Islands,850.0,,45000.0,0
+for_sale,,,0.66,Christiansted,Virgin Islands,820.0,,55000.0,0
+for_sale,,,0.75,Frederiksted,Virgin Islands,840.0,,69999.0,0
+for_sale,,,0.79,Christiansted,Virgin Islands,820.0,,59000.0,0
+for_sale,,,0.69,Christiansted,Virgin Islands,820.0,,65000.0,0
+for_sale,,,1.32,Christiansted,Virgin Islands,820.0,,69300.0,0
+for_sale,,,0.84,Christiansted,Virgin Islands,820.0,,69000.0,0
+for_sale,,,1.99,Christiansted,Virgin Islands,820.0,,150000.0,0
+for_sale,,,1.06,Christiansted,Virgin Islands,820.0,,85000.0,0
+for_sale,,,0.29,Christiansted,Virgin Islands,820.0,,50000.0,0
+for_sale,,,0.52,Christiansted,Virgin Islands,820.0,,59000.0,0
+for_sale,,,0.71,Christiansted,Virgin Islands,820.0,,60300.0,0
+for_sale,,,0.7,Christiansted,Virgin Islands,820.0,,60300.0,0
+for_sale,,,2.44,Christiansted,Virgin Islands,820.0,,140000.0,0
+for_sale,,,0.9,Christiansted,Virgin Islands,820.0,,77000.0,0
+for_sale,,,0.55,Christiansted,Virgin Islands,820.0,,62000.0,0
+for_sale,,,1.72,Christiansted,Virgin Islands,820.0,,165000.0,0
+for_sale,,,1.45,Christiansted,Virgin Islands,820.0,,119000.0,0
+for_sale,,,1.26,Christiansted,Virgin Islands,820.0,,189000.0,0
+for_sale,,,44.52,Christiansted,Virgin Islands,820.0,,700000.0,0
+for_sale,,,39.64,Christiansted,Virgin Islands,820.0,,1100000.0,0
+for_sale,,,1.51,Christiansted,Virgin Islands,820.0,,125000.0,0
+for_sale,,,1.01,Christiansted,Virgin Islands,820.0,,169000.0,0
+for_sale,,,0.33,Christiansted,Virgin Islands,820.0,,199000.0,0
+for_sale,,,1.43,Christiansted,Virgin Islands,820.0,,149000.0,0
+for_sale,,,0.86,Christiansted,Virgin Islands,820.0,,270000.0,0
+for_sale,,,1.18,Christiansted,Virgin Islands,820.0,,249000.0,0
+for_sale,,,0.52,Christiansted,Virgin Islands,820.0,,99000.0,0
+for_sale,,,0.82,Frederiksted,Virgin Islands,840.0,,275000.0,0
+for_sale,,,0.72,Christiansted,Virgin Islands,820.0,,125000.0,0
+for_sale,,,0.75,Christiansted,Virgin Islands,820.0,,299000.0,0
+for_sale,,,0.63,Christiansted,Virgin Islands,820.0,,349000.0,0
+for_sale,,,1.23,Christiansted,Virgin Islands,820.0,,599000.0,0
+for_sale,3.0,1.0,0.12,Kingshill,Virgin Islands,850.0,1200.0,167000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,800.0,199000.0,0
+for_sale,4.0,2.0,0.49,Christiansted,Virgin Islands,820.0,,99000.0,0
+for_sale,4.0,2.0,0.36,Christiansted,Virgin Islands,820.0,,400000.0,0
+for_sale,6.0,6.0,0.5,Christiansted,Virgin Islands,820.0,,899999.0,0
+for_sale,3.0,2.0,0.23,Frederiksted,Virgin Islands,840.0,,339000.0,0
+for_sale,,,0.31,Frederiksted,Virgin Islands,840.0,,47000.0,0
+for_sale,6.0,5.0,1.28,Christiansted,Virgin Islands,820.0,,1950000.0,0
+for_sale,,,0.29,Frederiksted,Virgin Islands,840.0,,45000.0,0
+for_sale,,,0.55,Christiansted,Virgin Islands,820.0,,325000.0,0
+for_sale,,,0.53,Christiansted,Virgin Islands,820.0,,29900.0,0
+for_sale,,,0.53,Christiansted,Virgin Islands,820.0,,52500.0,0
+for_sale,,,0.79,Christiansted,Virgin Islands,820.0,,49000.0,0
+for_sale,3.0,3.0,0.87,Christiansted,Virgin Islands,820.0,7550.0,949000.0,0
+for_sale,,,0.63,Christiansted,Virgin Islands,820.0,,55000.0,0
+for_sale,,,0.38,Christiansted,Virgin Islands,820.0,,45000.0,0
+for_sale,,,1.49,Christiansted,Virgin Islands,820.0,,65000.0,0
+for_sale,,,0.29,Christiansted,Virgin Islands,820.0,,49500.0,0
+for_sale,,,1.27,Christiansted,Virgin Islands,820.0,,89000.0,0
+for_sale,,,0.7,Christiansted,Virgin Islands,820.0,,70000.0,0
+for_sale,,,0.82,Christiansted,Virgin Islands,820.0,,75000.0,0
+for_sale,,,13.36,Christiansted,Virgin Islands,820.0,,375000.0,0
+for_sale,,,2.33,Christiansted,Virgin Islands,820.0,,110000.0,0
+for_sale,,,0.68,Christiansted,Virgin Islands,820.0,,74800.0,0
+for_sale,,,2.0,Christiansted,Virgin Islands,820.0,,130000.0,0
+for_sale,,,0.97,Christiansted,Virgin Islands,820.0,,190000.0,0
+for_sale,,,1.51,Christiansted,Virgin Islands,820.0,,150000.0,0
+for_sale,,,1.81,Christiansted,Virgin Islands,820.0,,195000.0,0
+for_sale,,,13.94,Christiansted,Virgin Islands,820.0,,875000.0,0
+for_sale,,,0.06,Christiansted,Virgin Islands,820.0,,135000.0,0
+for_sale,,,11.73,Christiansted,Virgin Islands,820.0,,800000.0,0
+for_sale,,,1.3,Christiansted,Virgin Islands,820.0,,175000.0,0
+for_sale,,,1.26,Christiansted,Virgin Islands,820.0,,349000.0,0
+for_sale,,,0.49,Kingshill,Virgin Islands,850.0,,135000.0,0
+for_sale,,,0.83,Christiansted,Virgin Islands,820.0,,130000.0,0
+for_sale,,,6.88,Frederiksted,Virgin Islands,840.0,,1795000.0,0
+for_sale,,,9.95,Christiansted,Virgin Islands,820.0,,1700000.0,0
+for_sale,,,149.7,Christiansted,Virgin Islands,820.0,,2500000.0,0
+for_sale,,,618.36,Christiansted,Virgin Islands,820.0,,24500000.0,0
+for_sale,,,0.91,,Virgin Islands,,,45000.0,0
+for_sale,,,0.49,,Virgin Islands,,,59000.0,0
+for_sale,,,0.5,,Virgin Islands,,,79000.0,0
+for_sale,2.0,1.0,0.55,Christiansted,Virgin Islands,820.0,1247.0,325000.0,0
+for_sale,3.0,3.0,,Christiansted,Virgin Islands,820.0,1542.0,234000.0,0
+for_sale,3.0,3.0,1.01,Christiansted,Virgin Islands,820.0,2700.0,699999.0,0
+for_sale,,,1.15,Frederiksted,Virgin Islands,840.0,,25000.0,0
+for_sale,4.0,5.0,1.05,Christiansted,Virgin Islands,820.0,,795000.0,0
+for_sale,,,1.08,Frederiksted,Virgin Islands,840.0,,25000.0,0
+for_sale,,,0.78,Christiansted,Virgin Islands,820.0,,29000.0,0
+for_sale,,,2.05,Frederiksted,Virgin Islands,840.0,,78000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1200.0,189000.0,0
+for_sale,1.0,2.0,1.65,Christiansted,Virgin Islands,820.0,,1900000.0,0
+for_sale,5.0,5.0,0.79,Christiansted,Virgin Islands,820.0,4000.0,1100000.0,0
+for_sale,5.0,3.0,0.43,Frederiksted,Virgin Islands,840.0,,475000.0,0
+for_sale,5.0,4.0,1.01,Christiansted,Virgin Islands,820.0,,595000.0,0
+for_sale,,,0.23,Christiansted,Virgin Islands,820.0,,39000.0,0
+for_sale,,,1.15,Christiansted,Virgin Islands,820.0,,80000.0,0
+for_sale,,,1.07,Christiansted,Virgin Islands,820.0,,95000.0,0
+for_sale,7.0,6.0,11.0,Christiansted,Virgin Islands,820.0,,2400000.0,0
+for_sale,,,1.31,Christiansted,Virgin Islands,820.0,,65000.0,0
+for_sale,,,0.92,Christiansted,Virgin Islands,820.0,,85000.0,0
+for_sale,,,0.86,Christiansted,Virgin Islands,820.0,,53000.0,0
+for_sale,,,0.29,Christiansted,Virgin Islands,820.0,,50000.0,0
+for_sale,,,0.45,Christiansted,Virgin Islands,820.0,,64000.0,0
+for_sale,,,0.6,Frederiksted,Virgin Islands,840.0,,100000.0,0
+for_sale,5.0,7.0,2.78,Christiansted,Virgin Islands,820.0,,7900000.0,0
+for_sale,5.0,6.0,2.0,Christiansted,Virgin Islands,820.0,4500.0,3800000.0,0
+for_sale,,,0.68,Christiansted,Virgin Islands,820.0,,85000.0,0
+for_sale,,,0.6,Christiansted,Virgin Islands,820.0,,85000.0,0
+for_sale,6.0,6.0,1.05,Christiansted,Virgin Islands,820.0,7000.0,3300000.0,0
+for_sale,2.0,2.0,1.5,Christiansted,Virgin Islands,820.0,2289.0,2000000.0,0
+for_sale,3.0,3.0,,Kingshill,Virgin Islands,850.0,1776.0,599000.0,0
+for_sale,,,0.52,Christiansted,Virgin Islands,820.0,,75000.0,0
+for_sale,,,14.97,Christiansted,Virgin Islands,820.0,,595000.0,0
+for_sale,,,1.42,Christiansted,Virgin Islands,820.0,,120000.0,0
+for_sale,,,1.65,Frederiksted,Virgin Islands,840.0,,375000.0,0
+for_sale,13.0,13.0,6.54,Christiansted,Virgin Islands,820.0,,8500000.0,0
+for_sale,,,0.87,Christiansted,Virgin Islands,820.0,,200000.0,0
+for_sale,,,0.23,Christiansted,Virgin Islands,820.0,,195000.0,0
+for_sale,,,0.71,Christiansted,Virgin Islands,820.0,,350000.0,0
+for_sale,,,0.72,Christiansted,Virgin Islands,820.0,,350000.0,0
+for_sale,,,0.67,Christiansted,Virgin Islands,820.0,,350000.0,0
+for_sale,,,0.29,Christiansted,Virgin Islands,820.0,,165000.0,0
+for_sale,,,0.94,Christiansted,Virgin Islands,820.0,,225000.0,0
+for_sale,3.0,2.0,0.06,Christiansted,Virgin Islands,820.0,,235000.0,0
+for_sale,6.0,6.0,0.5,Christiansted,Virgin Islands,820.0,,325000.0,0
+for_sale,6.0,2.0,0.35,Christiansted,Virgin Islands,820.0,2436.0,450000.0,0
+for_sale,3.0,2.0,0.32,Frederiksted,Virgin Islands,840.0,,375000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1200.0,194500.0,0
+for_sale,3.0,2.0,0.58,Christiansted,Virgin Islands,820.0,,535000.0,0
+for_sale,2.0,2.0,,Christiansted,Virgin Islands,820.0,1118.0,180000.0,0
+for_sale,,,1.61,Kingshill,Virgin Islands,850.0,,69000.0,0
+for_sale,,,0.82,Christiansted,Virgin Islands,820.0,,89000.0,0
+for_sale,,,0.5,Christiansted,Virgin Islands,820.0,,45000.0,0
+for_sale,,,0.49,Christiansted,Virgin Islands,820.0,,39900.0,0
+for_sale,,,0.23,Frederiksted,Virgin Islands,840.0,,40000.0,0
+for_sale,,,0.68,Christiansted,Virgin Islands,820.0,,60000.0,0
+for_sale,,,0.93,Christiansted,Virgin Islands,820.0,,55000.0,0
+for_sale,,,0.46,Christiansted,Virgin Islands,820.0,,39000.0,0
+for_sale,,,0.58,Christiansted,Virgin Islands,820.0,,60000.0,0
+for_sale,,,0.64,Christiansted,Virgin Islands,820.0,,64000.0,0
+for_sale,,,0.44,Christiansted,Virgin Islands,820.0,,52800.0,0
+for_sale,3.0,3.0,0.69,Christiansted,Virgin Islands,820.0,,895000.0,0
+for_sale,3.0,2.0,0.51,Christiansted,Virgin Islands,820.0,,465000.0,0
+for_sale,,,0.78,Christiansted,Virgin Islands,820.0,,75000.0,0
+for_sale,,,0.71,Christiansted,Virgin Islands,820.0,,75000.0,0
+for_sale,,,0.44,Christiansted,Virgin Islands,820.0,,55000.0,0
+for_sale,3.0,4.0,4.0,Christiansted,Virgin Islands,820.0,4319.0,1300000.0,0
+for_sale,3.0,2.0,3.0,Christiansted,Virgin Islands,820.0,4381.0,1100000.0,0
+for_sale,3.0,3.0,0.64,Christiansted,Virgin Islands,820.0,,1645000.0,0
+for_sale,,,0.57,Christiansted,Virgin Islands,820.0,,79000.0,0
+for_sale,,,0.55,Christiansted,Virgin Islands,820.0,,89500.0,0
+for_sale,,,1.28,Christiansted,Virgin Islands,820.0,,799000.0,0
+for_sale,3.0,3.0,2.38,Christiansted,Virgin Islands,820.0,3550.0,1680000.0,0
+for_sale,7.0,7.0,4.0,Christiansted,Virgin Islands,820.0,,1469000.0,0
+for_sale,4.0,4.0,0.6,Christiansted,Virgin Islands,820.0,,1190000.0,0
+for_sale,5.0,3.0,2.93,Frederiksted,Virgin Islands,840.0,3500.0,1900000.0,0
+for_sale,,,0.94,Christiansted,Virgin Islands,820.0,,184000.0,0
+for_sale,,,1.49,Christiansted,Virgin Islands,820.0,,225000.0,0
+for_sale,,,7.59,Frederiksted,Virgin Islands,840.0,,495000.0,0
+for_sale,7.0,10.0,7.78,Christiansted,Virgin Islands,820.0,11200.0,8000000.0,0
+for_sale,,,0.9,Christiansted,Virgin Islands,820.0,,275000.0,0
+for_sale,,,0.73,Christiansted,Virgin Islands,820.0,,350000.0,0
+for_sale,,,0.72,Christiansted,Virgin Islands,820.0,,350000.0,0
+for_sale,,,0.7,Christiansted,Virgin Islands,820.0,,310000.0,0
+for_sale,1.0,1.0,,,Virgin Islands,,1100.0,197500.0,0
+for_sale,3.0,3.0,0.59,Christiansted,Virgin Islands,820.0,4611.0,410000.0,0
+for_sale,3.0,1.0,3600.11,Christiansted,Virgin Islands,820.0,,220000.0,0
+for_sale,4.0,3.0,0.29,Christiansted,Virgin Islands,820.0,,165000.0,0
+for_sale,5.0,3.0,0.25,Christiansted,Virgin Islands,820.0,,179000.0,0
+for_sale,3.0,3.0,,Christiansted,Virgin Islands,820.0,1542.0,239000.0,0
+for_sale,2.0,2.0,0.24,Christiansted,Virgin Islands,820.0,,324000.0,0
+for_sale,2.0,2.0,1.0,Kingshill,Virgin Islands,850.0,1530.0,525000.0,0
+for_sale,3.0,3.0,0.72,Christiansted,Virgin Islands,820.0,,500000.0,0
+for_sale,7.0,7.0,3.57,Christiansted,Virgin Islands,820.0,,1600000.0,0
+for_sale,4.0,3.0,0.08,Christiansted,Virgin Islands,820.0,3200.0,879000.0,0
+for_sale,2.0,2.0,,Kingshill,Virgin Islands,850.0,1250.0,320000.0,0
+for_sale,4.0,4.0,0.66,Christiansted,Virgin Islands,820.0,,749000.0,0
+for_sale,3.0,3.0,0.3,Christiansted,Virgin Islands,820.0,,529000.0,0
+for_sale,3.0,2.0,,Christiansted,Virgin Islands,820.0,1515.0,375000.0,0
+for_sale,4.0,3.0,0.71,Christiansted,Virgin Islands,820.0,,695000.0,0
+for_sale,5.0,3.0,0.28,Kingshill,Virgin Islands,850.0,,350000.0,0
+for_sale,5.0,6.0,1.0,Christiansted,Virgin Islands,820.0,,1150000.0,0
+for_sale,5.0,4.0,0.75,Christiansted,Virgin Islands,820.0,,749000.0,0
+for_sale,4.0,4.0,0.71,Christiansted,Virgin Islands,820.0,8600.0,1295000.0,0
+for_sale,3.0,3.0,2.15,Christiansted,Virgin Islands,820.0,4500.0,3950000.0,0
+for_sale,3.0,3.0,0.42,Christiansted,Virgin Islands,820.0,1600.0,965000.0,0
+for_sale,2.0,2.0,0.75,Christiansted,Virgin Islands,820.0,,529500.0,0
+for_sale,5.0,5.0,1.01,Kingshill,Virgin Islands,850.0,,1450000.0,0
+for_sale,,,0.7,Christiansted,Virgin Islands,820.0,,69000.0,0
+for_sale,,,2.29,Christiansted,Virgin Islands,820.0,,145000.0,0
+for_sale,,,0.5,Christiansted,Virgin Islands,820.0,,70000.0,0
+for_sale,5.0,3.0,0.95,Christiansted,Virgin Islands,820.0,,1350000.0,0
+for_sale,,,0.65,Frederiksted,Virgin Islands,840.0,,79000.0,0
+for_sale,,,0.55,Frederiksted,Virgin Islands,840.0,,39500.0,0
+for_sale,,,1.03,Christiansted,Virgin Islands,820.0,,150000.0,0
+for_sale,,,0.85,Christiansted,Virgin Islands,820.0,,55000.0,0
+for_sale,6.0,7.0,1.08,Christiansted,Virgin Islands,820.0,,1350000.0,0
+for_sale,,,0.51,Christiansted,Virgin Islands,820.0,,119900.0,0
+for_sale,,,0.42,Christiansted,Virgin Islands,820.0,,150000.0,0
+for_sale,,,0.4,Christiansted,Virgin Islands,820.0,,195000.0,0
+for_sale,,,1.09,Christiansted,Virgin Islands,820.0,,199000.0,0
+for_sale,1.0,1.0,,Christiansted,Virgin Islands,820.0,770.0,249000.0,0
+for_sale,,,15.66,Christiansted,Virgin Islands,820.0,,1850000.0,0
+for_sale,,,0.91,Christiansted,Virgin Islands,820.0,,250000.0,0
+for_sale,,,14.0,Christiansted,Virgin Islands,820.0,,1295000.0,0
+for_sale,,,0.52,Christiansted,Virgin Islands,820.0,,1200000.0,0
+for_sale,,,0.84,,Virgin Islands,,,72000.0,0
