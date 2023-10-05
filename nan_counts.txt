@@ -1,130 +1,150 @@
 NaN counts and total rows for Connecticut_properties.csv:
-ID: 0
-bed: 0
-bath: 0
-acre_lot: 0
-city: 0
-state: 0
-zip_code: 0
-house_size: 0
-price: 0
-sold_previously: 0
-Total Rows: 89776
+ID: 0.0
+bed: 0.0
+bath: 0.0
+acre_lot: 0.0
+city: 0.0
+state: 0.0
+zip_code: 0.0
+house_size: 0.0
+price: 0.0
+sold_previously: 0.0
+latitude: 0.0
+longitude: 0.0
+Total Rows: 0
 
 NaN counts and total rows for Maine_properties.csv:
-ID: 0
-bed: 0
-bath: 0
-acre_lot: 0
-city: 0
-state: 0
-zip_code: 0
-house_size: 0
-price: 0
-sold_previously: 0
-Total Rows: 36650
+ID: 0.0
+bed: 0.0
+bath: 0.0
+acre_lot: 0.0
+city: 0.0
+state: 0.0
+zip_code: 0.0
+house_size: 0.0
+price: 0.0
+sold_previously: 0.0
+latitude: 0.0
+longitude: 0.0
+Total Rows: 0
 
 NaN counts and total rows for Massachusetts_properties.csv:
-ID: 0
-bed: 0
-bath: 0
-acre_lot: 0
-city: 0
-state: 0
-zip_code: 0
-house_size: 0
-price: 0
-sold_previously: 0
-Total Rows: 175234
+ID: 0.0
+bed: 0.0
+bath: 0.0
+acre_lot: 0.0
+city: 0.0
+state: 0.0
+zip_code: 0.0
+house_size: 0.0
+price: 0.0
+sold_previously: 0.0
+latitude: 0.0
+longitude: 0.0
+Total Rows: 0
 
 NaN counts and total rows for New Hampshire_properties.csv:
-ID: 0
-bed: 0
-bath: 0
-acre_lot: 0
-city: 0
-state: 0
-zip_code: 0
-house_size: 0
-price: 0
-sold_previously: 0
-Total Rows: 51394
+ID: 0.0
+bed: 0.0
+bath: 0.0
+acre_lot: 0.0
+city: 0.0
+state: 0.0
+zip_code: 0.0
+house_size: 0.0
+price: 0.0
+sold_previously: 0.0
+latitude: 0.0
+longitude: 0.0
+Total Rows: 0
 
 NaN counts and total rows for New Jersey_properties.csv:
-ID: 0
-bed: 0
-bath: 0
-acre_lot: 0
-city: 0
-state: 0
-zip_code: 0
-house_size: 0
-price: 0
-sold_previously: 0
-Total Rows: 231875
+ID: 0.0
+bed: 0.0
+bath: 0.0
+acre_lot: 0.0
+city: 0.0
+state: 0.0
+zip_code: 0.0
+house_size: 0.0
+price: 0.0
+sold_previously: 0.0
+latitude: 0.0
+longitude: 0.0
+Total Rows: 0
 
 NaN counts and total rows for New York_properties.csv:
-ID: 0
-bed: 0
-bath: 0
-acre_lot: 0
-city: 0
-state: 0
-zip_code: 0
-house_size: 0
-price: 0
-sold_previously: 0
-Total Rows: 197207
+ID: 0.0
+bed: 0.0
+bath: 0.0
+acre_lot: 0.0
+city: 0.0
+state: 0.0
+zip_code: 0.0
+house_size: 0.0
+price: 0.0
+sold_previously: 0.0
+latitude: 0.0
+longitude: 0.0
+Total Rows: 0
 
 NaN counts and total rows for Pennsylvania_properties.csv:
-ID: 0
-bed: 0
-bath: 0
-acre_lot: 0
-city: 0
-state: 0
-zip_code: 0
-house_size: 0
-price: 0
-sold_previously: 0
-Total Rows: 17145
+ID: 0.0
+bed: 0.0
+bath: 0.0
+acre_lot: 0.0
+city: 0.0
+state: 0.0
+zip_code: 0.0
+house_size: 0.0
+price: 0.0
+sold_previously: 0.0
+latitude: 0.0
+longitude: 0.0
+Total Rows: 0
 
 NaN counts and total rows for Puerto Rico_properties.csv:
-ID: 0
-bed: 0
-bath: 0
-acre_lot: 0
-city: 0
-state: 0
-zip_code: 0
-house_size: 0
-price: 0
-sold_previously: 0
-Total Rows: 24550
+ID: 0.0
+bed: 0.0
+bath: 0.0
+acre_lot: 0.0
+city: 0.0
+state: 0.0
+zip_code: 0.0
+house_size: 0.0
+price: 0.0
+sold_previously: 0.0
+latitude: 0.0
+longitude: 0.0
+Total Rows: 0
 
 NaN counts and total rows for Rhode Island_properties.csv:
-ID: 0
-bed: 0
-bath: 0
-acre_lot: 0
-city: 0
-state: 0
-zip_code: 0
-house_size: 0
-price: 0
-sold_previously: 0
-Total Rows: 29596
+ID: 0.0
+bed: 0.0
+bath: 0.0
+acre_lot: 0.0
+city: 0.0
+state: 0.0
+zip_code: 0.0
+house_size: 0.0
+price: 0.0
+sold_previously: 0.0
+latitude: 0.0
+longitude: 0.0
+Total Rows: 0
 
 NaN counts and total rows for Vermont_properties.csv:
-ID: 0
-bed: 0
-bath: 0
-acre_lot: 0
-city: 0
-state: 0
-zip_code: 0
-house_size: 0
-price: 0
-sold_previously: 0
-Total Rows: 46460
+ID: 0.0
+bed: 0.0
+bath: 0.0
+acre_lot: 0.0
+city: 0.0
+state: 0.0
+zip_code: 0.0
+house_size: 0.0
+price: 0.0
+sold_previously: 0.0
+latitude: 0.0
+longitude: 0.0
+Total Rows: 0
 
