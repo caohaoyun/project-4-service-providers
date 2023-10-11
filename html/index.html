@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="navbar">
-        <a href="house_price_prediction.html">House Price Prediction</a>
+        <a href="index.html">House Price Prediction</a>
         <a href="visualizations.html">Visualizations</a>
         <a href="eda.html">Exploratory Data Analysis</a>
         <a href="presentation.html">Presentation</a>
@@ -20,7 +20,46 @@
         <h1>East Coast House Price Prediction</h1>
     </div>
 
-    <!-- Add your content here -->
+    <form id="house-search-form">
+        <select name="state" id="state">
+            <option value="">Select a State</option>
+        </select>
+
+        <select name="bedrooms" id="bedrooms">
+            <option value="">Select Bedrooms</option>
+        </select>
+
+        <select name="bathrooms" id "bathrooms">
+            <option value="">Select Bathrooms</option>
+            <!-- Add options for bathrooms based on unique values from the database -->
+        </select>
+
+        <input type="number" name="acres" id="acres" placeholder="Acre Lot (Min-Max)">
+
+        <input type="number" name="house_size" id="house_size" placeholder="House Size (Min-Max)">
+
+        <select name="city" id="city">
+            <option value="">Select a City</option>
+            <!-- Add options for cities based on the selected state -->
+        </select>
+
+        <select name="zip_code" id="zip_code">
+            <option value="">Select a Zip Code</option>
+            <!-- Add options for zip codes based on the selected city -->
+        </select>
+
+        <select name="sold_previously" id="sold_previously">
+            <option value="">Sold Previously?</option>
+            <option value="yes">Yes</option>
+            <option value="no">No</option>
+        </select>
+
+        <button type="button" id="save-button">Save</button>
+    </form>
+
+    <script src="JS/script.js"></script>
+    <script src="JS/form.js"></script>
+
 
 </body>
 </html>

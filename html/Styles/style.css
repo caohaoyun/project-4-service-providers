@@ -1,14 +1,17 @@
 
 /* Body:*/
 body {
-font-family: Garamond;
-margin: 0;
-padding: 0;
-background-color: #f0f0f0;
+    font-family: Garamond;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://img.freepik.com/free-vector/outlined-village-illustration_1109-4.jpg?w=740&t=st=1696981381~exp=1696981981~hmac=183ac1802aafc8826ccaf5436a62f0614e840599452d0f05d16fa15230755773');
+    background-size:15% ;
+ ;
 }
+
 /* Navigation bar style:*/
 .navbar {
-background-color: #131212;
+background-color: #360f04cb;
 overflow: hidden;
 }
 .navbar a {
@@ -32,14 +35,60 @@ font-weight: bold;
     float: right; 
 }
 
+/* Banner */
 .title-banner {
 font-family: Garamond;
 text-align: center;
-padding: 50px 0;
-background: linear-gradient(to bottom, #131212, rgb(21, 38, 46));
+padding: 15px 0;
+background: linear-gradient(to bottom, #4b1403c0, rgba(21, 38, 46, 0.945));
 color: white;
+margin-bottom: 20px;
 }
 
 h1 {
 font-size: 72px;
+}
+
+/* Price Calculator Style */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+form select,
+form input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+form select {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='%23333' class='bi bi-caret-down-fill' viewBox='0 0 16 16'%3E%3Cpath d='M12.418 6.274 8 10.732 3.582 6.274a1 1 0 0 1 1.356-1.464L8 8.732l3.06-3.922a1 1 0 0 1 1.356-1.464z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 15px center;
+}
+
+form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
 }
