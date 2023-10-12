@@ -99,3 +99,61 @@ form button {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+/* changes for the about us  */
+/* Add a white box around text */
+.white-box {
+    background-color: rgba(255, 255, 255, 0.8); /* Adjust the alpha value (0.0 - 1.0) to control transparency */
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 2%;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+}
+
+/* Add small boxes around members and instructors */
+.box {
+    background-color: rgba(255, 255, 255, 0.8); 
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    text-align: center;
+}
+
+/* Style for the images within the boxes */
+.box img {
+    max-width: 100px;
+    max-height: 100px;
+    border-radius: 50%;
+    margin: 0 auto 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+/* Specify Garamond as the font for the entire page */
+body {
+    font-family: "Garamond", serif;
+}
+
+/* Specify Garamond as the font for specific elements */
+h1, h2, p {
+    font-family: "Garamond", serif;
+}
+
+/* Create a small box around h2 elements */
+h2 {
+    border: 2px solid #000; 
+    background-color: white;
+    padding: 10px;
+    display: inline-block; 
+}
+/* Apply a gradient white box around h2 elements */
+h2 {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0.5) 5px, rgba(255, 255, 255, 1) 5px, rgba(255, 255, 255, 1) 100%);
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+}
