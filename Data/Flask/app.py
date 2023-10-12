@@ -52,6 +52,7 @@ def get_bedroom_values(state):
     # Modify this part to interact with your database
     bedroom_values = query_bedroom_values(state)
     return jsonify(bedroom_values)
+    
 
     users_data = read_data_from_database(state_name)
     dataset = []
