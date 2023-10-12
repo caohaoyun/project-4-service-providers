@@ -1,5 +1,5 @@
 const stateSelect = document.getElementById('state');
-        const bedroomsSelect = document.getElementById('bedrooms');
+const bedroomsSelect = document.getElementById('bedrooms');
 
 // script.js
 document.addEventListener('DOMContentLoaded', function() {
