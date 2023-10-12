@@ -1,28 +1,57 @@
-import sqlalchemy
-from sqlalchemy.ext.automap import automap_base
-from sqlalchemy.orm import Session
-from sqlalchemy import create_engine, func
 import sqlite3
-import csv
-from flask import Flask, jsonify, json
+from flask import Flask, jsonify
 from flask_cors import CORS
+import os
 
 app = Flask(__name__)
+CORS(app)
 
-# Define the path to the directory containing your CSV files
-csv_directory = '../new_data/Connecticut_properties.csv'
+database_path = os.path.abspath('Data\Flask\new_database2.db')
 
-@app.route('/')
-def index():
-    # List all CSV files in the directory
-    csv_files = os.listdir(csv_directory)
-    return render_template('index.html', csv_files=csv_files)
+# Function to fetch data from a specific state's table
+def read_data_from_database(state):
+    conn = sqlite3.connect(database_path)
+    cursor = conn.cursor()
+    cursor.execute(f'SELECT "ID","bed","bath","acre_lot", "city", "state", "zip_code", "house_size", "price", "sold_previously", "latitude","longitude" FROM {state}')
+    users = cursor.fetchall()
+    conn.close()
+    return users
 
-@app.route('/download/<filename>')
-def download_csv(filename):
-    # Provide the ability to download a specific CSV file
-    filepath = os.path.join(csv_directory, filename)
-    return send_file(filepath, as_attachment=True)
+@app.route("/")
+def home():
+    """List all available API routes."""
+    return (
+        "Available Routes:<br/>"
+        "Data for a specific state: /api/v1.0/state/{state_name}<br/>"
+    )
+
+@app.route('/api/v1.0/state/<string:state_name>')
+def get_state_data(state_name):
+    if state_name not in ["connecticut", "maine", "massachusetts", "newhampshire", "newjersey", "newyork", "pennsylvania", "puertorico", "rhodeisland", "vermont"]:
+        return jsonify({"error": "Invalid state name"})
+
+
+    users_data = read_data_from_database(state_name)
+    dataset = []
+
+    for d in users_data:
+        line = {
+            "ID": d[0],
+            "bed": d[1],
+            "bath": d[2],
+            "acre_lot": d[3],
+            "city": d[4],
+            "state": d[5],
+            "zip_code": d[6],
+            "house_size": d[7],
+            "price": d[8],
+            "sold_previously": d[9],
+            "latitude": d[10],
+            "longitude": d[11]
+        }
+        dataset.append(line)
+
+    return jsonify(dataset)
 
 if __name__ == '__main__':
     app.run(debug=True)
