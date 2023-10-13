@@ -34,8 +34,8 @@ $(document).ready(function() {
         const selectedTitle = $('#image-dropdown option:selected').text();
         $('#selected-image-title').text(selectedTitle);
         
-        // Display the selected image (assuming the images are in the Data/EDA_Images directory)
-        const imagePath = `Data/EDA_Images/${selectedImage}.png`;
+        // Display the selected image
+        const imagePath = `../../Data/EDA_Images/${selectedImage}.png`;
         $('#selected-image').attr('src', imagePath);
     });
 });
