@@ -167,7 +167,7 @@ h2 {
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-    display: inline-block;
+    display: center;
 }
 
 /* Place team members next to each other */
@@ -190,7 +190,7 @@ h2 {
     margin: 0;
     font-family: "Garamond", serif;
 }
-
+ 
 /* Center the instructor items */
 .instructor-box {
     text-align: center;
