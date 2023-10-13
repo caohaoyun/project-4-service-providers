@@ -2,6 +2,7 @@ import sqlite3
 from flask import Flask, jsonify
 from flask_cors import CORS
 import os
+from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
 CORS(app)
@@ -44,14 +45,14 @@ def get_state_data(state_name):
     if state_name not in ["connecticut", "maine", "massachusetts", "newhampshire", "newjersey", "newyork", "pennsylvania", "puertorico", "rhodeisland", "vermont"]:
         return jsonify({"error": "Invalid state name"})
 
-@app.route('/api/v1.0/state/<string:state_name>/bedrooms', methods=['GET'])
-def get_bedroom_values(state):
-    # Query the database table for the given state (e.g., 'connecticut')
-    # Fetch unique values for bedrooms from that table
-    # Return the unique bedroom values as a JSON response
-    # Modify this part to interact with your database
-    bedroom_values = query_bedroom_values(state)
-    return jsonify(bedroom_values)
+# @app.route('/api/v1.0/state/<string:state_name>/bedrooms', methods=['GET'])
+# def get_bedroom_values(state):
+#     # Query the database table for the given state (e.g., 'connecticut')
+#     # Fetch unique values for bedrooms from that table
+#     # Return the unique bedroom values as a JSON response
+#     # Modify this part to interact with your database
+#     bedroom_values = query_bedroom_values(state)
+#     return jsonify(bedroom_values)
     
 
     users_data = read_data_from_database(state_name)
