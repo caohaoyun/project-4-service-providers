@@ -162,3 +162,11 @@ h2 {
 #house_size {
     width: 95%; 
 }
+
+#image-dropdown option:first-child {
+    font-size: 18px;
+}
+
+#image-dropdown {
+    font-size: 18px;
+}
