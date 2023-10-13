@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>East Coast House Price Prediction - Visualizations</title>
+    <link rel="stylesheet" type="text/css" href="Styles/style.css">
+    <style>
+        /* Add custom styles for dropdown and image container */
+        #image-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        #image-dropdown {
+            font-size: 18px; /* Customize dropdown font size */
+        }
+    </style>
+</head>
+
+<body>
+    <div class="navbar">
+        <a href="index.html">House Price Prediction</a>
+        <a href="visualizations.html">Visualizations</a>
+        <a href="eda.html">Exploratory Data Analysis</a>
+        <a href="presentation.html">Presentation</a>
+        <a href="about_us.html">About Us</a>
+        <img src="https://static.wixstatic.com/media/2df386_9b623bc066dd4555842433be37af195f~mv2.png/v1/fill/w_560,h_312,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/university-of-toronto-vector-logo.png"
+            alt="University of Toronto Logo" class="logo">
+    </div>
+
+    <div class="title-banner">
+        <h1>East Coast House Price Prediction - Visualizations</h1>
+    </div>
+
+    <div id="image-container">
+        <label for="image-dropdown">Select an Image:</label>
+        <select name="image" id="image-dropdown">
+            <option value="" disabled selected>Select Image</option>
+        </select>
+        <div id="selected-image-title"></div>
+        <img id="selected-image" src="" alt="Selected Image">
+    </div>
+
+    <!-- Include jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <!-- JavaScript files -->
+    <script src="JS/script.js"></script>
+    <script src="JS/visualizations.js"></script>
+</body>
+
+</html>
