@@ -1,6 +1,6 @@
 // JavaScript object mapping image file names to titles
 const imageOptions = {
-    scatter_plothouse_size_vs_price: '1- Scatter Plot: House Size vs. Price',
+    scattermeanhousesizebyprice: '1- Scatter Plot: Avg. House Size vs. Price',
     scatter_plots_house_size_price_grid: '2- House Size vs. Price Scatter Plots Grid',
     scatter_plots_house_size_bedrooms_grid: '3- Bedrooms vs. Price Scatter Plots Grid',
     scatter_plots_house_size_bathrooms_grid: '4- Bathrooms vs. Price Scatter Plots Grid',
@@ -17,9 +17,7 @@ const imageOptions = {
     bartop20citiesaveragelotsize: '15- Top 20 Cities with Average Lot Size',
     bartopcitieshousesizebystate: '16- House size by State Bar Plots',
     bartop20citiesaveragehousesize: '17- Top 20 Cities with Average House Size',
-    bartop20citieshighestaverageprice: '18- Top 20 Cities with Highest Average Price',
-    scattermeanhousesizebyprice: '19- Scatter Plot: Avg. House Size vs. Price',
-    
+    bartop20citieshighestaverageprice: '18- Top 20 Cities with Highest Average Price' 
 };
 
 // Populate the dropdown with image options
