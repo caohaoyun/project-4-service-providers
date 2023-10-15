@@ -136,6 +136,7 @@ form button {
     font-weight: bold;
     text-align: center;
     margin: 0;
+    text-align: center;
 }
 /* Add small boxes around members and instructors */
 .box {
@@ -168,20 +169,13 @@ h1, h2, p {
     font-family: "Garamond", serif;
 }
 
-/* Create a small box around h2 elements */
-h2 {
-    border: 2px solid #000; 
-    background-color: white;
-    padding: 10px;
-    display: inline-block; 
-}
 /* Apply a gradient white box around h2 elements */
 h2 {
     background: linear-gradient(135deg, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0.5) 5px, rgba(255, 255, 255, 1) 5px, rgba(255, 255, 255, 1) 100%);
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-    display: inline-block;
+    display: center;
 }
 
 /* Place team members next to each other */
@@ -214,7 +208,7 @@ h2 {
     margin: 0;
     font-family: "Garamond", serif;
 }
-
+ 
 /* Center the instructor items */
 .instructor-box {
     text-align: center;
@@ -242,4 +236,9 @@ h2 {
 .instructor-item p {
     margin: 0;
     font-family: "Garamond", serif;
+}
+
+/* Center text in h2 elements */
+h2 {
+    text-align: center;
 }
