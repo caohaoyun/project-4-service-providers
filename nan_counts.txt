@@ -11,7 +11,21 @@ price: 0
 sold_previously: 0
 latitude: 0
 longitude: 0
-Total Rows: 89752
+Total Rows: 67445
+
+Lowest and highest value per column in Connecticut_properties.csv:
+ID: LOW: Conne1, HIGH: Conne9999
+bed: LOW: 1.0, HIGH: 23.0
+bath: LOW: 1.0, HIGH: 14.0
+acre_lot: LOW: 0.02, HIGH: 17.28
+city: LOW: Andover, HIGH: Woodstock
+state: LOW: Connecticut, HIGH: Connecticut
+zip_code: LOW: 6001.0, HIGH: 6907.0
+house_size: LOW: 200.0, HIGH: 25000.0
+price: LOW: 25000.0, HIGH: 11500000.0
+sold_previously: LOW: 0, HIGH: 1
+latitude: LOW: 41.02881, HIGH: 42.02872
+longitude: LOW: -73.66078, HIGH: -71.81679
 
 NaN counts and total rows for Maine_properties.csv:
 ID: 0
@@ -26,7 +40,21 @@ price: 0
 sold_previously: 0
 latitude: 0
 longitude: 0
-Total Rows: 36647
+Total Rows: 22245
+
+Lowest and highest value per column in Maine_properties.csv:
+ID: LOW: Maine1, HIGH: Maine9999
+bed: LOW: 1.0, HIGH: 19.0
+bath: LOW: 1.0, HIGH: 20.0
+acre_lot: LOW: 0.01, HIGH: 17.0
+city: LOW: Abbot, HIGH: York
+state: LOW: Maine, HIGH: Maine
+zip_code: LOW: 3901.0, HIGH: 4989.0
+house_size: LOW: 186.0, HIGH: 33968.0
+price: LOW: 10000.0, HIGH: 8900000.0
+sold_previously: LOW: 0, HIGH: 1
+latitude: LOW: 43.08481, HIGH: 47.33054
+longitude: LOW: -70.94942, HIGH: -67.01834
 
 NaN counts and total rows for Massachusetts_properties.csv:
 ID: 0
@@ -41,7 +69,21 @@ price: 0
 sold_previously: 0
 latitude: 0
 longitude: 0
-Total Rows: 174930
+Total Rows: 102572
+
+Lowest and highest value per column in Massachusetts_properties.csv:
+ID: LOW: Massa1, HIGH: Massa99999
+bed: LOW: 1.0, HIGH: 24.0
+bath: LOW: 1.0, HIGH: 20.0
+acre_lot: LOW: 0.01, HIGH: 17.09
+city: LOW: Abington, HIGH: Yarmouth Port
+state: LOW: Massachusetts, HIGH: Massachusetts
+zip_code: LOW: 1001.0, HIGH: 2893.0
+house_size: LOW: 104.0, HIGH: 19311.0
+price: LOW: 10000.0, HIGH: 11600000.0
+sold_previously: LOW: 0, HIGH: 1
+latitude: LOW: 41.28555, HIGH: 42.85297
+longitude: LOW: -73.46616, HIGH: -69.96589
 
 NaN counts and total rows for New Hampshire_properties.csv:
 ID: 0
@@ -56,7 +98,21 @@ price: 0
 sold_previously: 0
 latitude: 0
 longitude: 0
-Total Rows: 51358
+Total Rows: 24301
+
+Lowest and highest value per column in New Hampshire_properties.csv:
+ID: LOW: NewH1, HIGH: NewH9999
+bed: LOW: 1.0, HIGH: 16.0
+bath: LOW: 1.0, HIGH: 20.0
+acre_lot: LOW: 0.01, HIGH: 17.2
+city: LOW: Acworth, HIGH: Woodstock
+state: LOW: New Hampshire, HIGH: New Hampshire
+zip_code: LOW: 3031.0, HIGH: 3894.0
+house_size: LOW: 273.0, HIGH: 20504.0
+price: LOW: 9000.0, HIGH: 10000000.0
+sold_previously: LOW: 0, HIGH: 1
+latitude: LOW: 42.72212, HIGH: 45.1128
+longitude: LOW: -72.50964, HIGH: -70.72003
 
 NaN counts and total rows for New Jersey_properties.csv:
 ID: 0
@@ -71,7 +127,21 @@ price: 0
 sold_previously: 0
 latitude: 0
 longitude: 0
-Total Rows: 231796
+Total Rows: 74503
+
+Lowest and highest value per column in New Jersey_properties.csv:
+ID: LOW: NewJ1, HIGH: NewJ9999
+bed: LOW: 1.0, HIGH: 18.0
+bath: LOW: 1.0, HIGH: 19.0
+acre_lot: LOW: 0.01, HIGH: 17.21
+city: LOW: Aberdeen, HIGH: Wyckoff
+state: LOW: New Jersey, HIGH: New Jersey
+zip_code: LOW: 7001.0, HIGH: 8904.0
+house_size: LOW: 165.0, HIGH: 29997.0
+price: LOW: 2475.0, HIGH: 11500000.0
+sold_previously: LOW: 0, HIGH: 1
+latitude: LOW: 38.93721, HIGH: 41.28918
+longitude: LOW: -75.50902, HIGH: -73.94255
 
 NaN counts and total rows for New York_properties.csv:
 ID: 0
@@ -86,7 +156,21 @@ price: 0
 sold_previously: 0
 latitude: 0
 longitude: 0
-Total Rows: 197046
+Total Rows: 46155
+
+Lowest and highest value per column in New York_properties.csv:
+ID: LOW: NewY1, HIGH: NewY9999
+bed: LOW: 1.0, HIGH: 24.0
+bath: LOW: 1.0, HIGH: 19.0
+acre_lot: LOW: 0.01, HIGH: 17.32
+city: LOW: Addisleigh Park, HIGH: Yulan
+state: LOW: New York, HIGH: New York
+zip_code: LOW: 6390.0, HIGH: 14534.0
+house_size: LOW: 122.0, HIGH: 26160.0
+price: LOW: 20000.0, HIGH: 11495000.0
+sold_previously: LOW: 0, HIGH: 1
+latitude: LOW: 40.50817, HIGH: 44.98926
+longitude: LOW: -77.52083, HIGH: -71.9518
 
 NaN counts and total rows for Pennsylvania_properties.csv:
 ID: 0
@@ -101,7 +185,21 @@ price: 0
 sold_previously: 0
 latitude: 0
 longitude: 0
-Total Rows: 17145
+Total Rows: 13746
+
+Lowest and highest value per column in Pennsylvania_properties.csv:
+ID: LOW: Penns1, HIGH: Penns9999
+bed: LOW: 1.0, HIGH: 21.0
+bath: LOW: 1.0, HIGH: 17.0
+acre_lot: LOW: 0.01, HIGH: 17.03
+city: LOW: Abington, HIGH: Yeadon
+state: LOW: Pennsylvania, HIGH: Pennsylvania
+zip_code: LOW: 8402.0, HIGH: 19462.0
+house_size: LOW: 300.0, HIGH: 22452.0
+price: LOW: 15000.0, HIGH: 9875000.0
+sold_previously: LOW: 0, HIGH: 1
+latitude: LOW: 39.33069, HIGH: 41.49221
+longitude: LOW: -77.47343, HIGH: -74.50706
 
 NaN counts and total rows for Puerto Rico_properties.csv:
 ID: 0
@@ -116,7 +214,21 @@ price: 0
 sold_previously: 0
 latitude: 0
 longitude: 0
-Total Rows: 24104
+Total Rows: 15042
+
+Lowest and highest value per column in Puerto Rico_properties.csv:
+ID: LOW: Puert1, HIGH: Puert9999
+bed: LOW: 1.0, HIGH: 13.0
+bath: LOW: 1.0, HIGH: 11.0
+acre_lot: LOW: 0.01, HIGH: 16.0
+city: LOW: Adjuntas, HIGH: Yauco
+state: LOW: Puerto Rico, HIGH: Puerto Rico
+zip_code: LOW: 601.0, HIGH: 987.0
+house_size: LOW: 181.0, HIGH: 29679.0
+price: LOW: 19900.0, HIGH: 11500000.0
+sold_previously: LOW: 0, HIGH: 1
+latitude: LOW: 17.98892, HIGH: 18.48327
+longitude: LOW: -67.36122, HIGH: -65.28618
 
 NaN counts and total rows for Rhode Island_properties.csv:
 ID: 0
@@ -131,7 +243,21 @@ price: 0
 sold_previously: 0
 latitude: 0
 longitude: 0
-Total Rows: 29596
+Total Rows: 24489
+
+Lowest and highest value per column in Rhode Island_properties.csv:
+ID: LOW: Rhode1, HIGH: Rhode9999
+bed: LOW: 1.0, HIGH: 14.0
+bath: LOW: 1.0, HIGH: 13.0
+acre_lot: LOW: 0.01, HIGH: 15.02
+city: LOW: Barrington, HIGH: Woonsocket
+state: LOW: Rhode Island, HIGH: Rhode Island
+zip_code: LOW: 2802.0, HIGH: 2921.0
+house_size: LOW: 436.0, HIGH: 17203.0
+price: LOW: 85000.0, HIGH: 10800000.0
+sold_previously: LOW: 0, HIGH: 1
+latitude: LOW: 41.17762, HIGH: 42.00103
+longitude: LOW: -71.79429, HIGH: -71.16455
 
 NaN counts and total rows for Vermont_properties.csv:
 ID: 0
@@ -146,5 +272,19 @@ price: 0
 sold_previously: 0
 latitude: 0
 longitude: 0
-Total Rows: 45936
+Total Rows: 20526
+
+Lowest and highest value per column in Vermont_properties.csv:
+ID: LOW: Vermo1, HIGH: Vermo9999
+bed: LOW: 1.0, HIGH: 19.0
+bath: LOW: 1.0, HIGH: 19.0
+acre_lot: LOW: 0.02, HIGH: 17.16
+city: LOW: Addison, HIGH: Worcester
+state: LOW: Vermont, HIGH: Vermont
+zip_code: LOW: 3258.0, HIGH: 95652.0
+house_size: LOW: 160.0, HIGH: 13440.0
+price: LOW: 27500.0, HIGH: 6750000.0
+sold_previously: LOW: 0, HIGH: 1
+latitude: LOW: 38.66265, HIGH: 44.97717
+longitude: LOW: -121.40079, HIGH: -71.39956
 

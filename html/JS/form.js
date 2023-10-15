@@ -34,7 +34,7 @@
 //                     const uniqueBedrooms = new Set(); // Use a Set to store unique values
 
 //                     data.forEach(item => {
-//                         uniqueBedrooms.add(item.bed); // Ensure "bed" is treated as a number
+//                         uniqueBedrooms.add(item.bed); // Ensures "bed" is treated as a number
 //                     });
 
 //                     // Convert the Set back to an array and sort it
@@ -73,7 +73,7 @@
 //                     const uniqueBathrooms = new Set(); // Use a Set to store unique values
 
 //                     data.forEach(item => {
-//                         uniqueBathrooms.add(item.bath); // Ensure "baths" is treated as a number
+//                         uniqueBathrooms.add(item.bath); // Ensures "bath" is treated as a number
 //                     });
 
 //                     // Convert the Set back to an array and sort it

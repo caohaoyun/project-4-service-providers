@@ -35,6 +35,12 @@ font-weight: bold;
     float: right; 
 }
 
+.logo2 {
+    width: 350px; 
+    height: auto;
+    margin: 0 auto; 
+}
+
 /* Banner */
 .title-banner {
 font-family: Garamond;
@@ -127,6 +133,8 @@ form button {
 /* Increase the font size for the text inside the white-box */
 .white-box p {
     font-size: 18px;
+    font-weight: bold;
+    text-align: center;
     margin: 0;
 }
 /* Add small boxes around members and instructors */
@@ -180,8 +188,18 @@ h2 {
 .team-member {
     display: inline-block;
     text-align: center;
-    margin: 0 10px; 
+    margin: 0 15px; 
+    
 }
+
+.team-section {
+    text-align: center; /* Center the content within the team-section */
+}
+
+.team-section .member.box {
+    margin: 0 auto; /* Center the team-section block in the parent container */
+}
+
 
 .team-member img {
     max-width: 100px;
