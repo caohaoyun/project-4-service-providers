@@ -1,11 +1,14 @@
 import sqlite3
-from flask import Flask, jsonify
+from flask import Flask, jsonify, request
 from flask_cors import CORS
 import os
-from flask_sqlalchemy import SQLAlchemy
+import pandas as pd
+import joblib
 
 app = Flask(__name__)
 CORS(app)
+
+
 
 # Get the directory where the script is located
 script_directory = os.path.dirname(os.path.abspath(__file__))
@@ -44,17 +47,7 @@ def home():
 def get_state_data(state_name):
     if state_name not in ["connecticut", "maine", "massachusetts", "newhampshire", "newjersey", "newyork", "pennsylvania", "puertorico", "rhodeisland", "vermont"]:
         return jsonify({"error": "Invalid state name"})
-
-# @app.route('/api/v1.0/state/<string:state_name>/bedrooms', methods=['GET'])
-# def get_bedroom_values(state):
-#     # Query the database table for the given state (e.g., 'connecticut')
-#     # Fetch unique values for bedrooms from that table
-#     # Return the unique bedroom values as a JSON response
-#     # Modify this part to interact with your database
-#     bedroom_values = query_bedroom_values(state)
-#     return jsonify(bedroom_values)
     
-
     users_data = read_data_from_database(state_name)
     dataset = []
 
@@ -76,6 +69,49 @@ def get_state_data(state_name):
         dataset.append(line)
 
     return jsonify(dataset)
+
+@app.route('/api/v1.0/predict_price', methods=['POST'])
+def predict_price():
+    data = request.json
+
+    # Ensure that the input data includes the selected state
+    if 'selected_state' not in data:
+        return jsonify({"error": "Missing selected state"}), 400
+
+    selected_state = data['selected_state']
+    model_file = f"PKL/{selected_state.replace(' ','').lower()}/{selected_state.replace(' ','').lower()}.pkl"  # Construct the model file name
+
+    # Check if the model file exists
+    if not os.path.exists(model_file):
+        return jsonify({"error": "Model not found for the selected state"}), 400
+
+    # Load the selected model
+    selected_model = joblib.load(model_file)
+
+    # Load the corresponding city and zip encoders
+    city_encoder_file = f"PKL/{selected_state.replace(' ','').lower()}/{selected_state.replace(' ','').lower()}_CE.pkl"
+    zip_encoder_file = f"PKL/{selected_state.replace(' ','').lower()}/{selected_state.replace(' ','').lower()}_ZE.pkl"
+    city_encoder = joblib.load(city_encoder_file)
+    zip_encoder = joblib.load(zip_encoder_file)
+
+    # Ensure the input data matches the model's input features
+    expected_features = ['bed', 'bath', 'acre_lot', 'house_size', 'sold_previously', 'city_encoded', 'zip_encoded']
+    for feature in expected_features:
+        if feature not in data:
+            return jsonify({"error": f"Missing feature: {feature}"}), 400
+
+    # Encode the selected city and zip code using the loaded encoders
+    data['city_encoded'] = city_encoder.transform([data['city_encoded']])[0]
+    data['zip_encoded'] = zip_encoder.transform([data['zip_encoded']])[0]
+
+    # Create a DataFrame from the input data
+    input_data = pd.DataFrame(data, index=[0])
+
+    # Use the selected Linear Regression model to make predictions
+    predicted_price = selected_model.predict(input_data)
+
+    # Return the predicted price as JSON
+    return jsonify({"predicted_price": predicted_price[0]})
 
 if __name__ == '__main__':
     app.run(debug=True)
