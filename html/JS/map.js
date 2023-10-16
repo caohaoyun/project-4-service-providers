@@ -1,3 +1,7 @@
+document.addEventListener("DOMContentLoaded", function () {
+    updateMap("All");
+});
+
 const stateEndpoints = [
     'connecticut', 'maine', 'massachusetts', 'newhampshire', 
     'newjersey', 'newyork', 'pennsylvania', 'puertorico', 
@@ -97,12 +101,29 @@ async function updateMap(selectedState) {
     }
 }
 
-const stateDropdown = document.getElementById("state");
-stateDropdown.value = "All";
+document.addEventListener("DOMContentLoaded", function () {
+    const stateDropdown = document.getElementById("state");
+  
+    // Populate the dropdown with states
+    stateEndpoints.forEach(state => {
+      const option = document.createElement("option");
+      option.value = state;
+      option.text = state;
+      stateDropdown.appendChild(option);
+    });
+  
+    // Set the default value to "All"
+    stateDropdown.value = "All";
+  
+    // Add the event listener for the "change" event
+    stateDropdown.addEventListener("change", function () {
+      const selectedState = stateDropdown.value;
+      updateMap(selectedState);
+    });
+  
+    // Initialize the map with "All" selected
+    updateMap("All");
+  });
 
-stateDropdown.addEventListener("change", function () {
-    const selectedState = stateDropdown.value;
-    updateMap(selectedState);
-});
 
-updateMap("All");
+
