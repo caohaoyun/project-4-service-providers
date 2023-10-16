@@ -15,6 +15,7 @@ script_directory = os.path.dirname(os.path.abspath(__file__))
 
 # Define the full path to the database file
 database_path = os.path.join(script_directory, 'new_database2.db')
+pkl_path = os.path.join(script_directory, "PKL")
 
 # Function to fetch data from a specific state's table
 def read_data_from_database(state):
@@ -79,7 +80,7 @@ def predict_price():
         return jsonify({"error": "Missing selected state"}), 400
 
     selected_state = data['selected_state']
-    model_file = f"PKL/{selected_state.replace(' ','').lower()}/{selected_state.replace(' ','').lower()}.pkl"  # Construct the model file name
+    model_file = f"{pkl_path}/{selected_state.replace(' ','').lower()}/{selected_state.replace(' ','').lower()}.pkl"  # Construct the model file name
 
     # Check if the model file exists
     if not os.path.exists(model_file):
@@ -89,8 +90,8 @@ def predict_price():
     selected_model = joblib.load(model_file)
 
     # Load the corresponding city and zip encoders
-    city_encoder_file = f"PKL/{selected_state.replace(' ','').lower()}/{selected_state.replace(' ','').lower()}_CE.pkl"
-    zip_encoder_file = f"PKL/{selected_state.replace(' ','').lower()}/{selected_state.replace(' ','').lower()}_ZE.pkl"
+    city_encoder_file = f"{pkl_path}/{selected_state.replace(' ','').lower()}/{selected_state.replace(' ','').lower()}_CE.pkl"
+    zip_encoder_file = f"{pkl_path}/{selected_state.replace(' ','').lower()}/{selected_state.replace(' ','').lower()}_ZE.pkl"
     city_encoder = joblib.load(city_encoder_file)
     zip_encoder = joblib.load(zip_encoder_file)
 

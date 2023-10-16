@@ -259,6 +259,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 .then(response => response.json())
                 .then(data => {
                     // Update the predicted price in the HTML
+                    console.log;
                     const predictedPriceSpan = document.getElementById('predicted-price');
                     predictedPriceSpan.textContent = `$${data.predicted_price}`;
                     document.getElementById('prediction-result').style.display = 'block'; // Show the result
