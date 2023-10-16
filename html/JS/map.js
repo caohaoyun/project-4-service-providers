@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", async function () {
         23: 'lavender',
         24: 'peru',
         25: 'tomato'
-        // Add more colors for different bedroom numbers if needed
+        // Add the colors for different bedroom numbers if needed
     };
 
     async function loadDataForState(state) {

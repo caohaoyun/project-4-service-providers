@@ -299,7 +299,7 @@ h2 {
 .map-container {
     width: 91.75%;
     height: 750px;
-    margin: 70px 20px 20px 20px; /* Adjust the margin values (top, right, bottom, left) */
+    margin: 70px 20px 20px 20px; /* margin values (top, right, bottom, left) */
     box-sizing: border-box;
     padding: 10px;
     border: 1px solid #ccc;
