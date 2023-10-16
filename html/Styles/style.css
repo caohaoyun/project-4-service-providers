@@ -285,14 +285,24 @@ h2 {
 
 
 /* MAP */
+/* MAP */
+
+.filter-container {
+    background-color: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: inline-block;
+    font-weight: bold;
+}
 
 .map-container {
     width: 91.75%;
-    height: 750px; /* Adjust the container height */
-    margin: 20px;
+    height: 750px;
+    margin: 70px 20px 20px 20px; /* Adjust the margin values (top, right, bottom, left) */
     box-sizing: border-box;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 10px;
     float: left;
-  }
+}
