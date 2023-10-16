@@ -286,11 +286,13 @@ h2 {
 
 /* MAP */
 
-.filter-container {
-    background-color: white;
+.map-container {
+    width: 91.75%;
+    height: 750px; /* Adjust the container height */
+    margin: 20px;
+    box-sizing: border-box;
     padding: 10px;
     border: 1px solid #ccc;
-    border-radius: 5px;
-    display: inline-block;
-    font-weight: bold;
-}
+    border-radius: 10px;
+    float: left;
+  }
