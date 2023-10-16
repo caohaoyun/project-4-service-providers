@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Map</title>
+    <link rel="stylesheet" type="text/css" href="Styles/style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
+
+<body>
+    <div class="navbar">
+        <a href="index.html">House Price Prediction</a>
+        <a href="visualizations.html">Visualizations</a>
+        <a href="eda.html">Exploratory Data Analysis</a>
+        <a href="presentation.html">Presentation</a>
+        <a href="about_us.html">About Us</a>
+        <a href="http://127.0.0.1:5000/" target="_blank">APIs</a>
+        <img src="https://static.wixstatic.com/media/2df386_9b623bc066dd4555842433be37af195f~mv2.png/v1/fill/w_560,h_312,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/university-of-toronto-vector-logo.png"
+            alt="University of Toronto Logo" class="logo">
+    </div>
+
+    <div class="title-banner">
+        <h1>Interactive Map</h1>
+    </div>
+
+    <!-- Content -->
+    <div class="container">
+        <div id="map-container">
+            <div id="houseStates"></div>
+            <div id="filter">
+                <label for="state">Select State:</label>
+                <select id="state"></select>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="JS/map.js"></script>
+</body>
+
+</html>
+
