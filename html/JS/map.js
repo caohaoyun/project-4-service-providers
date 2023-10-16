@@ -1,41 +1,24 @@
+// Define colors for different price ranges
+const priceColors = [
+    "#ff0000", // Red for high prices
+    "#ffa500", // Orange for medium-high prices
+    "#ffff00", // Yellow for medium prices
+    "#008000", // Green for low prices
+    "#0000ff", // Blue for very low prices
+    "#008000"
+];
+
 document.addEventListener("DOMContentLoaded", async function () {
+    let map = null;
+
     const stateEndpoints = [
         'connecticut', 'maine', 'massachusetts', 'newhampshire', 
         'newjersey', 'newyork', 'pennsylvania', 'puertorico', 
         'rhodeisland', 'vermont'
     ];
 
-    const bedColors = {
-        1: 'red',
-        2: 'blue',
-        3: 'green',
-        4: 'orange',
-        5: 'purple',
-        6: 'brown',
-        7: 'pink',
-        8: 'yellow',
-        9: 'cyan',
-        10: 'magenta',
-        11: 'violet',
-        12: 'lime',
-        13: 'indigo',
-        14: 'olive',
-        15: 'teal',
-        16: 'navy',
-        17: 'salmon',
-        18: 'maroon',
-        19: 'gold',
-        20: 'coral',
-        21: 'silver',
-        22: 'aquamarine',
-        23: 'lavender',
-        24: 'peru',
-        25: 'tomato'
-        // Add the colors for different bedroom numbers if needed
-    };
-
     async function loadDataForState(state) {
-        const url = `http://127.0.0.1:5000/api/v1.0/state/${state}?limit=50`;
+        const url = `http://127.0.0.1:5000/api/v1.0/state/${state}?limit=100`;
         try {
             const response = await fetch(url);
             const dataSections = await response.json();
@@ -59,9 +42,6 @@ document.addEventListener("DOMContentLoaded", async function () {
         return allData.reduce((accumulator, currentData) => accumulator.concat(currentData), []);
     }
     
-    let map = null;
-    let markers = [];
-
     async function updateMap(selectedState) {
         if (map) {
             map.remove();
@@ -76,26 +56,46 @@ document.addEventListener("DOMContentLoaded", async function () {
             attribution: 'Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         }).addTo(map);
 
-        markers = [];
-
+        const markers = [];
         data.forEach(dt => {
             const lat = dt.latitude;
             const lon = dt.longitude;
-            const numBed = dt.bed;
+            const city = dt.city;
+            const state = dt.state;
+            const price = dt.price;
+
+            // Determine the color based on the price range
+            let colorIndex;
+            if (price > 1500000) {
+                colorIndex = 0; // High prices (red)
+            } else if (price > 800000) {
+                colorIndex = 1; // Medium-high prices (orange)
+            } else if (price > 600000) {
+                colorIndex = 2; // Medium prices (yellow)
+            } else if (price > 400000) {
+                colorIndex = 3; // Low prices (green)
+            } else if (price > 200000) {
+                colorIndex = 4;
+            } else {
+                colorIndex = 5; // Very low prices (blue)
+            }
 
             const marker = L.circleMarker([lat, lon], {
                 radius: 7,
-                fillColor: bedColors[numBed] || "#000000",
+                fillColor: priceColors[colorIndex] || "#000000",
                 color: '#000',
                 weight: 1,
                 opacity: 1,
                 fillOpacity: 1
             });
 
-            marker.addTo(map);
-            marker.bindPopup(`Number of Bedrooms: ${numBed}`);
+            marker.bindPopup(`City: ${city} <br> State: ${state} <br> Price: $${price}`);
             markers.push(marker);
         });
+
+        const markerCluster = L.markerClusterGroup();
+        markerCluster.addLayers(markers);
+        map.addLayer(markerCluster);
     }
 
     const stateDropdown = document.getElementById("state");

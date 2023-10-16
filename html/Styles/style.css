@@ -298,7 +298,8 @@ h2 {
 
 .map-container {
     width: 91.75%;
-    height: 750px;
+    height: 800px;
+    width: 80%;
     margin: 70px 20px 20px 20px; /* margin values (top, right, bottom, left) */
     box-sizing: border-box;
     padding: 10px;
