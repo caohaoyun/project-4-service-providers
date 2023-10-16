@@ -32,21 +32,18 @@
 
         <select name="bathrooms" id = "bathrooms">
             <option value="">Select Bathrooms</option>
-            <!-- Add options for bathrooms based on unique values from the database -->
         </select>
 
-        <input type="number" name="acres" id="acres" placeholder="Acre Lot (Min-Max)">
+        <input type="number" name="acres" id="acres" placeholder="Acre Lot (Min-Max)" max = "17.3">
 
-        <input type="number" name="house_size" id="house_size" placeholder="House Size (Min-Max)">
+        <input type="number" name="house_size" id="house_size" placeholder="House Size (Min-Max)" max = "34000">
 
         <select name="city" id="city">
             <option value="">Select a City</option>
-            <!-- Add options for cities based on the selected state -->
         </select>
 
         <select name="zip_code" id="zip_code">
             <option value="">Select a Zip Code</option>
-            <!-- Add options for zip codes based on the selected city -->
         </select>
 
         <select name="sold_previously" id="sold_previously">

@@ -188,20 +188,28 @@ h2 {
 
 .team-section {
     text-align: center; /* Center the content within the team-section */
+    width: auto;
 }
 
 .team-section .member.box {
-    margin: 0 auto; /* Center the team-section block in the parent container */
+    margin: 0 10px; /* Center the team-section block in the parent container */
 }
 
+.boxing_titles {
+    width: 200px;
+    margin: auto;
+    font-size: 20px;
+    font-weight: bold;
+
+}
 
 .team-member img {
-    max-width: 100px;
-    max-height: 100px;
+    max-width: 150px;
+    max-height: 150px;
     border-radius: 50%;
     margin: 0 auto 10px;
     display: block;
-    vertical-align: top;
+
 }
 
 .team-member p {

@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     console.error('Error fetching data:', error);
                 });
         }
-    });
+
 
 // Function of 3rd scroll bar - Bathrooms
 // Add an event listener to the bedrooms select element to populate bathrooms based on the selected state and bedrooms
@@ -103,36 +103,149 @@ bedroomsSelect.addEventListener('change', () => {
 
 });
 
-// Function for acre and house size 
+
+
+// Function for city scroll bar:
+
+const citySelect = document.getElementById('city');
+
+    stateSelect.addEventListener('change', () => {
+    const selectedState = stateSelect.value.replace(" ", "").toLowerCase();
+    citySelect.innerHTML = '<option value="">Select a City</option>'; // Clear existing options and reset to default
+
+    if (selectedState) {
+        fetch(`http://127.0.0.1:5000/api/v1.0/state/${selectedState}`)
+            .then(response => response.json())
+            .then(data => {
+                console.log(data); // Log the API response data to inspect its structure
+
+                const uniqueCities = new Set();
+
+                data.forEach(item => {
+                    uniqueCities.add(item.city);
+                });
+
+                // Convert the set of unique cities into an alphabetically sorted array
+                const sortedCities = Array.from(uniqueCities).sort();
+
+                sortedCities.forEach(city => {
+                    const option = document.createElement('option');
+                    option.text = city;
+                    option.value = city;
+                    citySelect.appendChild(option);
+                });
+            })
+            .catch(error => {
+                console.error('Error fetching data:', error);
+            });
+    }
+});
+
+//Function for the zip code
+const zipCodeSelect = document.getElementById('zip_code');
+
+citySelect.addEventListener('change', () => {
+    const selectedCity = citySelect.value;
+    const selectedState = stateSelect.value.replace(" ", "").toLowerCase();
+    zipCodeSelect.innerHTML = '<option value="">Select a Zip Code</option>'; // Clear existing options and reset to default
+
+    if (selectedCity) {
+        fetch(`http://127.0.0.1:5000/api/v1.0/state/${selectedState}`)
+            .then(response => response.json())
+            .then(data => {
+                console.log(data); 
+
+                const uniqueZipCodes = new Set();
+
+                data
+                    .filter(item => item.city === selectedCity) // Filter data for the selected city
+                    .forEach(item => {
+                        uniqueZipCodes.add(item.zip_code);
+                    });
+
+                Array.from(uniqueZipCodes).forEach(zipCode => {
+                    const option = document.createElement('option');
+                    option.text = zipCode;
+                    option.value = zipCode;
+                    zipCodeSelect.appendChild(option);
+                });
+            })
+            .catch(error => {
+                console.error('Error fetching data:', error);
+            });
+    }
+});
 
 const acresInput = document.getElementById('acres');
 const houseSizeInput = document.getElementById('house_size');
 const saveButton = document.getElementById('save-button');
+const new_data = {
+    'bed': [],
+    'bath': [],
+    'acre_lot': [],
+    'house_size': [],
+    'sold_previously': [],
+    'city': [],
+    'zip_code': []
+};
 
 saveButton.addEventListener('click', () => {
+    const selectedState = stateSelect.value;
+    const selectedBedrooms = bedroomsSelect.value;
+    const selectedBathrooms = bathroomsSelect.value;
     const acresValue = parseFloat(acresInput.value);
     const houseSizeValue = parseInt(houseSizeInput.value);
-    let errorMessage = "";
+    const selectedCity = citySelect.value;
+    const selectedZipCode = zipCodeSelect.value;
+    const soldPreviouslyValue = document.getElementById('sold_previously').value === 'yes' ? 1 : 0;
+    
+    let errorMessage = '';
 
-    if (isNaN(acresValue) || acresValue < 0.01) {
-        errorMessage += "Acre value can't be less than 0.01.\n";
-    } else if (acresValue > 17.3) {
-        errorMessage += "Acre value can't be greater than 17.3.\n";
+    if (!selectedState) {
+        errorMessage += 'Please select a state.\n';
     }
 
-    if (isNaN(houseSizeValue) || houseSizeValue < 140) {
-        errorMessage += "House size can't be less than 140 ft.\n";
-    } else if (houseSizeValue > 34000) {
-        errorMessage += "House size can't be greater than 34000 ft.\n";
+    if (!selectedBedrooms) {
+        errorMessage += 'Please select the number of bedrooms.\n';
     }
 
-    if (errorMessage !== "") {
+    if (!selectedBathrooms) {
+        errorMessage += 'Please select the number of bathrooms.\n';
+    }
+
+    if (isNaN(acresValue) || acresValue < 0.01 || acresValue > 17.3) {
+        errorMessage += 'Acre value must be between 0.01 and 17.3.\n';
+    }
+
+    if (isNaN(houseSizeValue) || houseSizeValue < 140 || houseSizeValue > 34000) {
+        errorMessage += 'House size must be between 140 and 34000.\n';
+    }
+
+    if (!selectedCity) {
+        errorMessage += 'Please select a city.\n';
+    }
+
+    if (!selectedZipCode) {
+        errorMessage += 'Please select a zip code.\n';
+    }
+
+    if (errorMessage) {
         alert(errorMessage);
     } else {
-        // Continue with the save operation or other actions here
-    }
+
+
+    // Add the selected options to the new_data object
+    new_data.bed.push(selectedBedrooms);
+    new_data.bath.push(selectedBathrooms);
+    new_data.acre_lot.push(acresValue);
+    new_data.house_size.push(houseSizeValue);
+    new_data.sold_previously.push(soldPreviouslyValue);
+    new_data.city.push(selectedCity);
+    new_data.zip_code.push(selectedZipCode);
+
+    // Log the new_data object (you can send it to your backend or use it as needed)
+    console.log(new_data);
+}});
+
+
 });
-
-
-
-
