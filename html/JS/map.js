@@ -1,7 +1,7 @@
 const stateEndpoints = [
     'connecticut', 'maine', 'massachusetts', 'newhampshire', 
     'newjersey', 'newyork', 'pennsylvania', 'puertorico', 
-    'rhodeislands', 'vermont'
+    'rhodeisland', 'vermont'
 ];
 
 async function loadDataForState(state) {
