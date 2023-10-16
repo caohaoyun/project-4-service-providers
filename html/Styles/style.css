@@ -244,7 +244,7 @@ h2 {
 }
 
 .description-box {
-    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
     padding: 12px;
     border-radius: 5px;
     max-width: 900px;
@@ -260,7 +260,7 @@ h2 {
 }
 
 #description-text {
-    font-size: 18px;
+    font-size: 19px;
     line-height: 1.4;
 }
 
