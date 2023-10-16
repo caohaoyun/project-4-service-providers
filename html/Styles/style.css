@@ -111,14 +111,6 @@ form button {
     width: 95%; 
 }
 
-#image-dropdown option:first-child {
-    font-size: 18px;
-}
-
-#image-dropdown {
-    font-size: 18px;
-}
-
 
 /* changes for the about us  */
 /* Add a white box around text */
@@ -249,4 +241,44 @@ h2 {
 /* Center text in h2 elements */
 h2 {
     text-align: center;
+}
+
+.description-box {
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+    padding: 12px;
+    border-radius: 5px;
+    max-width: 900px;
+    margin: 0 auto; /* Center the description box horizontally */
+    margin-top: 2px; 
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+#selected-image-title {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#description-text {
+    font-size: 18px;
+    line-height: 1.4;
+}
+
+#image-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#image-dropdown {
+    font-size: 20px;
+    margin-bottom: 5px; /* margin to separate dropdown from description box */
+}
+
+#image-dropdown option:first-child {
+    font-size: 18px; /* Adjust first option font size */
+}
+
+#selected-image {
+    display: block;
+    margin: 0 auto; /* Center the image */
 }
