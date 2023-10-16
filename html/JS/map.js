@@ -1,7 +1,19 @@
 // Load the JSON data
-const url = "http://127.0.0.1:5000/api/v1.0/state/";
-d3.json(url).then(function (data) {
-    console.log("Loaded data:", data);
+const URL = "http://127.0.0.1:5000/api/v1.0/state/";
+const STATE_CHOICES = {
+    "CT": "Connecticut",
+    "ME": "Maine",
+    "MA": "Massachusetts",
+    "NH": "NewHampshire",
+    "NJ": "NewJersey",
+    "NY": "NewYork",
+    "PA": "Pennsylvania",
+    "PR": "Puertorico",
+    "RI": "rhodeisland",
+    "VT": "vermont",
+};
+
+function make_beds() {
     // Define colors by number of beds 
     const colors = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd',
         '#8c564b', '#e377c2', '#7f7f7f', '#bcbd22', '#17becf', '#1a1a1a',
@@ -19,107 +31,162 @@ d3.json(url).then(function (data) {
         "20": colors[19], "21": colors[20], "22": colors[21], "23": colors[22],
         "24": colors[23]
     };
- // Function to get the color of a number of beds
+    // Function to get the color of a number of beds
     function getBedColors(numBed) {
         return bedColors[numBed] || "#000000"; // Default color for unknown types
     }
-    // Extract number of beds and states from the data
-    const numBeds = [...new Set(data.map(entry => entry.bed))];
-    numBeds.sort();
-    const states = [...new Set(data.map(entry => entry.state))];
-    states.sort();
+       // Create the map
+       const map = L.map('houseStates').setView([40, -80], 4);
 
-    // Create the map
-    const map = L.map('houseStates').setView([41.9002646, -87.941968], 7);
+       // Add base layer
+       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+           maxZoom: 10,
+           attribution: 'Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+       }).addTo(map);
+   
+       // Create a legend
+       const legend = L.control({ position: 'bottomright' });
+       legend.onAdd = function (map) {
+           const div = L.DomUtil.create('div', 'info legend');
+   
+           // Add a class to the legend for styling
+       div.className = 'legend-container';
+   
+           for (const numBed of Object.keys(bedColors)) {
+               const color = getBedColors(numBed);
+               const colorLabel = `<div style="display: inline-block; width: 20px; height: 12px; background-color: ${color}"></div>`;
+               div.innerHTML +=
+                   `${colorLabel}&nbsp;&nbsp;<i>${numBed}</i><br />`;
+           }
+           return div;
+       };
+       legend.addTo(map);
+   
 
-    // Add base layer
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        maxZoom: 10,
-        attribution: 'Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-    }).addTo(map);
+        // Populate the dropdown options
+        const stateDropdown = document.getElementById("stateDropdown");
+       stateDropdown.innerHTML = "";
+        // Add an option for "All States" to show all data initially
+        const allStatesOption = document.createElement("option");
+        allStatesOption.value = "All";
+        allStatesOption.text = "All States";
+        stateDropdown.appendChild(allStatesOption);
 
-    // Create a legend
-    const legend = L.control({ position: 'bottomright' });
-    legend.onAdd = function (map) {
-        const div = L.DomUtil.create('div', 'info legend');
-
-        // Add a class to the legend for styling
-    div.className = 'legend-container';
-
-        for (const numBed of numBeds) {
-            const color = getBedColors(numBed);
-            const colorLabel = `<div style="display: inline-block; width: 20px; height: 20px; background-color: ${color}"></div>`;
-            div.innerHTML +=
-                `${colorLabel}&nbsp;&nbsp;<i>${numBed}</i><br />`;
-        }
-        return div;
-    };
-    legend.addTo(map);
-
-    // Create an array to hold all markers
-    const markers = [];
-
-    // Add markers for each station
-    data.forEach(dt => {
-        const lat = dt.latitude;
-        const lon = dt.longitude;
-        const city = dt.city;
-        const state = dt.state;
-        const numBed = dt.bed;
-        const bath = dt.bath;
-        const houseSize = dt.house_size
-        const price = dt.price;
-        const sorldPreviously = dt.sold_previously;
-    
-        const marker = L.circleMarker([lat, lon], {
-            radius: 7,
-            fillColor: getBedColors(numBed),
-            color: '#000',
-            weight: 1,
-            opacity: 1,
-            fillOpacity: 1
+        // Add options for each state
+        Object.keys(STATE_CHOICES).forEach(state_code => {
+            const option = document.createElement("option");
+            option.value = state_code;
+            option.text = STATE_CHOICES[state_code];
+            stateDropdown.appendChild(option);
         });
+          // Function to filter and update the map based on the selected state
+        stateDropdown.value = "all";
 
-        marker.bindPopup(`City: ${city} <br> State: ${state} <br> House Size: ${houseSize} <br> Prize $: ${price} <br> Bed: ${bed} <br> Bathrooms: ${bath}`);
-        markers.push({ marker, numBed});
-    });
+        stateDropdown.addEventListener("change", function () {
+                const selectedState = stateDropdown.replaceChild(" ","").toLowerCase();
+                
+                if (selectedState) {
+                    fetch(`http://127.0.0.1:5000/api/v1.0/state/${selectedState}`)
+                        .then(response => response.json())
+                        .then(data => {
+                            console.log(data); 
 
-    // Add all markers to the map
-    markers.forEach(mark => {
-        mark.marker.addTo(map);
-    });
-
-    // Populate the dropdown options
-    const stateDropdown = document.getElementById("stateDropdown");
-
-    // Add an option for "All States" to show all data initially
-    const allStatesOption = document.createElement("option");
-    allStatesOption.value = "All";
-    allStatesOption.text = "All States";
-    stateDropdown.appendChild(allStatesOption);
-
-    // Add options for each state
-    states.forEach(state => {
-        const option = document.createElement("option");
-        option.value = state;
-        option.text = state;
-        stateDropdown.appendChild(option);
-    });
-
-  // Function to filter and update the map based on the selected state
-  stateDropdown.value = "all";
-
-  stateDropdown.addEventListener("change", function () {
-        const selectedState = stateDropdown.value;
-
-        markers.forEach(mark => {
-            const isVisible = selectedState === "all" || selectedState === mark.state;
-            if (isVisible) {
-                map.addLayer(mark.marker);
-            } else {
-                map.removeLayer(mark.marker);
+                    // markers.forEach(mark => {
+                    //     const selectedState = selectedState === "all" || selectedState === mark.state;
+                    //     if (isVisible) {
+                    //         map.addLayer(mark.marker);
+                    //     }
+                });
             }
-        });
-    });
-    updateMap("All");
-});
+            });
+    // 
+
+    // stateSelect.addEventListener('change', () => {
+    //     const selectedState = stateSelect.value.replace(" ", "").toLowerCase();
+    //     bathroomsSelect.innerHTML = ''; // Clear the existing options
+
+    //     if (selectedState) {
+    //         fetch(`http://127.0.0.1:5000/api/v1.0/state/${selectedState}`)
+    //             .then(response => response.json())
+    //             .then(data => {
+    //                 console.log(data); // Log the API response data to inspect its structure
+
+    //   // Function to filter and update the map based on the selected state
+    //   stateDropdown.value = "All";
+
+    //   stateDropdown.addEventListener("change", function () {
+    //         const selectedState = stateDropdown.value;
+
+    //         markers.forEach(mark => {
+    //             const isVisible = selectedState === "All" || selectedState === mark.state;
+    //             if (isVisible) {
+    //                 map.addLayer(mark.marker);
+    //             } else {
+    //                 map.removeLayer(mark.marker);
+    //             }
+    //         });
+    //     });
+    }
+
+    
+make_beds();
+
+// d3.json(URLS).then(function (data) {
+//     console.log("Loaded data:", data);
+// })
+//     // Extract number of beds and states from the data
+//     const numBeds = [...new Set(data.map(entry => entry.bed))];
+//     numBeds.sort();
+//     const states = [...new Set(data.map(entry => entry.state))];
+//     states.sort();
+
+//     // Create an array to hold all markers
+//     const markers = [];
+
+//     // Add markers for each station
+//     data.forEach(dt => {
+//         const lat = dt.latitude;
+//         const lon = dt.longitude;
+//         const city = dt.city;
+//         const state = dt.state;
+//         const numBed = dt.bed;
+//         const bath = dt.bath;
+//         const houseSize = dt.house_size
+//         const price = dt.price;
+//         const sorldPreviously = dt.sold_previously;
+    
+//         const marker = L.circleMarker([lat, lon], {
+//             radius: 7,
+//             fillColor: getBedColors(numBed),
+//             color: '#000',
+//             weight: 1,
+//             opacity: 1,
+//             fillOpacity: 1
+//         });
+
+//         marker.bindPopup(`City: ${city} <br> State: ${state} <br> House Size: ${houseSize} <br> Prize $: ${price} <br> Bed: ${bed} <br> Bathrooms: ${bath}`);
+//         markers.push({ marker, numBed});
+//     });
+
+//     // Add all markers to the map
+//     markers.forEach(mark => {
+//         mark.marker.addTo(map);
+//     });
+
+//   // Function to filter and update the map based on the selected state
+//   stateDropdown.value = "all";
+
+//   stateDropdown.addEventListener("change", function () {
+//         const selectedState = stateDropdown.value;
+
+//         markers.forEach(mark => {
+//             const isVisible = selectedState === "all" || selectedState === mark.state;
+//             if (isVisible) {
+//                 map.addLayer(mark.marker);
+//             } else {
+//                 map.removeLayer(mark.marker);
+//             }
+//         });
+//     });
+//     updateMap("All");
+// });
