@@ -1,17 +1,17 @@
 // Load the JSON data
 const URL = "http://127.0.0.1:5000/api/v1.0/state/";
-const STATE_CHOICES = {
-    "CT": "Connecticut",
-    "ME": "Maine",
-    "MA": "Massachusetts",
-    "NH": "NewHampshire",
-    "NJ": "NewJersey",
-    "NY": "NewYork",
-    "PA": "Pennsylvania",
-    "PR": "Puertorico",
-    "RI": "rhodeisland",
-    "VT": "vermont",
-};
+const STATE_CHOICES = [
+    'Connecticut',
+    'Maine',
+    'Massachusetts',
+    'NewHampshire',
+    'NewJersey',
+    'NewYork',
+    'Pennsylvania',
+    'PuertoRico',
+    'RhodeIsland',
+    'Vermont',
+];
 
 function make_beds() {
     // Define colors by number of beds 
@@ -36,81 +36,70 @@ function make_beds() {
         return bedColors[numBed] || "#000000"; // Default color for unknown types
     }
        // Create the map
-       const map = L.map('houseStates').setView([40, -80], 4);
+    const map = L.map('houseStates').setView([40, -80], 4);
 
        // Add base layer
-       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-           maxZoom: 10,
-           attribution: 'Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-       }).addTo(map);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+       maxZoom: 10,
+       attribution: 'Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
    
        // Create a legend
-       const legend = L.control({ position: 'bottomright' });
-       legend.onAdd = function (map) {
-           const div = L.DomUtil.create('div', 'info legend');
+    const legend = L.control({ position: 'bottomright' });
+    legend.onAdd = function (map) {
+        const div = L.DomUtil.create('div', 'info legend');
    
            // Add a class to the legend for styling
-       div.className = 'legend-container';
+    div.className = 'legend-container';
    
-           for (const numBed of Object.keys(bedColors)) {
-               const color = getBedColors(numBed);
-               const colorLabel = `<div style="display: inline-block; width: 20px; height: 12px; background-color: ${color}"></div>`;
-               div.innerHTML +=
-                   `${colorLabel}&nbsp;&nbsp;<i>${numBed}</i><br />`;
-           }
-           return div;
-       };
-       legend.addTo(map);
+        for (const numBed of Object.keys(bedColors)) {
+            const color = getBedColors(numBed);
+            const colorLabel = `<div style="display: inline-block; width: 20px; height: 12px; background-color: ${color}"></div>`;
+            div.innerHTML +=
+               `${colorLabel}&nbsp;&nbsp;<i>${numBed}</i><br />`;
+        }
+        return div;
+    };
+    legend.addTo(map);
    
 
         // Populate the dropdown options
-        const stateDropdown = document.getElementById("stateDropdown");
-       stateDropdown.innerHTML = "";
+    const stateDropdown = document.getElementById("stateDropdown");
+    stateDropdown.innerHTML = "";
         // Add an option for "All States" to show all data initially
-        const allStatesOption = document.createElement("option");
-        allStatesOption.value = "All";
-        allStatesOption.text = "All States";
-        stateDropdown.appendChild(allStatesOption);
+    const allStatesOption = document.createElement("option");
+    allStatesOption.value = "All";
+    allStatesOption.text = "All States";
+    stateDropdown.appendChild(allStatesOption);
 
         // Add options for each state
-        Object.keys(STATE_CHOICES).forEach(state_code => {
-            const option = document.createElement("option");
-            option.value = state_code;
-            option.text = STATE_CHOICES[state_code];
-            stateDropdown.appendChild(option);
-        });
-          // Function to filter and update the map based on the selected state
-        stateDropdown.value = "all";
+    Object.keys(STATE_CHOICES).forEach(state_code => {
+        const option = document.createElement("option");
+        option.value = state_code;
+        option.text = STATE_CHOICES[state_code];
+        stateDropdown.appendChild(option);
+    });
 
-        stateDropdown.addEventListener("change", function () {
-                const selectedState = stateDropdown.replaceChild(" ","").toLowerCase();
+        //   // Function to filter and update the map based on the selected state
+        // stateDropdown.value = "all";
+
+        // stateDropdown.addEventListener("change", function () {
+        //         const selectedState = stateDropdown.replaceChild(" ","").toLowerCase();
                 
-                if (selectedState) {
-                    fetch(`http://127.0.0.1:5000/api/v1.0/state/${selectedState}`)
-                        .then(response => response.json())
-                        .then(data => {
-                            console.log(data); 
+        //         if (selectedState) {
+        //             fetch(`http://127.0.0.1:5000/api/v1.0/state/${selectedState}`)
+        //                 .then(response => response.json())
+        //                 .then(data => {
+        //                     console.log(data); 
 
                     // markers.forEach(mark => {
                     //     const selectedState = selectedState === "all" || selectedState === mark.state;
                     //     if (isVisible) {
                     //         map.addLayer(mark.marker);
-                    //     }
-                });
-            }
-            });
-    // 
-
-    // stateSelect.addEventListener('change', () => {
-    //     const selectedState = stateSelect.value.replace(" ", "").toLowerCase();
-    //     bathroomsSelect.innerHTML = ''; // Clear the existing options
-
-    //     if (selectedState) {
-    //         fetch(`http://127.0.0.1:5000/api/v1.0/state/${selectedState}`)
-    //             .then(response => response.json())
-    //             .then(data => {
-    //                 console.log(data); // Log the API response data to inspect its structure
-
+    //                 //     }
+    //             });
+    //         }
+    //         });
     //   // Function to filter and update the map based on the selected state
     //   stateDropdown.value = "All";
 
